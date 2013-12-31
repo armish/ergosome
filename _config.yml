@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Ergosome
 markdown: redcarpet
 pygments: true
-baseurl: /ergosome
+baseurl: http://ergoso.me/ 
