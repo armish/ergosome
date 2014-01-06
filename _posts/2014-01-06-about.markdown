@@ -18,7 +18,7 @@ This is mainly because we do not bother publishing small findings if they are no
 
 **Ergosome** will hopefully become the medium that I will shortcut this painfully process and write things I find worthy of sharing.
 The name of the blog is simply a synonym for [Polyribosome][wikipoly];
-and it is also a word that resonates well with the famous Latin phrase [ergo sum][wikicogito].
+and it is also a word that resonates well with the famous Latin phrase "[cogito, ergo sum][wikicogito]."
 
 Want to contact me? Feel free the check links at the bottom of this page or shoot me an e-mail at **arman@aksoy.org**.
 
