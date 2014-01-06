@@ -14,20 +14,32 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font: 20px Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { 
+	font-size: 32px;
+}
+h2 {
+	font-size: 26px;
+}
+h1 small {
+	font-size: 26px;
+	color: #aaa; 
+}
+h2 small {
+	font-size: 24px;
+	color: #aaa; 
+}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
 
 /*****************************************************************************/
 /*
@@ -39,14 +51,10 @@ a:visited { color: #a0a; }
   margin-bottom: 2em;
 }
 
-.posts li {
-  line-height: 1.75em;
-}
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 18px;
 }
 
 /*****************************************************************************/
@@ -56,9 +64,8 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 50em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -70,7 +77,7 @@ a:visited { color: #a0a; }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .title a {
@@ -100,6 +107,7 @@ a:visited { color: #a0a; }
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  padding-left: 100px;
 }
 
 .footer .contact {
@@ -109,6 +117,10 @@ a:visited { color: #a0a; }
 
 .footer .contact a {
   color: #8085C1;
+}
+
+.footer .contact p {
+	text-align: center;
 }
 
 .footer .rss {
@@ -157,4 +169,9 @@ a:visited { color: #a0a; }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+hr {
+	margin-top: 5px;
+	margin-bottom: 10px;
 }

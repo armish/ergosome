@@ -1,4 +1,5 @@
 name: Ergosome
 markdown: redcarpet
 pygments: true
-baseurl: http://ergoso.me/
+baseurl: / 
+production_url: http://ergoso.me
