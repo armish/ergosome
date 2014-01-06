@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "About"
+date:   2014-01-06 00:00:01
+categories: general 
+---
+
+Hi there!
+
+This is a blog about various things, but it is mainly about *Computational Biology*, *Systems Biology* and *Cancer Research*.
+I started this blog, just because I want to share a few humble yet probably interesting observations--I had and hopefully will have--
+and my experience throughout my research.
+
+As many of researchers already are, I am, too, frustated with the current system of publishing and making key results available for a larger communitee.
+I, also like many others in the field, have been suffering a lot from the lack of published negative results.
+I often find myself trying to investigate things that have already been studied extensively, yet there is not much information publicly available on it.
+This is mainly because we do not bother publishing small findings if they are not *interesting* enough to get published.
+
+**Ergosome** will hopefully become the medium that I will shortcut this painfully process and write things I find worthy of sharing.
+The name of the blog is simply a synonym for [Polyribosome][wikipoly];
+and it is also a word that resonates well with the famous Latin phrase [ergo sum][wikicogito].
+
+Want to contact me? Feel free the check links at the bottom of this page or shoot me an e-mail at **arman@aksoy.org**.
+
+[wikipoly]: https://en.wikipedia.org/wiki/Polysome
+[wikicogito]: http://en.wikipedia.org/wiki/Cogito_ergo_sum
