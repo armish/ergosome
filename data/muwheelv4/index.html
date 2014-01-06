@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<head>
+    <title>Recurrent Mutations in Metabolic Genes</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+    <link href="css/jquery-ui.css" type="text/css" rel="stylesheet" />
+    <link href="css/jquery.qtip.min.css" type="text/css" rel="stylesheet" />
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+</head>
+	<body>
+        <div class="container">
+            <div class="row">
+
+                <div id="info">
+                    <h1>Recurrent Mutations in Metabolic Genes</h1>
+                    <p>Click on any item to zoom in, click on the center to zoom out, mouse over the text for more information or <a href="#" id="download-wheel">download wheel</a>.</p>
+                </div>
+                <div id="vis"></div>
+                <div id="customization" class="span8 offset2">
+                    <hr>
+
+                    <h1>Customize</h1>
+
+                    <div id="numbers" class="span7">
+                        <table class="table table-striped table-compact">
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <b>Mutation range</b>
+                                    (current: <span id="range-min" class="badge badge-success"></span>
+                                    to
+                                    <span id="range-max"class="badge badge-warning"></span>)
+                                </td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><span id="range-min-min"></span></td>
+                                <td>
+                                    <div>
+                                        <div id="mutrange"></div>
+                                    </div>
+                                </td>
+                                <td><span id="range-max-max"></span></td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div id="types" class="span6 offset1">
+                        <hr>
+
+                        <table class="table table-striped table-compact">
+                            <thead>
+                            <tr>
+                                <th>Mutation type</th>
+                                <th>Overall count</th>
+                                <th>Show?</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr id="frame_shift_del">
+                                <th>Frame shift deletion</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="frame_shift_ins">
+                                <th>Frame shift insertion</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="in_frame_del">
+                                <th>In frame deletion</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="in_frame_ins">
+                                <th>In frame insertion</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="missense">
+                                <th>Missense mutation</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="nonsense">
+                                <th>Nonsense mutation</th>
+                                <td class="count">0</td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="rna">
+                                <th>RNA</th>
+                                <td class="count"></td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="splice_site">
+                                <th>Splice site</th>
+                                <td class="count"></td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="splice_site_del">
+                                <th>Splice site deletion</th>
+                                <td class="count"></td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            <tr id="splice_site_ins">
+                                <th>Splice site insertion</th>
+                                <td class="count"></td>
+                                <td>
+                                    <input type="checkbox" checked="checked">
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+	<hr />
+
+	<div class="footer">
+	  <h3>More information</h3>
+	  <div class="span6 offset6">
+		<table class="table table-striped table-compact">
+		 <tr>
+		  <th>Mutation data</th>
+		  <td><a href="http://dx.doi.org/10.7303/syn1710680.4" target="_blank">doi:10.7303/syn1710680.4</a></td>
+		 </tr>
+		 <tr>
+		  <th>Counts+Locations (k&gt;1)</th>
+		  <td><a href="data/mutations.tsv" target="_blank">mutations.tsv</a></td>
+		 </tr>
+		 <tr>
+		  <th>EC classes</th>
+		  <td><a href="data/enzymes.tsv" target="_blank">enzymes.tsv</a></td>
+		 </tr>
+		 <tr>
+		  <th>Visualization code</th>
+		  <td><a href="http://www.jasondavies.com/coffee-wheel/">D3-based Coffee Flavour Wheel</a></td>
+		 </tr>
+		 <tr>
+		  <th>Further credits</th>
+		  <td>
+			<abbr title="B. Arman Aksoy">BAA</abbr> |
+			<abbr title="Ed Reznik">ER</abbr> |
+			<abbr title="Cyriac Kandoth">CK</abbr> |
+			<abbr title="Niki Schultz">NS</abbr> |
+			<abbr title="Martin Miller">MM</abbr> |
+			<abbr title="Chris Sander">CS</abbr>
+		  </td>
+		 </tr>
+		 <tr>
+		  <th>Home page</th>
+		  <td><a href="http://ergoso.me">Ergoso.me</a></td>
+		 </tr>
+		 <tr>
+		  <th>Citation</th>
+		  <td><a href="http://dx.doi.org/10.6084/m9.figshare.894458" target="_blank">doi:10.6084/m9.figshare.894458</a></td> 
+		</table>
+	  </div>
+	</div>
+
+        <!-- templates -->
+        <script type="text/template" id="muttype-tmpl">
+            <span class="badge">{{length}}</span>
+        </script>
+
+        <script type="text/template" id="wtooltip-goi-tmpl">
+            <tr class="mutated-gene">
+                <th>
+                    <b>Gene of interest</b>
+                </th>
+                <td>
+                    <a href="http://www.cbioportal.org/public-portal/cross_cancer.do?cancer_study_id=all&data_priority=1&case_ids=&gene_set_choice=user-defined-list&gene_list={{gene}}&clinical_param_selection=null&tab_index=tab_visualize&Action=Submit" target="_blank">
+                        {{gene}}
+                    </a>
+                </td>
+            </tr>
+        </script>
+
+        <script type="text/template" id="wtooltip-mg-tmpl">
+            <tr class="mutated-genes">
+                <th>
+                    <b>Mutated genes</b>
+                </th>
+                <td>
+                                <span class="badge">
+                                    {{mutatedGenes.split(" ").length}}/{{enzyme.genes.split(",").length}}
+                                </span>
+                    <br>
+                    <a href="http://www.cbioportal.org/public-portal/cross_cancer.do?cancer_study_id=all&data_priority=1&case_ids=&gene_set_choice=user-defined-list&gene_list={{mutatedGenes}}&clinical_param_selection=null&tab_index=tab_visualize&Action=Submit" target="_blank">
+                        {{mutatedGenes}}
+                    </a>
+                </td>
+            </tr>
+        </script>
+
+        <script type="text/template" id="wtooltip-base-tmpl">
+            <div>
+                <table class="table table-striped table-bordered table-compact">
+                    <thead>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>
+                                <b>Enzyme </b>
+                            </th>
+                            <td>
+                                <a href="http://www.genome.jp/dbget-bin/www_bget?{{enzyme.ecnumber}}" target="_blank">
+                                    {{enzyme.name}}
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th># of mutations</th>
+                            <td>
+                                <span class="badge badge-warning">{{numOfMutations}}</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </script>
+        <!-- end of templates -->
+
+		<script src="js/jquery-2.0.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/jquery.qtip.min.js"></script>
+        <script src="js/underscore-min.js"></script>
+        <script type="text/javascript">
+            _.templateSettings = {
+                interpolate : /\{\{(.+?)\}\}/g
+            };
+        </script>
+		<script src="js/d3.v3.min.js"></script>
+        <script src="js/colorbrewer.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/Blob.js"></script>
+        <script src="js/FileSaver.js"></script>
+        <script src="js/wheel.js"></script>
+	</body>
+</html>

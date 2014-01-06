@@ -1,0 +1,31 @@
+body {
+    padding-bottom: 50px;
+	text-align: center;
+}
+
+p#intro {
+  text-align: center;
+  margin: 1em 0;
+}
+
+#mutrange {
+    width: 500px;
+}
+
+#numbers {
+    text-align: center;
+}
+
+#numbers table {
+    width: 600px;
+}
+
+#range-min, #range-max {
+    font-weight: bold;
+}
+
+.wider-tooltip {
+    max-width: 500px !important;
+}
+
+

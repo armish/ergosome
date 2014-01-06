@@ -1,0 +1,1158 @@
+ecnumber	genes	name	reaction
+ec:1.1.1.1	ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7	alcohol dehydrogenase	a primary alcohol + NAD+ = an aldehyde + NADH + H+
+ec:1.1.1.2	AKR1A1	alcohol dehydrogenase (NADP+)	an alcohol + NADP+ = an aldehyde + NADPH + H+
+ec:1.1.1.8	GPD1L,GPD1	glycerol-3-phosphate dehydrogenase (NAD+)	sn-glycerol 3-phosphate + NAD+ = glycerone phosphate + NADH + H+
+ec:1.1.1.10	DCXR	L-xylulose reductase	xylitol + NADP+ = L-xylulose + NADPH + H+
+ec:1.1.1.14	SORD	L-iditol 2-dehydrogenase	L-iditol + NAD+ = L-sorbose + NADH + H+
+ec:1.1.1.21	AKR1B1,AKR1B10	aldehyde reductase	alditol + NAD(P)+ = aldose + NAD(P)H + H+
+ec:1.1.1.22	UGDH	UDP-glucose 6-dehydrogenase	UDP-alpha-D-glucose + 2 NAD+ + H2O = UDP-alpha-D-glucuronate + 2 NADH + 2 H+
+ec:1.1.1.27	LDHAL6A,LDHA,LDHB,LDHC,LDHAL6B	L-lactate dehydrogenase	(S)-lactate + NAD+ = pyruvate + NADH + H+
+ec:1.1.1.30	BDH2,BDH1	3-hydroxybutyrate dehydrogenase	(R)-3-hydroxybutanoate + NAD+ = acetoacetate + NADH + H+
+ec:1.1.1.31	HIBADH	3-hydroxyisobutyrate dehydrogenase	3-hydroxy-2-methylpropanoate + NAD+ = 2-methyl-3-oxopropanoate + NADH + H+
+ec:1.1.1.34	HMGCR	hydroxymethylglutaryl-CoA reductase (NADPH)	(R)-mevalonate + CoA + 2 NADP+ = (S)-3-hydroxy-3-methylglutaryl-CoA + 2 NADPH + 2 H+
+ec:1.1.1.35	EHHADH,HSD17B10,HADH,HSD17B4	3-hydroxyacyl-CoA dehydrogenase	(S)-3-hydroxyacyl-CoA + NAD+ = 3-oxoacyl-CoA + NADH + H+
+ec:1.1.1.37	MDH1,MDH2	malate dehydrogenase	(S)-malate + NAD+ = oxaloacetate + NADH + H+
+ec:1.1.1.38	ME2	malate dehydrogenase (oxaloacetate-decarboxylating)	(S)-malate + NAD+ = pyruvate + CO2 + NADH
+ec:1.1.1.40	ME3,ME1	malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)	(S)-malate + NADP+ = pyruvate + CO2 + NADPH
+ec:1.1.1.41	IDH3A,IDH3B,IDH3G	isocitrate dehydrogenase (NAD+)	isocitrate + NAD+ = 2-oxoglutarate + CO2 + NADH
+ec:1.1.1.42	IDH1,IDH2	isocitrate dehydrogenase (NADP+)	isocitrate + NADP+ = 2-oxoglutarate + CO2 + NADPH + H+ (overall reaction)
+ec:1.1.1.44	PGD	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)	6-phospho-D-gluconate + NADP+ = D-ribulose 5-phosphate + CO2 + NADPH + H+
+ec:1.1.1.45	CRYL1	L-gulonate 3-dehydrogenase	L-gulonate + NAD+ = 3-dehydro-L-gulonate + NADH + H+
+ec:1.1.1.47	H6PD	glucose 1-dehydrogenase	beta-D-glucose + NAD(P)+ = D-glucono-1,5-lactone + NAD(P)H + H+
+ec:1.1.1.49	G6PD	glucose-6-phosphate dehydrogenase	D-glucose 6-phosphate + NADP+ = 6-phospho-D-glucono-1,5-lactone + NADPH + H+
+ec:1.1.1.50	AKR1C4	3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)	a 3alpha-hydroxysteroid + NAD(P)+ = a 3-oxosteroid + NAD(P)H + H+
+ec:1.1.1.62	HSD17B1,HSD17B2,HSD17B12,HSD17B7,HSD17B8,HSD17B6	17beta-estradiol 17-dehydrogenase	17beta-estradiol + NAD(P)+ = estrone + NAD(P)H + H+
+ec:1.1.1.64	HSD17B3,AKR1C3	testosterone 17beta-dehydrogenase (NADP+)	testosterone + NADP+ = androstenedione + NADPH + H+
+ec:1.1.1.79	GRHPR	glyoxylate reductase (NADP+)	glycolate + NADP+ = glyoxylate + NADPH + H+
+ec:1.1.1.81	GRHPR	hydroxypyruvate reductase	D-glycerate + NAD(P)+ = hydroxypyruvate + NAD(P)H + H+
+ec:1.1.1.95	PHGDH	phosphoglycerate dehydrogenase	3-phospho-D-glycerate + NAD+ = 3-phosphonooxypyruvate + NADH + H+
+ec:1.1.1.102	KDSR	3-dehydrosphinganine reductase	sphinganine + NADP+ = 3-dehydrosphinganine + NADPH + H+
+ec:1.1.1.105	SDR16C5,HSD17B6	all-trans-retinol dehydrogenase (NAD+)	all-trans-retinol---[cellular-retinol-binding-protein] + NAD+ = all-trans-retinal---[cellular-retinol-binding-protein] + NADH + H+
+ec:1.1.1.141	HPGD	15-hydroxyprostaglandin dehydrogenase (NAD+)	(5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate + NAD+ = (5Z,13E)-11alpha-hydroxy-9,15-dioxoprost-5,13-dienoate + NADH + H+
+ec:1.1.1.145	HSD3B1,HSD3B2	3beta-hydroxy-Delta5-steroid dehydrogenase	a 3beta-hydroxy-Delta5-steroid + NAD+ = a 3-oxo-Delta5-steroid + NADH + H+
+ec:1.1.1.146	HSD11B1	11beta-hydroxysteroid dehydrogenase	an 11beta-hydroxysteroid + NADP+ = an 11-oxosteroid + NADPH + H+
+ec:1.1.1.153	SPR	sepiapterin reductase (L-erythro-7,8-dihydrobiopterin forming)	L-erythro-7,8-dihydrobiopterin + NADP+ = sepiapterin + NADPH + H+
+ec:1.1.1.170	NSDHL	3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	a 3beta-hydroxysteroid-4alpha-carboxylate + NAD(P)+ = a 3-oxosteroid + CO2 + NAD(P)H
+ec:1.1.1.178	HSD17B10	3-hydroxy-2-methylbutyryl-CoA dehydrogenase	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA + NAD+ = 2-methylacetoacetyl-CoA + NADH + H+
+ec:1.1.1.179	DHDH	D-xylose 1-dehydrogenase (NADP+)	D-xylose + NADP+ = D-xylono-1,5-lactone + NADPH + H+
+ec:1.1.1.181	HSD3B7	cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	cholest-5-ene-3beta,7alpha-diol + NAD+ = 7alpha-hydroxycholest-4-en-3-one + NADH + H+
+ec:1.1.1.184	CBR1,CBR3	carbonyl reductase (NADPH)	R-CHOH-R' + NADP+ = R-CO-R' + NADPH + H+
+ec:1.1.1.188	AKR1C3	prostaglandin-F synthase	(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate + NADP+ = (5Z,13E)-(15S)-9alpha,15-dihydroxy-11-oxoprosta-5,13-dienoate + NADPH + H+
+ec:1.1.1.189	CBR1	prostaglandin-E2 9-reductase	(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate + NADP+ = (5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dienoate + NADPH + H+
+ec:1.1.1.197	CBR1	15-hydroxyprostaglandin dehydrogenase (NADP+)	(13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-13-enoate + NADP+ = (13E)-11alpha-hydroxy-9,15-dioxoprost-13-enoate + NADPH + H+
+ec:1.1.1.205	IMPDH1,IMPDH2	IMP dehydrogenase	IMP + NAD+ + H2O = XMP + NADH + H+
+ec:1.1.1.211	HADHA	long-chain-3-hydroxyacyl-CoA dehydrogenase	a long-chain (S)-3-hydroxyacyl-CoA + NAD+ = a long-chain 3-oxoacyl-CoA + NADH + H+
+ec:1.1.1.213	AKR1C4,AKR1C1,AKR1C2,AKR1C3	3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)	a 3alpha-hydroxysteroid + NAD(P)+ = a 3-oxosteroid + NAD(P)H + H+
+ec:1.1.1.225	AKR1C4	chlordecone reductase	chlordecone alcohol + NADP+ = chlordecone + NADPH + H+
+ec:1.1.1.239	HSD17B2,HSD17B8,HSD17B6	3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)	testosterone + NAD+ = androstenedione + NADH + H+
+ec:1.1.1.263	AKR1E2	1,5-anhydro-D-fructose reductase	1,5-anhydro-D-glucitol + NADP+ = 1,5-anhydro-D-fructose + NADPH + H+
+ec:1.1.1.270	HSD17B7	3beta-hydroxysteroid 3-dehydrogenase	a 3beta-hydroxysteroid + NADP+ = a 3-oxosteroid + NADPH + H+
+ec:1.1.1.271	TSTA3	GDP-L-fucose synthase	GDP-beta-L-fucose + NADP+ = GDP-4-dehydro-6-deoxy-alpha-D-mannose + NADPH + H+
+ec:1.1.1.284	ADH5	S-(hydroxymethyl)glutathione dehydrogenase	S-(hydroxymethyl)glutathione + NAD(P)+ = S-formylglutathione + NAD(P)H + H+
+ec:1.1.1.330	HSD17B12	very-long-chain 3-oxoacyl-CoA reductase	a very-long-chain (3R)-3-hydroxyacyl-CoA + NADP+ = a very-long-chain 3-oxoacyl-CoA + NADPH + H+
+ec:1.1.2.4	LDHD	D-lactate dehydrogenase (cytochrome)	(R)-lactate + 2 ferricytochrome c = pyruvate + 2 ferrocytochrome c + 2 H+
+ec:1.1.3.15	HAO2,HAO1	(S)-2-hydroxy-acid oxidase	an (S)-2-hydroxy carboxylate + O2 = a 2-oxo carboxylate + H2O2
+ec:1.1.4.1	VKORC1	vitamin-K-epoxide reductase (warfarin-sensitive)	2-methyl-3-phytyl-1,4-naphthoquinone + oxidized dithiothreitol = 2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone + 1,4-dithiothreitol
+ec:1.1.5.3	GPD2	glycerol-3-phosphate dehydrogenase	sn-glycerol 3-phosphate + a quinone = glycerone phosphate + a quinol
+ec:1.1.99.1	CHDH	choline dehydrogenase	choline + acceptor = betaine aldehyde + reduced acceptor
+ec:1.1.99.2	L2HGDH	2-hydroxyglutarate dehydrogenase	(S)-2-hydroxyglutarate + acceptor = 2-oxoglutarate + reduced acceptor
+ec:1.1.99.24	ADHFE1	hydroxyacid-oxoacid transhydrogenase	(S)-3-hydroxybutanoate + 2-oxoglutarate = acetoacetate + (R)-2-hydroxyglutarate
+ec:1.2.1.3	ALDH2,ALDH1B1,ALDH9A1,ALDH3A2,ALDH7A1	aldehyde dehydrogenase (NAD+)	an aldehyde + NAD+ + H2O = a carboxylate + NADH + H+
+ec:1.2.1.5	ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2	aldehyde dehydrogenase [NAD(P)+]	an aldehyde + NAD(P)+ + H2O = a carboxylate + NAD(P)H + H+
+ec:1.2.1.8	ALDH7A1	betaine-aldehyde dehydrogenase	betaine aldehyde + NAD+ + H2O = betaine + NADH + 2 H+
+ec:1.2.1.12	GAPDH,GAPDHS	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	D-glyceraldehyde 3-phosphate + phosphate + NAD+ = 3-phospho-D-glyceroyl phosphate + NADH + H+
+ec:1.2.1.18	ALDH6A1	malonate-semialdehyde dehydrogenase (acetylating)	3-oxopropanoate + CoA + NAD(P)+ = acetyl-CoA + CO2 + NAD(P)H
+ec:1.2.1.24	ALDH5A1	succinate-semialdehyde dehydrogenase (NAD+)	succinate semialdehyde + NAD+ + H2O = succinate + NADH + 2 H+
+ec:1.2.1.27	ALDH6A1	methylmalonate-semialdehyde dehydrogenase (acylating)	2-methyl-3-oxopropanoate + CoA + H2O + NAD+ = propanoyl-CoA + HCO3- + NADH
+ec:1.2.1.31	ALDH7A1	L-aminoadipate-semialdehyde dehydrogenase	(S)-2-amino-6-oxohexanoate + NAD(P)+ + H2O = L-2-aminoadipate + NAD(P)H + H+
+ec:1.2.1.36	ALDH1A1,ALDH1A2	retinal dehydrogenase	retinal + NAD+ + H2O = retinoate + NADH + 2 H+
+ec:1.2.1.41	ALDH18A1	glutamate-5-semialdehyde dehydrogenase	L-glutamate 5-semialdehyde + phosphate + NADP+ = L-glutamyl 5-phosphate + NADPH + H+
+ec:1.2.1.47	ALDH9A1	4-trimethylammoniobutyraldehyde dehydrogenase	4-trimethylammoniobutanal + NAD+ + H2O = 4-trimethylammoniobutanoate + NADH + 2 H+
+ec:1.2.1.88	ALDH4A1	L-glutamate gamma-semialdehyde dehydrogenase	L-glutamate 5-semialdehyde + NAD+ + H2O = L-glutamate + NADH + H+
+ec:1.2.3.1	AOX1	aldehyde oxidase	an aldehyde + H2O + O2 = a carboxylate + H2O2
+ec:1.2.4.1	PDHA1,PDHA2,PDHB	pyruvate dehydrogenase (acetyl-transferring)	pyruvate +
+ec:1.2.4.2	OGDH,DHTKD1,OGDHL	oxoglutarate dehydrogenase (succinyl-transferring)	2-oxoglutarate +
+ec:1.2.4.4	BCKDHA,BCKDHB	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	3-methyl-2-oxobutanoate +
+ec:1.3.1.2	DPYD	dihydropyrimidine dehydrogenase (NADP+)	5,6-dihydrouracil + NADP+ = uracil + NADPH + H+
+ec:1.3.1.3	AKR1D1	Delta4-3-oxosteroid 5beta-reductase	5beta-cholestan-3-one + NADP+ = cholest-4-en-3-one + NADPH + H+
+ec:1.3.1.20	AKR1C4,AKR1C1,AKR1C2,DHDH	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase	trans-1,2-dihydrobenzene-1,2-diol + NADP+ = catechol + NADPH + H+
+ec:1.3.1.21	DHCR7	7-dehydrocholesterol reductase	cholesterol + NADP+ = cholesta-5,7-dien-3beta-ol + NADPH + H+
+ec:1.3.1.22	SRD5A1,SRD5A2,SRD5A3	3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)	a 3-oxo-5alpha-steroid + NADP+ = a 3-oxo-Delta4-steroid + NADPH + H+
+ec:1.3.1.24	BLVRA,BLVRB	biliverdin reductase	bilirubin + NAD(P)+ = biliverdin + NAD(P)H + H+
+ec:1.3.1.34	DECR1,DECR2	2,4-dienoyl-CoA reductase (NADPH)	trans-2,3-didehydroacyl-CoA + NADP+ = trans,trans-2,3,4,5-tetradehydroacyl-CoA + NADPH + H+
+ec:1.3.1.38	MECR,PECR	trans-2-enoyl-CoA reductase (NADPH)	acyl-CoA + NADP+ = trans-2,3-dehydroacyl-CoA + NADPH + H+
+ec:1.3.1.48	PTGR2,PTGR1	15-oxoprostaglandin 13-oxidase	11alpha-hydroxy-9,15-dioxoprostanoate + NAD(P)+ = (13E)-11alpha-hydroxy-9,15-dioxoprost-13-enoate + NAD(P)H + H+
+ec:1.3.1.70	TM7SF2	Delta14-sterol reductase	4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol + NADP+ = 4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol + NADPH + H+
+ec:1.3.1.72	DHCR24	Delta24-sterol reductase	5alpha-cholest-7-en-3beta-ol + NADP+ = 5alpha-cholesta-7,24-dien-3beta-ol + NADPH + H+
+ec:1.3.1.74	PTGR1	2-alkenal reductase	n-alkanal + NAD(P)+ = alk-2-enal + NAD(P)H + H+
+ec:1.3.1.88	DUS1L	tRNA-dihydrouridine16/17 synthase [NAD(P)+]	5,6-dihydrouracil16 in tRNA + NAD(P)+ = uracil16 in tRNA + NAD(P)H + H+
+ec:1.3.1.89	DUS3L	tRNA-dihydrouridine47 synthase [NAD(P)+]	5,6-dihydrouracil47 in tRNA + NAD(P)+ = uracil47 in tRNA + NAD(P)H + H+
+ec:1.3.1.90	DUS4L	tRNA-dihydrouridine20a/20b synthase [NAD(P)+]	5,6-dihydrouracil20a in tRNA + NAD(P)+ = uracil20a in tRNA + NAD(P)H + H+
+ec:1.3.1.91	DUS2	tRNA-dihydrouridine20 synthase [NAD(P)+]	5,6-dihydrouracil20 in tRNA + NAD(P)+ = uracil20 in tRNA + NAD(P)H + H+
+ec:1.3.1.93	TECR	very-long-chain enoyl-CoA reductase	a very-long-chain acyl-CoA + NADP+ = a very-long-chain trans-2,3-dehydroacyl-CoA + NADPH + H+
+ec:1.3.1.94	SRD5A3	polyprenol reductase	ditrans,polycis-dolichol + NADP+ = ditrans,polycis-polyprenol + NADPH + H+
+ec:1.3.3.3	CPOX	coproporphyrinogen oxidase	coproporphyrinogen III + O2 + 2 H+ = protoporphyrinogen-IX + 2 CO2 + 2 H2O
+ec:1.3.3.4	PPOX	protoporphyrinogen oxidase	protoporphyrinogen IX + 3 O2 = protoporphyrin IX + 3 H2O2
+ec:1.3.3.6	ACOX1,ACOX3	acyl-CoA oxidase	acyl-CoA + O2 = trans-2,3-dehydroacyl-CoA + H2O2
+ec:1.3.5.1	SDHA,SDHB	succinate dehydrogenase (ubiquinone)	succinate + ubiquinone = fumarate + ubiquinol
+ec:1.3.5.2	DHODH	dihydroorotate dehydrogenase (quinone)	(S)-dihydroorotate + a quinone = orotate + a quinol
+ec:1.3.8.1	ACADS	short-chain acyl-CoA dehydrogenase	a short-chain acyl-CoA + electron-transfer flavoprotein = a short-chain trans-2,3-dehydroacyl-CoA + reduced electron-transfer flavoprotein
+ec:1.3.8.4	IVD	isovaleryl-CoA dehydrogenase	isovaleryl-CoA + electron-transfer flavoprotein = 3-methylcrotonyl-CoA + reduced electron-transfer flavoprotein
+ec:1.3.8.6	GCDH	glutaryl-CoA dehydrogenase	glutaryl-CoA + electron-transfer flavoprotein = (E)-but-2-enoyl-CoA + CO2 + reduced electron-transfer flavoprotein (overall reaction)
+ec:1.3.8.7	ACADM	medium-chain acyl-CoA dehydrogenase	a medium-chain acyl-CoA + electron-transfer flavoprotein = a medium-chain trans-2,3-dehydroacyl-CoA + reduced electron-transfer flavoprotein
+ec:1.3.8.8	ACADL	long-chain acyl-CoA dehydrogenase	a long-chain acyl-CoA + electron-transfer flavoprotein = a long-chain trans-2,3-dehydroacyl-CoA + reduced electron-transfer flavoprotein
+ec:1.3.8.9	ACADVL	very-long-chain acyl-CoA dehydrogenase	a very-long-chain acyl-CoA + electron-transfer flavoprotein = a very-long-chain trans-2,3-dehydroacyl-CoA + reduced electron-transfer flavoprotein
+ec:1.3.99.12	ACADSB	2-methylacyl-CoA dehydrogenase	2-methylbutanoyl-CoA + acceptor = 2-methylbut-2-enoyl-CoA + reduced acceptor
+ec:1.3.99.23	RETSAT	all-trans-retinol 13,14-reductase	all-trans-13,14-dihydroretinol + acceptor = all-trans-retinol + reduced acceptor
+ec:1.4.1.3	GLUD1,GLUD2	glutamate dehydrogenase [NAD(P)+]	L-glutamate + H2O + NAD(P)+ = 2-oxoglutarate + NH3 + NAD(P)H + H+
+ec:1.4.3.1	DDO	D-aspartate oxidase	D-aspartate + H2O + O2 = oxaloacetate + NH3 + H2O2
+ec:1.4.3.2	IL4I1	L-amino-acid oxidase	an L-amino acid + H2O + O2 = a 2-oxo carboxylate + NH3 + H2O2
+ec:1.4.3.3	DAO	D-amino-acid oxidase	a D-amino acid + H2O + O2 = a 2-oxo carboxylate + NH3 + H2O2
+ec:1.4.3.4	MAOA,MAOB	monoamine oxidase	RCH2NHR' + H2O + O2 = RCHO + R'NH2 + H2O2
+ec:1.4.3.5	PNPO	pyridoxal 5'-phosphate synthase	pyridoxamine 5'-phosphate + H2O + O2 = pyridoxal 5'-phosphate + NH3 + H2O2
+ec:1.4.3.13	LOX	protein-lysine 6-oxidase	peptidyl-L-lysyl-peptide + O2 + H2O = peptidyl-allysyl-peptide + NH3 + H2O2
+ec:1.4.3.21	AOC2,AOC3	primary-amine oxidase	RCH2NH2 + H2O + O2 = RCHO + NH3 + H2O2
+ec:1.4.3.22	AOC1	diamine oxidase	histamine + H2O + O2 = (imidazol-4-yl)acetaldehyde + NH3 + H2O2
+ec:1.4.4.2	GLDC	glycine dehydrogenase (decarboxylating)	glycine + H-protein-lipoyllysine = H-protein-S-aminomethyldihydrolipoyllysine + CO2
+ec:1.5.1.2	PYCR2,PYCR1,PYCRL	pyrroline-5-carboxylate reductase	L-proline + NAD(P)+ = 1-pyrroline-5-carboxylate + NAD(P)H + H+
+ec:1.5.1.3	DHFR,DHFRL1	dihydrofolate reductase	5,6,7,8-tetrahydrofolate + NADP+ = 7,8-dihydrofolate + NADPH + H+
+ec:1.5.1.5	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+)	5,10-methylenetetrahydrofolate + NADP+ = 5,10-methenyltetrahydrofolate + NADPH + H+
+ec:1.5.1.6	ALDH1L1,ALDH1L2	formyltetrahydrofolate dehydrogenase	10-formyltetrahydrofolate + NADP+ + H2O = tetrahydrofolate + CO2 + NADPH + H+
+ec:1.5.1.8	AASS	saccharopine dehydrogenase (NADP+, L-lysine-forming)	N6-(L-1,3-dicarboxypropyl)-L-lysine + NADP+ + H2O = L-lysine + 2-oxoglutarate + NADPH + H+
+ec:1.5.1.9	AASS	saccharopine dehydrogenase (NAD+, L-glutamate-forming)	N6-(L-1,3-dicarboxypropyl)-L-lysine + NAD+ + H2O = L-glutamate + (S)-2-amino-6-oxohexanoate + NADH + H+
+ec:1.5.1.15	MTHFD2,MTHFD2L	methylenetetrahydrofolate dehydrogenase (NAD+)	5,10-methylenetetrahydrofolate + NAD+ = 5,10-methenyltetrahydrofolate + NADH + H+
+ec:1.5.1.20	MTHFR	methylenetetrahydrofolate reductase [NAD(P)H]	5-methyltetrahydrofolate + NAD(P)+ = 5,10-methylenetetrahydrofolate + NAD(P)H + H+
+ec:1.5.1.30	BLVRB	flavin reductase (NADPH)	reduced riboflavin + NADP+ = riboflavin + NADPH + H+
+ec:1.5.1.34	QDPR	6,7-dihydropteridine reductase	a 5,6,7,8-tetrahydropteridine + NAD(P)+ = a 6,7-dihydropteridine + NAD(P)H + H+
+ec:1.5.3.1	PIPOX	sarcosine oxidase	sarcosine + H2O + O2 = glycine + formaldehyde + H2O2
+ec:1.5.3.7	PIPOX	L-pipecolate oxidase	L-pipecolate + O2 = (S)-2,3,4,5-tetrahydropyridine-2-carboxylate + H2O2
+ec:1.5.3.13	PAOX	N1-acetylpolyamine oxidase	N1-acetylspermidine + O2 + H2O = putrescine + 3-acetamidopropanal + H2O2
+ec:1.5.3.16	SMOX	spermine oxidase	spermine + O2 + H2O = spermidine + 3-aminopropanal + H2O2
+ec:1.5.5.1	ETFDH	electron-transferring-flavoprotein dehydrogenase	reduced electron-transferring flavoprotein + ubiquinone = electron-transferring flavoprotein + ubiquinol
+ec:1.5.8.3	SARDH	sarcosine dehydrogenase	sarcosine + H2O + electron-transfer flavoprotein = glycine + formaldehyde + reduced electron-transfer flavoprotein
+ec:1.5.8.4	DMGDH	dimethylglycine dehydrogenase	N,N-dimethylglycine + electron-transfer flavoprotein + H2O = sarcosine + formaldehyde + reduced electron-transfer flavoprotein
+ec:1.5.99.8	PRODH	proline dehydrogenase	L-proline + acceptor = (S)-1-pyrroline-5-carboxylate + reduced acceptor
+ec:1.6.1.2	NNT	NAD(P)+ transhydrogenase (Re/Si-specific)	NADPH + NAD+ = NADP+ + NADH
+ec:1.6.2.2	CYB5R3,CYB5R2,CYB5R1	cytochrome-b5 reductase	NADH + 2 ferricytochrome b5 = NAD+ + H+ + 2 ferrocytochrome b5
+ec:1.6.2.4	POR	NADPH---hemoprotein reductase	NADPH + H+ + n oxidized hemoprotein = NADP+ + n reduced hemoprotein
+ec:1.6.3.1	DUOX2,DUOX1	NAD(P)H oxidase	NAD(P)H + H+ + O2 = NAD(P)+ + H2O2
+ec:1.6.5.2	NQO1	NAD(P)H dehydrogenase (quinone)	NAD(P)H + H+ + a quinone = NAD(P)+ + a hydroquinone
+ec:1.6.5.3	NDUFS7,ND1,ND2,ND3,ND4,ND4L,ND5,ND6,NDUFS1,NDUFS2,NDUFS3,NDUFV1,NDUFS8,NDUFV2	NADH:ubiquinone reductase (H+-translocating)	NADH + ubiquinone + 6 H+[side 1] = NAD+ + ubiquinol + 7 H+[side 2]
+ec:1.6.5.5	CRYZ	NADPH:quinone reductase	NADPH + H+ + 2 quinone = NADP+ + 2 semiquinone
+ec:1.6.99.3	NDUFS7,NDUFS1,NDUFS2,NDUFS3,NDUFV1,NDUFS8,NDUFV2	NADH dehydrogenase	NADH + H+ + acceptor = NAD+ + reduced acceptor
+ec:1.7.1.7	GMPR,GMPR2	GMP reductase	IMP + NH3 + NADP+ = GMP + NADPH + H+
+ec:1.8.1.4	DLD	dihydrolipoyl dehydrogenase	protein N6-(dihydrolipoyl)lysine + NAD+ = protein N6-(lipoyl)lysine + NADH + H+
+ec:1.8.1.7	GSR	glutathione-disulfide reductase	2 glutathione + NADP+ = glutathione disulfide + NADPH + H+
+ec:1.8.1.8	NXNL2,NXN	protein-disulfide reductase	protein-dithiol + NAD(P)+ = protein-disulfide + NAD(P)H + H+
+ec:1.8.1.9	TXNRD2,TXNRD3,TXNRD1	thioredoxin-disulfide reductase	thioredoxin + NADP+ = thioredoxin disulfide + NADPH + H+
+ec:1.8.3.1	SUOX	sulfite oxidase	sulfite + O2 + H2O = sulfate + H2O2
+ec:1.8.3.2	QSOX2,QSOX1	thiol oxidase	2 R'C(R)SH + O2 = R'C(R)S-S(R)CR' + H2O2
+ec:1.8.3.5	PCYOX1	prenylcysteine oxidase	an S-prenyl-L-cysteine + O2 + H2O = a prenal + L-cysteine + H2O2
+ec:1.8.3.6	PCYOX1	farnesylcysteine lyase	S-(2E,6E)-farnesyl-L-cysteine + O2 + H2O = (2E,6E)-farnesal + L-cysteine + H2O2
+ec:1.8.4.2	TXNDC12	protein-disulfide reductase (glutathione)	2 glutathione + protein-disulfide = glutathione-disulfide + protein-dithiol
+ec:1.8.4.11	MSRA	peptide-methionine (S)-S-oxide reductase	peptide-L-methionine + thioredoxin disulfide + H2O = peptide-L-methionine (S)-S-oxide + thioredoxin
+ec:1.8.4.12	MSRB2,MSRB3,MSRB1	peptide-methionine (R)-S-oxide reductase	peptide-L-methionine + thioredoxin disulfide + H2O = peptide-L-methionine (R)-S-oxide + thioredoxin
+ec:1.8.98.2	SRXN1	sulfiredoxin	peroxiredoxin-(S-hydroxy-S-oxocysteine) + ATP + 2 R-SH = peroxiredoxin-(S-hydroxycysteine) + ADP + phosphate + R-S-S-R
+ec:1.9.3.1	COX1	cytochrome-c oxidase	4 ferrocytochrome c + O2 + 4 H+ = 4 ferricytochrome c + 2 H2O
+ec:1.10.2.2	UQCRFS1	ubiquinol---cytochrome-c reductase	QH2 + 2 ferricytochrome c = Q + 2 ferrocytochrome c + 2 H+
+ec:1.10.99.2	NQO2	ribosyldihydronicotinamide dehydrogenase (quinone)	1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide + a quinone = 1-(beta-D-ribofuranosyl)nicotinamide + a hydroquinone
+ec:1.11.1.6	CAT	catalase	2 H2O2 = O2 + 2 H2O
+ec:1.11.1.7	LPO,EPX,PRDX6	peroxidase	2 phenolic donor + H2O2 = 2 phenoxyl radical of the donor + 2 H2O
+ec:1.11.1.8	TPO	iodide peroxidase	2 iodide + H2O2 + 2 H+ = diiodine + 2 H2O
+ec:1.11.1.9	GPX6,GPX1,GPX2,GPX3,GPX5,GPX7,GPX8	glutathione peroxidase	2 glutathione + H2O2 = glutathione disulfide + 2 H2O
+ec:1.11.1.12	GPX4	phospholipid-hydroperoxide glutathione peroxidase	2 glutathione + a lipid hydroperoxide = glutathione disulfide + lipid + 2 H2O
+ec:1.11.1.15	PRDX4,PRDX3,PRDX5,PRDX1,PRDX2,PRDX6	peroxiredoxin	2 R'-SH + ROOH = R'-S-S-R' + H2O + ROH
+ec:1.11.1.20	FAM213B	prostamide/prostaglandin F2alpha synthase	thioredoxin + (5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxy-prosta-5,13-dienoate = thioredoxin disulfide + (5Z,9alpha,11alpha,13E,15S)-9,11,15-trihydroxyprosta-5,13-dienoate
+ec:1.11.2.2	MPO	myeloperoxidase	Cl- + H2O2 + H+ = HClO + H2O
+ec:1.13.11.5	HGD	homogentisate 1,2-dioxygenase	homogentisate + O2 = 4-maleylacetoacetate
+ec:1.13.11.6	HAAO	3-hydroxyanthranilate 3,4-dioxygenase	3-hydroxyanthranilate + O2 = 2-amino-3-carboxymuconate semialdehyde
+ec:1.13.11.11	TDO2	tryptophan 2,3-dioxygenase	L-tryptophan + O2 = N-formyl-L-kynurenine
+ec:1.13.11.19	ADO	cysteamine dioxygenase	2-aminoethanethiol + O2 = hypotaurine
+ec:1.13.11.20	CDO1	cysteine dioxygenase	L-cysteine + O2 = 3-sulfinoalanine
+ec:1.13.11.27	HPD	4-hydroxyphenylpyruvate dioxygenase	4-hydroxyphenylpyruvate + O2 = homogentisate + CO2
+ec:1.13.11.31	ALOX12	arachidonate 12-lipoxygenase	arachidonate + O2 = (5Z,8Z,10E,14Z)-(12S)-12-hydroperoxyicosa-5,8,10,14-tetraenoate
+ec:1.13.11.33	ALOX15,ALOX15B	arachidonate 15-lipoxygenase	arachidonate + O2 = (5Z,8Z,11Z,13E)-(15S)-15-hydroperoxyicosa-5,8,11,13-tetraenoate
+ec:1.13.11.34	ALOX5	arachidonate 5-lipoxygenase	arachidonate + O2 = leukotriene A4 + H2O (overall reaction)
+ec:1.13.11.52	IDO2,IDO1	indoleamine 2,3-dioxygenase	D-tryptophan + O2 = N-formyl-D-kynurenine
+ec:1.13.11.53	ADI1	acireductone dioxygenase (Ni2+-requiring)	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + O2 = 3-(methylthio)propanoate + formate + CO
+ec:1.13.11.54	ADI1	acireductone dioxygenase [iron(II)-requiring]	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + O2 = 4-(methylthio)-2-oxobutanoate + formate
+ec:1.13.99.1	MIOX	inositol oxygenase	myo-inositol + O2 = D-glucuronate + H2O
+ec:1.14.11.1	BBOX1	gamma-butyrobetaine dioxygenase	4-trimethylammoniobutanoate + 2-oxoglutarate + O2 = 3-hydroxy-4-trimethylammoniobutanoate + succinate + CO2
+ec:1.14.11.2	P4HA3,P4HA1,P4HA2	procollagen-proline dioxygenase	procollagen L-proline + 2-oxoglutarate + O2 = procollagen trans-4-hydroxy-L-proline + succinate + CO2
+ec:1.14.11.4	PLOD1,PLOD2,PLOD3	procollagen-lysine 5-dioxygenase	L-lysine-[procollagen] + 2-oxoglutarate + O2 = (2S,5R)- 5-hydroxy-L-lysine-[procollagen] + succinate + CO2
+ec:1.14.11.8	TMLHE	trimethyllysine dioxygenase	N6,N6,N6-trimethyl-L-lysine + 2-oxoglutarate + O2 = 3-hydroxy-N6,N6,N6-trimethyl-L-lysine + succinate + CO2
+ec:1.14.11.16	ASPH,HIF1AN	peptide-aspartate beta-dioxygenase	peptide-L-aspartate + 2-oxoglutarate + O2 = peptide-3-hydroxy-L-aspartate + succinate + CO2
+ec:1.14.11.18	PHYH	phytanoyl-CoA dioxygenase	phytanoyl-CoA + 2-oxoglutarate + O2 = 2-hydroxyphytanoyl-CoA + succinate + CO2
+ec:1.14.11.27	KDM2A,C14orf169,KDM2B	[histone-H3]-lysine-36 demethylase	protein N6,N6-dimethyl-L-lysine + 2 2-oxoglutarate + 2 O2 = protein L-lysine + 2 succinate + 2 formaldehyde + 2 CO2 (overall reaction)
+ec:1.14.13.8	FMO1,FMO2,FMO3,FMO4,FMO5	flavin-containing monooxygenase	N,N-dimethylaniline + NADPH + H+ + O2 = N,N-dimethylaniline N-oxide + NADP+ + H2O
+ec:1.14.13.9	KMO	kynurenine 3-monooxygenase	L-kynurenine + NADPH + H+ + O2 = 3-hydroxy-L-kynurenine + NADP+ + H2O
+ec:1.14.13.13	CYP27B1	calcidiol 1-monooxygenase	calcidiol + NADPH + H+ + O2 = calcitriol + NADP+ + H2O
+ec:1.14.13.15	CYP27A1	cholestanetriol 26-monooxygenase	5beta-cholestane-3alpha,7alpha,12alpha-triol + 3 NADPH + 3 H+ + 3 O2 = (25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oate + 3 NADP+ + 4 H2O (overall reaction)
+ec:1.14.13.17	CYP7A1	cholesterol 7alpha-monooxygenase	cholesterol + NADPH + H+ + O2 = 7alpha-hydroxycholesterol + NADP+ + H2O
+ec:1.14.13.30	CYP4F8,CYP4F22,CYP4F3,CYP4F11,CYP4F2	leukotriene-B4 20-monooxygenase	(6Z,8E,10E,14Z)-(5S,12R)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate + NADPH + H+ + O2 = (6Z,8E,10E,14Z)-(5S,12R)-5,12,20-trihydroxyicosa-6,8,10,14-tetraenoate + NADP+ + H2O
+ec:1.14.13.32	CYP3A4	albendazole monooxygenase	albendazole + NADPH + H+ + O2 = albendazole S-oxide + NADP+ + H2O
+ec:1.14.13.39	NOS1,NOS2,NOS3	nitric-oxide synthase (NADPH dependent)	2 L-arginine + 3 NADPH + 3 H+ + 4 O2 = 2 L-citrulline + 2 nitric oxide + 3 NADP+ + 4 H2O (overall reaction)
+ec:1.14.13.48	CYP2C19,CYP2C9	(S)-limonene 6-monooxygenase	(S)-limonene + NADPH + H+ + O2 = (-)-trans-carveol + NADP+ + H2O
+ec:1.14.13.49	CYP2C19,CYP2C9	(S)-limonene 7-monooxygenase	(S)-limonene + NADPH + H+ + O2 = (-)-perillyl alcohol + NADP+ + H2O
+ec:1.14.13.67	CYP3A4	quinine 3-monooxygenase	quinine + NADPH + H+ + O2 = 3-hydroxyquinine + NADP+ + H2O
+ec:1.14.13.70	CYP51A1	sterol 14alpha-demethylase	a 14alpha-methylsteroid + 3 O2 + 3 NADPH + 3 H+ = a Delta14-steroid + formate + 3 NADP+ + 4 H2O
+ec:1.14.13.72	FAXDC2,MSMO1	methylsterol monooxygenase	4,4-dimethyl-5alpha-cholest-7-en-3beta-ol + 3 NAD(P)H + 3 H+ + 3 O2 = 3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate + 3 NAD(P)+ + 4 H2O (overall reaction)
+ec:1.14.13.80	CYP2C19,CYP2C9	(R)-limonene 6-monooxygenase	(R)-limonene + NADPH + H+ + O2 = (+)-trans-carveol + NADP+ + H2O
+ec:1.14.13.95	CYP8B1	7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase	7alpha-hydroxycholest-4-en-3-one + NADPH + H+ + O2 = 7alpha,12alpha-dihydroxycholest-4-en-3-one + NADP+ + H2O
+ec:1.14.13.97	CYP3A4	taurochenodeoxycholate 6alpha-hydroxylase	taurochenodeoxycholate + NADPH + H+ + O2 = taurohyocholate + NADP+ + H2O
+ec:1.14.13.98	CYP46A1	cholesterol 24-hydroxylase	cholesterol + NADPH + H+ + O2 = (24S)-24-hydroxycholesterol + NADP+ + H2O
+ec:1.14.13.99	CYP39A1	24-hydroxycholesterol 7alpha-hydroxylase	(24R)-cholest-5-ene-3beta,24-diol + NADPH + H+ + O2 = (24R)-cholest-5-ene-3beta,7alpha,24-triol + NADP+ + H2O
+ec:1.14.13.100	CYP7B1	25-hydroxycholesterol 7alpha-hydroxylase	cholest-5-ene-3beta,25-diol + NADPH + H+ + O2 = cholest-5-ene-3beta,7alpha,25-triol + NADP+ + H2O
+ec:1.14.13.126	CYP24A1	vitamin D3 24-hydroxylase	calcitriol + NADPH + H+ + O2 = calcitetrol + NADP+ + H2O
+ec:1.14.13.132	SQLE	squalene monooxygenase	squalene + NADPH + H+ + O2 = (3S)-2,3-epoxy-2,3-dihydrosqualene + NADP+ + H2O
+ec:1.14.13.157	CYP3A4	1,8-cineole 2-exo-monooxygenase	1,8-cineole + NADPH + H+ + O2 = 2-exo-hydroxy-1,8-cineole + NADP+ + H2O
+ec:1.14.13.159	CYP2R1	vitamin D 25-hydroxylase	calciol + O2 + NADPH + H+ = calcidiol + NADP+ + H2O
+ec:1.14.14.1	CYP1A1,CYP1A2,CYP1B1,CYP2A7,CYP3A7,CYP2A13,CYP2C8,CYP2C18,CYP2D6,CYP2F1,CYP2J2,CYP3A5,CYP4B1,CYP19A1,CYP4Z1,CYP4X1,CYP2S1,CYP3A43	unspecific monooxygenase	RH + reduced flavoprotein + O2 = ROH + oxidized flavoprotein + H2O
+ec:1.14.15.3	CYP4A11,CYP4A22	alkane 1-monooxygenase	octane + reduced rubredoxin + O2 = 1-octanol + oxidized rubredoxin + H2O
+ec:1.14.15.4	CYP11B1,CYP11B2	steroid 11beta-monooxygenase	a steroid + reduced adrenodoxin + O2 = an 11beta-hydroxysteroid + oxidized adrenodoxin + H2O
+ec:1.14.15.5	CYP11B2	corticosterone 18-monooxygenase	corticosterone + reduced adrenodoxin + O2 = 18-hydroxycorticosterone + oxidized adrenodoxin + H2O
+ec:1.14.15.6	CYP11A1	cholesterol monooxygenase (side-chain-cleaving)	cholesterol + 6 reduced adrenodoxin + 3 O2 = pregnenolone + 4-methylpentanal + 6 oxidized adrenodoxin + 4 H2O (overall reaction)
+ec:1.14.16.1	PAH	phenylalanine 4-monooxygenase	L-phenylalanine + tetrahydrobiopterin + O2 = L-tyrosine + 4a-hydroxytetrahydrobiopterin
+ec:1.14.16.2	TH	tyrosine 3-monooxygenase	L-tyrosine + tetrahydrobiopterin + O2 = L-dopa + 4a-hydroxytetrahydrobiopterin
+ec:1.14.16.4	TPH2,TPH1	tryptophan 5-monooxygenase	L-tryptophan + tetrahydrobiopterin + O2 = 5-hydroxy-L-tryptophan + 4a-hydroxytetrahydrobiopterin
+ec:1.14.16.5	AGMO	alkylglycerol monooxygenase	1-O-alkyl-sn-glycerol + tetrahydrobiopterin + O2 = 1-O-(1-hydroxyalkyl)-sn-glycerol + dihydrobiopterin + H2O
+ec:1.14.17.1	DBH	dopamine beta-monooxygenase	dopamine + ascorbate + O2 = noradrenaline + dehydroascorbate + H2O
+ec:1.14.17.3	PAM	peptidylglycine monooxygenase	peptidylglycine + ascorbate + O2 = peptidyl(2-hydroxyglycine) + dehydroascorbate + H2O
+ec:1.14.18.1	TYR	tyrosinase	L-tyrosine + O2 = dopaquinone + H2O (overall reaction)
+ec:1.14.19.1	SCD,SCD5	stearoyl-CoA 9-desaturase	stearoyl-CoA + 2 ferrocytochrome b5 + O2 + 2 H+ = oleoyl-CoA + 2 ferricytochrome b5 + 2 H2O
+ec:1.14.21.6	SC5D	lathosterol oxidase	5alpha-cholest-7-en-3beta-ol + NAD(P)H + H+ + O2 = cholesta-5,7-dien-3beta-ol + NAD(P)+ + 2 H2O
+ec:1.14.99.1	PTGS1,PTGS2	prostaglandin-endoperoxide synthase	arachidonate + AH2 + 2 O2 = prostaglandin H2 + A + H2O
+ec:1.14.99.3	HMOX1,HMOX2	heme oxygenase (biliverdin-producing)	protoheme + 3 AH2 + 3 O2 = biliverdin + Fe2+ + CO + 3 A + 3 H2O
+ec:1.14.99.9	CYP17A1	steroid 17alpha-monooxygenase	a C21-steroid +
+ec:1.14.99.10	CYP21A2	steroid 21-monooxygenase	a C21 steroid +
+ec:1.14.99.29	DOHH	deoxyhypusine monooxygenase	protein N6-(4-aminobutyl)-L-lysine + AH2 + O2 = protein N6-[(R)-4-amino-2-hydroxybutyl]-L-lysine + A + H2O
+ec:1.14.99.36	BCMO1	beta-carotene 15,15'-monooxygenase	beta-carotene + O2 = 2 all-trans-retinal (overall reaction)
+ec:1.14.99.38	CH25H	cholesterol 25-hydroxylase	cholesterol + AH2 + O2 = 25-hydroxycholesterol + A + H2O
+ec:1.15.1.1	SOD1,SOD2,SOD3	superoxide dismutase	2 O2.- + 2 H+ = O2 + H2O2
+ec:1.16.1.8	MTRR	[methionine synthase] reductase	2
+ec:1.16.3.1	CP,FTH1,FTMT	ferroxidase	4 Fe(II) + 4 H+ + O2 = 4 Fe(III) + 2 H2O
+ec:1.17.1.4	XDH	xanthine dehydrogenase	xanthine + NAD+ + H2O = urate + NADH + H+
+ec:1.17.3.2	XDH	xanthine oxidase	xanthine + H2O + O2 = urate + H2O2
+ec:1.17.4.1	RRM2B,RRM1,RRM2	ribonucleoside-diphosphate reductase	2'-deoxyribonucleoside diphosphate + thioredoxin disulfide + H2O = ribonucleoside diphosphate + thioredoxin
+ec:1.17.99.3	ACOX2	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA + H2O + acceptor = (24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestan-26-oyl-CoA + reduced acceptor
+ec:1.18.1.2	FDXR	ferredoxin---NADP+ reductase	2 reduced ferredoxin + NADP+ + H+ = 2 oxidized ferredoxin + NADPH
+ec:1.22.1.1	IYD	iodotyrosine deiodinase	L-tyrosine + 2 NADP+ + 2 I- = 3,5-diiodo-L-tyrosine + 2 NADPH + 2 H+ (overall reaction)
+ec:1.97.1.10	DIO1,DIO2	thyroxine 5'-deiodinase	3,5,3'-triiodo-L-thyronine + iodide + A + H+ = L-thyroxine + AH2
+ec:1.97.1.11	DIO3	thyroxine 5-deiodinase	3,3',5'-triiodo-L-thyronine + iodide + A + H+ = L-thyroxine + AH2
+ec:2.1.1.1	NNMT	nicotinamide N-methyltransferase	S-adenosyl-L-methionine + nicotinamide = S-adenosyl-L-homocysteine + 1-methylnicotinamide
+ec:2.1.1.2	GAMT	guanidinoacetate N-methyltransferase	S-adenosyl-L-methionine + guanidinoacetate = S-adenosyl-L-homocysteine + creatine
+ec:2.1.1.4	ASMT	acetylserotonin O-methyltransferase	S-adenosyl-L-methionine + N-acetylserotonin = S-adenosyl-L-homocysteine + melatonin
+ec:2.1.1.5	BHMT	betaine---homocysteine S-methyltransferase	betaine + L-homocysteine = dimethylglycine + L-methionine
+ec:2.1.1.6	COMT	catechol O-methyltransferase	S-adenosyl-L-methionine + a catechol = S-adenosyl-L-homocysteine + a guaiacol
+ec:2.1.1.8	HNMT	histamine N-methyltransferase	S-adenosyl-L-methionine + histamine = S-adenosyl-L-homocysteine + Ntau-methylhistamine
+ec:2.1.1.13	MTR	methionine synthase	5-methyltetrahydrofolate + L-homocysteine = tetrahydrofolate + L-methionine
+ec:2.1.1.17	PEMT	phosphatidylethanolamine N-methyltransferase	S-adenosyl-L-methionine + phosphatidylethanolamine = S-adenosyl-L-homocysteine + phosphatidyl-N-methylethanolamine
+ec:2.1.1.20	GNMT	glycine N-methyltransferase	S-adenosyl-L-methionine + glycine = S-adenosyl-L-homocysteine + sarcosine
+ec:2.1.1.28	PNMT	phenylethanolamine N-methyltransferase	S-adenosyl-L-methionine + phenylethanolamine = S-adenosyl-L-homocysteine + N-methylphenylethanolamine
+ec:2.1.1.33	METTL1	tRNA (guanine46-N7)-methyltransferase	S-adenosyl-L-methionine + guanine46 in tRNA = S-adenosyl-L-homocysteine + N7-methylguanine46 in tRNA
+ec:2.1.1.35	TRMT2B	tRNA (uracil54-C5)-methyltransferase	S-adenosyl-L-methionine + uracil54 in tRNA = S-adenosyl-L-homocysteine + 5-methyluracil54 in tRNA
+ec:2.1.1.37	DNMT1,DNMT3A,DNMT3B	DNA (cytosine-5-)-methyltransferase	S-adenosyl-L-methionine + DNA containing cytosine = S-adenosyl-L-homocysteine + DNA containing 5-methylcytosine
+ec:2.1.1.43	EHMT2,EZH1,EZH2,SETD1B,SETD2,SETD8,KMT2A,SUV420H1,WHSC1L1,ASH1L,KMT2E,KMT2C,SETMAR,NSD1,SUV39H1,WHSC1,SUV39H2,EHMT1,KMT2D,SETD7,SETDB2,DOT1L,SUV420H2,SETD1A,KMT2B,SETDB1	histone-lysine N-methyltransferase	S-adenosyl-L-methionine + histone L-lysine = S-adenosyl-L-homocysteine + histone N6-methyl-L-lysine
+ec:2.1.1.45	TYMS	thymidylate synthase	5,10-methylenetetrahydrofolate + dUMP = dihydrofolate + dTMP
+ec:2.1.1.49	INMT	amine N-methyltransferase	S-adenosyl-L-methionine + an amine = S-adenosyl-L-homocysteine + a methylated amine
+ec:2.1.1.56	RNMT	mRNA (guanine-N7)-methyltransferase	S-adenosyl-L-methionine + a 5'-(5'-triphosphoguanosine)-[mRNA] = S-adenosyl-L-homocysteine + a 5'-(N7-methyl 5'-triphosphoguanosine)-[mRNA]
+ec:2.1.1.57	CMTR1	mRNA (nucleoside-2'-O)-methyltransferase	S-adenosyl-L-methionine + m7G5'ppp5'R-mRNA = S-adenosyl-L-homocysteine + m7G5'ppp5'Rm-mRNA
+ec:2.1.1.62	METTL3	mRNA (2'-O-methyladenosine-N6-)-methyltransferase	S-adenosyl-L-methionine + m7G(5')pppAm = S-adenosyl-L-homocysteine + m7G(5')pppm6Am (mRNA containing an N6,2'-O-dimethyladenosine cap)
+ec:2.1.1.63	MGMT	methylated-DNA---[protein]-cysteine S-methyltransferase	DNA (containing 6-O-methylguanine) + protein L-cysteine = DNA (without 6-O-methylguanine) + protein S-methyl-L-cysteine
+ec:2.1.1.67	TPMT	thiopurine S-methyltransferase	S-adenosyl-L-methionine + a thiopurine = S-adenosyl-L-homocysteine + a thiopurine S-methylether
+ec:2.1.1.72	N6AMT1	site-specific DNA-methyltransferase (adenine-specific)	S-adenosyl-L-methionine + DNA adenine = S-adenosyl-L-homocysteine + DNA 6-methylaminopurine
+ec:2.1.1.77	PCMT1	protein-L-isoaspartate(D-aspartate) O-methyltransferase	S-adenosyl-L-methionine + protein L-isoaspartate = S-adenosyl-L-homocysteine + protein L-isoaspartate alpha-methyl ester
+ec:2.1.1.96	INMT	thioether S-methyltransferase	S-adenosyl-L-methionine + dimethyl sulfide = S-adenosyl-L-homocysteine + trimethylsulfonium
+ec:2.1.1.98	DPH5	diphthine synthase	3 S-adenosyl-L-methionine + 2-(3-carboxy-3-aminopropyl)-L-histidine-[translation elongation factor 2] = 3 S-adenosyl-L-homocysteine + 2-[3-carboxy-3-(trimethylammonio)propyl]-L-histidine-[translation elongation factor 2] (overall reaction)
+ec:2.1.1.100	ICMT	protein-S-isoprenylcysteine O-methyltransferase	S-adenosyl-L-methionine + protein C-terminal S-farnesyl-L-cysteine = S-adenosyl-L-homocysteine + protein C-terminal S-farnesyl-L-cysteine methyl ester
+ec:2.1.1.114	COQ3	polyprenyldihydroxybenzoate methyltransferase	S-adenosyl-L-methionine + 3,4-dihydroxy-5-all-trans-polyprenylbenzoate = S-adenosyl-L-homocysteine + 3-methoxy-4-hydroxy-5-all-trans-polyprenylbenzoate
+ec:2.1.1.125	PRMT5,CARM1	histone-arginine N-methyltransferase	S-adenosyl-L-methionine + histone-arginine = S-adenosyl-L-homocysteine + histone-Nomega-methyl-arginine
+ec:2.1.1.137	AS3MT	arsenite methyltransferase	S-adenosyl-L-methionine + arsenite = S-adenosyl-L-homocysteine + methylarsonate
+ec:2.1.1.166	FTSJ2	23S rRNA (uridine2552-2'-O)-methyltransferase	S-adenosyl-L-methionine + uridine2552 in 23S rRNA = S-adenosyl-L-homocysteine + 2'-O-methyluridine2552 in 23S rRNA
+ec:2.1.1.183	DIMT1	18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase	4 S-adenosyl-L-methionine + adenine1779/adenine1780 in 18S rRNA = 4 S-adenosyl-L-homocysteine + N6-dimethyladenine1779/N6-dimethyladenine1780 in 18S rRNA
+ec:2.1.1.201	COQ5	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase	S-adenosyl-L-methionine + 2-methoxy-6-all-trans-polyprenyl-1,4-benzoquinol = S-adenosyl-L-homocysteine + 6-methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol
+ec:2.1.1.203	NSUN2	tRNA (cytosine34-C5)-methyltransferase	S-adenosyl-L-methionine + cytosine34 in tRNA precursor = S-adenosyl-L-homocysteine + 5-methylcytosine34 in tRNA precursor
+ec:2.1.1.204	TRDMT1	tRNA (cytosine38-C5)-methyltransferase	S-adenosyl-L-methionine + cytosine38 in tRNA = S-adenosyl-L-homocysteine + 5-methylcytosine38 in tRNA
+ec:2.1.1.205	FTSJ1	tRNA (cytidine32/guanosine34-2'-O)-methyltransferase	S-adenosyl-L-methionine + cytidine32/guanosine34 in tRNA = S-adenosyl-L-homocysteine + 2'-O-methylcytidine32/2'-O-methylguanosine34 in tRNA
+ec:2.1.1.211	TRMT44	tRNASer (uridine44-2'-O)-methyltransferase	S-adenosyl-L-methionine + uridine44 in tRNASer = S-adenosyl-L-homocysteine + 2'-O-methyluridine44 in tRNASer
+ec:2.1.1.214	TRMT11	tRNA (guanine10-N2)-methyltransferase	S-adenosyl-L-methionine + guanine10 in tRNA = S-adenosyl-L-homocysteine + N2-methylguanine10 in tRNA
+ec:2.1.1.215	TRMT1	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase	4 S-adenosyl-L-methionine + guanine26/guanine27 in tRNA = 4 S-adenosyl-L-homocysteine + N2-dimethylguanine26/N2-dimethylguanine27 in tRNA
+ec:2.1.1.216	TRMT1	tRNA (guanine26-N2)-dimethyltransferase	2 S-adenosyl-L-methionine + guanine26 in tRNA = 2 S-adenosyl-L-homocysteine + N2-dimethylguanine26 in tRNA
+ec:2.1.1.219	TRMT61A	tRNA (adenine57-N1/adenine58-N1)-methyltransferase	2 S-adenosyl-L-methionine + adenine57/adenine58 in tRNA = 2 S-adenosyl-L-homocysteine + N1-methyladenine57/N1-methyladenine58 in tRNA
+ec:2.1.1.220	TRMT61A	tRNA (adenine58-N1)-methyltransferase	S-adenosyl-L-methionine + adenine58 in tRNA = S-adenosyl-L-homocysteine + N1-methyladenine58 in tRNA
+ec:2.1.1.221	TRMT10A	tRNA (guanine9-N1)-methyltransferase	S-adenosyl-L-methionine + guanine9 in tRNA = S-adenosyl-L-homocysteine + N1-methylguanine9 in tRNA
+ec:2.1.1.225	TRMT13	tRNA:m4X modification enzyme	S-adenosyl-L-methionine + cytidine4 in tRNAPro = S-adenosyl-L-homocysteine + 2'-O-methylcytidine4 in tRNAPro
+ec:2.1.1.228	TRMT5	tRNA (guanine37-N1)-methyltransferase	S-adenosyl-L-methionine + guanine37 in tRNA = S-adenosyl-L-homocysteine + N1-methylguanine37 in tRNA
+ec:2.1.1.229	ALKBH8	tRNA (carboxymethyluridine34-5-O)-methyltransferase	S-adenosyl-L-methionine + carboxymethyluridine34 in tRNA = S-adenosyl-L-homocysteine + 5-(2-methoxy-2-oxoethyl)uridine34 in tRNA
+ec:2.1.1.244	METTL11B,NTMT1	protein N-terminal methyltransferase	3 S-adenosyl-L-methionine + N-terminal-(A,S)PK-[protein] = 3 S-adenosyl-L-homocysteine + N-terminal-N,N,N-trimethyl-N-(A,S)PK-[protein] (overall reaction)
+ec:2.1.1.260	EMG1	rRNA small subunit pseudouridine methyltransferase Nep1	S-adenosyl-L-methionine + pseudouridine1191 in yeast 18S rRNA = S-adenosyl-L-homocysteine + N1-methylpseudouridine1191 in yeast 18S rRNA
+ec:2.1.2.1	SHMT1,SHMT2	glycine hydroxymethyltransferase	5,10-methylenetetrahydrofolate + glycine + H2O = tetrahydrofolate + L-serine
+ec:2.1.2.2	GART	phosphoribosylglycinamide formyltransferase	10-formyltetrahydrofolate + N1-(5-phospho-D-ribosyl)glycinamide = tetrahydrofolate + N2-formyl-N1-(5-phospho-D-ribosyl)glycinamide
+ec:2.1.2.3	ATIC	phosphoribosylaminoimidazolecarboxamide formyltransferase	10-formyltetrahydrofolate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide = tetrahydrofolate + 5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+ec:2.1.2.5	FTCD	glutamate formimidoyltransferase	5-formimidoyltetrahydrofolate + L-glutamate = tetrahydrofolate + N-formimidoyl-L-glutamate
+ec:2.1.2.9	MTFMT	methionyl-tRNA formyltransferase	10-formyltetrahydrofolate + L-methionyl-tRNAfMet = tetrahydrofolate + N-formylmethionyl-tRNAfMet
+ec:2.1.2.10	AMT	aminomethyltransferase	[protein]-S8-aminomethyldihydrolipoyllysine + tetrahydrofolate =
+ec:2.1.3.2	CAD	aspartate carbamoyltransferase	carbamoyl phosphate + L-aspartate = phosphate + N-carbamoyl-L-aspartate
+ec:2.1.3.3	OTC	ornithine carbamoyltransferase	carbamoyl phosphate + L-ornithine = phosphate + L-citrulline
+ec:2.1.4.1	GATM	glycine amidinotransferase	L-arginine + glycine = L-ornithine + guanidinoacetate
+ec:2.2.1.1	TKT,TKTL1,TKTL2	transketolase	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate = D-ribose 5-phosphate + D-xylulose 5-phosphate
+ec:2.2.1.2	TALDO1	transaldolase	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate = D-erythrose 4-phosphate + D-fructose 6-phosphate
+ec:2.3.1.1	NAGS	amino-acid N-acetyltransferase	acetyl-CoA + L-glutamate = CoA + N-acetyl-L-glutamate
+ec:2.3.1.4	GNPNAT1	glucosamine-phosphate N-acetyltransferase	acetyl-CoA + D-glucosamine 6-phosphate = CoA + N-acetyl-D-glucosamine 6-phosphate
+ec:2.3.1.5	NAT2,NAT1	arylamine N-acetyltransferase	acetyl-CoA + an arylamine = CoA + an N-acetylarylamine
+ec:2.3.1.6	CHAT	choline O-acetyltransferase	acetyl-CoA + choline = CoA + O-acetylcholine
+ec:2.3.1.7	CRAT	carnitine O-acetyltransferase	acetyl-CoA + carnitine = CoA + O-acetylcarnitine
+ec:2.3.1.9	ACAT1,ACAT2	acetyl-CoA C-acetyltransferase	2 acetyl-CoA = CoA + acetoacetyl-CoA
+ec:2.3.1.12	DLAT	dihydrolipoyllysine-residue acetyltransferase	acetyl-CoA + enzyme N6-(dihydrolipoyl)lysine = CoA + enzyme N6-(S-acetyldihydrolipoyl)lysine
+ec:2.3.1.13	GLYAT	glycine N-acyltransferase	acyl-CoA + glycine = CoA + N-acylglycine
+ec:2.3.1.15	AGPAT6,GPAT2,GPAM,AGPAT9	glycerol-3-phosphate 1-O-acyltransferase	acyl-CoA + sn-glycerol 3-phosphate = CoA + 1-acyl-sn-glycerol 3-phosphate
+ec:2.3.1.16	ACAA2,ACAA1,HADHB	acetyl-CoA C-acyltransferase	acyl-CoA + acetyl-CoA = CoA + 3-oxoacyl-CoA
+ec:2.3.1.20	MOGAT3,DGAT2,DGAT1	diacylglycerol O-acyltransferase	acyl-CoA + 1,2-diacyl-sn-glycerol = CoA + triacylglycerol
+ec:2.3.1.21	CPT1C,CPT1A,CPT1B,CPT2	carnitine O-palmitoyltransferase	palmitoyl-CoA + L-carnitine = CoA + L-palmitoylcarnitine
+ec:2.3.1.22	MOGAT1,MOGAT3,MOGAT2	2-acylglycerol O-acyltransferase	acyl-CoA + 2-acylglycerol = CoA + diacylglycerol
+ec:2.3.1.23	LPCAT3,LPCAT4,LPCAT2,LPCAT1	1-acylglycerophosphocholine O-acyltransferase	acyl-CoA + 1-acyl-sn-glycero-3-phosphocholine = CoA + 1,2-diacyl-sn-glycero-3-phosphocholine
+ec:2.3.1.24	CERS1,CERS3,CERS6,CERS2,CERS4,CERS5	sphingosine N-acyltransferase	acyl-CoA + sphingosine = CoA + a ceramide
+ec:2.3.1.26	SOAT1,SOAT2	sterol O-acyltransferase	acyl-CoA + cholesterol = CoA + cholesterol ester
+ec:2.3.1.29	GCAT	glycine C-acetyltransferase	acetyl-CoA + glycine = CoA + L-2-amino-3-oxobutanoate
+ec:2.3.1.37	ALAS1,ALAS2	5-aminolevulinate synthase	succinyl-CoA + glycine = 5-aminolevulinate + CoA + CO2
+ec:2.3.1.39	MCAT	[acyl-carrier-protein] S-malonyltransferase	malonyl-CoA + an
+ec:2.3.1.42	GNPAT	glycerone-phosphate O-acyltransferase	acyl-CoA + glycerone phosphate = CoA + acylglycerone phosphate
+ec:2.3.1.43	LCAT	phosphatidylcholine---sterol O-acyltransferase	phosphatidylcholine + a sterol = 1-acylglycerophosphocholine + a sterol ester
+ec:2.3.1.48	KAT5,MGEA5,KAT7,CREBBP,EP300,CDY2B,KAT6B,CDY1B,KAT2A,ELP3,KAT6A,NCOA3,KAT8,HAT1,NCOA1,KAT2B,CDY1,GTF3C4,CDY2A,CLOCK	histone acetyltransferase	acetyl-CoA + histone = CoA + acetylhistone
+ec:2.3.1.50	SPTLC1,SPTLC3,SPTLC2	serine C-palmitoyltransferase	palmitoyl-CoA + L-serine = CoA + 3-dehydro-D-sphinganine + CO2
+ec:2.3.1.51	AGPAT1,AGPAT2,MBOAT2,MBOAT1,LCLAT1,ABHD5,AGPAT3,AGPAT4	1-acylglycerol-3-phosphate O-acyltransferase	acyl-CoA + 1-acyl-sn-glycerol 3-phosphate = CoA + 1,2-diacyl-sn-glycerol 3-phosphate
+ec:2.3.1.57	SAT2,SAT1	diamine N-acetyltransferase	acetyl-CoA + an alkane-alpha,omega-diamine = CoA + an N-acetyldiamine
+ec:2.3.1.61	DLST	dihydrolipoyllysine-residue succinyltransferase	succinyl-CoA + enzyme N6-(dihydrolipoyl)lysine = CoA + enzyme N6-(S-succinyldihydrolipoyl)lysine
+ec:2.3.1.65	BAAT	bile acid-CoA:amino acid N-acyltransferase	choloyl-CoA + glycine = CoA + glycocholate
+ec:2.3.1.67	LPCAT2,LPCAT1	1-alkylglycerophosphocholine O-acetyltransferase	acetyl-CoA + 1-alkyl-sn-glycero-3-phosphocholine = CoA + 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+ec:2.3.1.75	AWAT1,AWAT2,DGAT2,DGAT1	long-chain-alcohol O-fatty-acyltransferase	acyl-CoA + a long-chain alcohol = CoA + a long-chain ester
+ec:2.3.1.76	AWAT2,DGAT1	retinol O-fatty-acyltransferase	acyl-CoA + retinol = CoA + retinyl ester
+ec:2.3.1.78	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase	acetyl-CoA + heparan sulfate alpha-D-glucosaminide = CoA + heparan sulfate N-acetyl-alpha-D-glucosaminide
+ec:2.3.1.85	FASN	fatty-acid synthase	acetyl-CoA + n malonyl-CoA + 2n NADPH + 2n H+ = a long-chain fatty acid + (n+1) CoA + n CO2 + 2n NADP+
+ec:2.3.1.87	AANAT	aralkylamine N-acetyltransferase	acetyl-CoA + a 2-arylethylamine = CoA + an N-acetyl-2-arylethylamine
+ec:2.3.1.88	NAA30,NAA20,NAA15,NAA10,NAA11	peptide alpha-N-acetyltransferase	acetyl-CoA + peptide = CoA + Nalpha-acetylpeptide
+ec:2.3.1.97	NMT1,NMT2	glycylpeptide N-tetradecanoyltransferase	tetradecanoyl-CoA + glycylpeptide = CoA + N-tetradecanoylglycylpeptide
+ec:2.3.1.135	LRAT	phosphatidylcholine---retinol O-acyltransferase	phosphatidylcholine + retinol---[cellular-retinol-binding-protein] = 2-acylglycerophosphocholine + retinyl-ester---[cellular-retinol-binding-protein]
+ec:2.3.1.137	CROT	carnitine O-octanoyltransferase	octanoyl-CoA + L-carnitine = CoA + L-octanoylcarnitine
+ec:2.3.1.168	DBT	dihydrolipoyllysine-residue (2-methylpropanoyl)transferase	2-methylpropanoyl-CoA + enzyme N6-(dihydrolipoyl)lysine = CoA + enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine
+ec:2.3.1.176	SCP2	propanoyl-CoA C-acyltransferase	3alpha,7alpha,12alpha-trihydroxy-5beta-cholanoyl-CoA + propanoyl-CoA = CoA + 3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestanoyl-CoA
+ec:2.3.1.179	OXSM	beta-ketoacyl-[acyl-carrier-protein] synthase II	a (Z)-hexadec-11-enoyl-[acyl-carrier protein] + a malonyl-[acyl-carrier protein] = a (Z)-3-oxooctadec-13-enoyl-[acyl-carrier protein] + CO2 + an
+ec:2.3.1.181	LIPT2	lipoyl(octanoyl) transferase	an octanoyl-[acyl-carrier protein] + a protein = a protein N6-(octanoyl)lysine + an
+ec:2.3.1.199	ELOVL2,ELOVL5,ELOVL1,ELOVL4,ELOVL6,ELOVL7,ELOVL3	very-long-chain 3-oxoacyl-CoA synthase	a very-long-chain acyl-CoA + malonyl-CoA = a very-long-chain 3-oxoacyl-CoA + CO2 + coenzyme A
+ec:2.3.2.2	GGT6,GGT1,GGT7,GGT5	gamma-glutamyltransferase	a (5-L-glutamyl)-peptide + an amino acid = a peptide + a 5-L-glutamyl amino acid
+ec:2.3.2.4	GGCT	gamma-glutamylcyclotransferase	(gamma-L-glutamyl)-L-amino acid = 5-oxoproline + L-amino acid
+ec:2.3.2.5	QPCT	glutaminyl-peptide cyclotransferase	L-glutaminyl-peptide = 5-oxoprolyl-peptide + NH3
+ec:2.3.2.8	ATE1	arginyltransferase	L-arginyl-tRNA + protein = tRNA + L-arginyl-protein
+ec:2.3.2.13	TGM7,F13A1,TGM6,TGM4,TGM1,TGM2,TGM3,TGM5	protein-glutamine gamma-glutamyltransferase	protein glutamine + alkylamine = protein N5-alkylglutamine + NH3
+ec:2.3.3.1	CS	citrate (Si)-synthase	acetyl-CoA + H2O + oxaloacetate = citrate + CoA
+ec:2.3.3.8	ACLY	ATP citrate synthase	ADP + phosphate + acetyl-CoA + oxaloacetate = ATP + citrate + CoA
+ec:2.3.3.10	HMGCS1,HMGCS2	hydroxymethylglutaryl-CoA synthase	acetyl-CoA + H2O + acetoacetyl-CoA = (S)-3-hydroxy-3-methylglutaryl-CoA + CoA
+ec:2.4.1.1	PYGB,PYGL,PYGM	glycogen phosphorylase	[(1->4)-alpha-D-glucosyl]n + phosphate =
+ec:2.4.1.11	GYS1,GYS2	glycogen(starch) synthase	UDP-glucose +
+ec:2.4.1.17	UGT2B11,UGT2A1,UGT2B28,UGT1A10,UGT1A8,UGT1A7,UGT1A6,UGT1A5,UGT1A9,UGT1A4,UGT1A1,UGT1A3,UGT2A2,UGT2B4,UGT2B7,UGT2B10,UGT2B15,UGT2B17,UGT2A3	glucuronosyltransferase	UDP-glucuronate + acceptor = UDP + acceptor beta-D-glucuronoside
+ec:2.4.1.18	GBE1	1,4-alpha-glucan branching enzyme	Transfers a segment of a (1->4)-alpha-D-glucan chain to a primary hydroxy group in a similar glucan chain
+ec:2.4.1.22	B4GALT1,LALBA,B4GALT2	lactose synthase	UDP-alpha-D-galactose + D-glucose = UDP + lactose
+ec:2.4.1.25	AGL	4-alpha-glucanotransferase	Transfers a segment of a (1->4)-alpha-D-glucan to a new position in an acceptor, which may be glucose or a (1->4)-alpha-D-glucan
+ec:2.4.1.37	ABO	fucosylgalactoside 3-alpha-galactosyltransferase	UDP-alpha-D-galactose + alpha-L-fucosyl-(1->2)-D-galactosyl-R = UDP + alpha-D-galactosyl-(1->3)-[alpha-L-fucosyl(1->2)]-D-galactosyl-R (where R can be OH, an oligosaccharide or a glycoconjugate)
+ec:2.4.1.38	B4GALT1,B4GALT3,B4GALT2	beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase	UDP-alpha-D-galactose + N-acetyl-beta-D-glucosaminylglycopeptide = UDP + beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosaminylglycopeptide
+ec:2.4.1.40	ABO	glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + glycoprotein-alpha-L-fucosyl-(1->2)-D-galactose = UDP + glycoprotein-N-acetyl-alpha-D-galactosaminyl-(1->3)-[alpha-L-fucosyl-(1->2)]-D-galactose
+ec:2.4.1.41	POC1B-GALNT4,GALNT6,GALNT5,GALNT13,GALNT15,GALNTL5,GALNT1,GALNT2,GALNT3,GALNT8,GALNT18,GALNTL6,GALNT9,GALNT7,GALNT10,GALNT16,GALNT11,WBSCR17,GALNT14,GALNT12,GALNT4	polypeptide N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + polypeptide = UDP + N-acetyl-alpha-D-galactosaminyl-polypeptide
+ec:2.4.1.45	UGT8	2-hydroxyacylsphingosine 1-beta-galactosyltransferase	UDP-alpha-D-galactose + a 2-(2-hydroxyacyl)sphingosine = UDP + a 1-(beta-D-galactosyl)-2-(2-hydroxyacyl)sphingosine
+ec:2.4.1.50	COLGALT2,COLGALT1,PLOD3	procollagen galactosyltransferase	UDP-alpha-D-galactose + procollagen 5-hydroxy-L-lysine = UDP + procollagen 5-(D-galactosyloxy)-L-lysine
+ec:2.4.1.62	B3GALT4	ganglioside galactosyltransferase	UDP-alpha-D-galactose + an N-acetyl-beta-D-galactosaminyl-(1->4)-[alpha-N-acetylneuraminyl-(2->3)]-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + a beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-[alpha-N-acetylneuraminyl-(2->3)]-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.65	FUT3,FUT5,FUT6	3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase	GDP-beta-L-fucose + beta-D-galactosyl-(1->3)-N-acetyl-D-glucosaminyl-R = GDP + beta-D-galactosyl-(1->3)-[alpha-L-fucosyl-(1->4)]-N-acetyl-beta-D-glucosaminyl-R
+ec:2.4.1.66	PLOD3	procollagen glucosyltransferase	UDP-glucose + (2S,5R)-5-O-(beta-D-galactosyl)-5-hydroxy-L-lysine-[procollagen] = UDP + (2S,5R)-5-O-[alpha-D-glucosyl-(1->2)-beta-D-galactosyl]-5-hydroxy-L-lysine-[procollagen]
+ec:2.4.1.68	FUT8	glycoprotein 6-alpha-L-fucosyltransferase	GDP-beta-L-fucose + N4-{N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl}asparagine = GDP + N4-{N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-[alpha-L-fucosyl-(1->6)]-N-acetyl-beta-D-glucosaminyl}asparagine
+ec:2.4.1.69	FUT1,FUT2	galactoside 2-alpha-L-fucosyltransferase	GDP-beta-L-fucose + beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = GDP + alpha-L-fucosyl-(1->2)-beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.79	B3GALNT1	globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + N-acetyl-beta-D-galactosaminyl-(1->3)-alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.80	UGCG	ceramide glucosyltransferase	UDP-glucose + an N-acylsphingosine = UDP + a D-glucosyl-N-acylsphingosine
+ec:2.4.1.83	DPM1	dolichyl-phosphate beta-D-mannosyltransferase	GDP-mannose + dolichyl phosphate = GDP + dolichyl D-mannosyl phosphate
+ec:2.4.1.88	GBGT1	globoside alpha-N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + N-acetyl-beta-D-galactosaminyl-(1->3)-alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + N-acetyl-alpha-D-galactosaminyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->3)-alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.90	B4GALT1,B4GALT4,B4GALT3,B4GALT2	N-acetyllactosamine synthase	UDP-alpha-D-galactose + N-acetyl-D-glucosamine = UDP + N-acetyllactosamine
+ec:2.4.1.92	B4GALNT1	(N-acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + O-(N-acetyl-alpha-neuraminyl)-(2->3)-O-beta-D-galactopyranosyl-(1->4)-beta-D-glucopyranosyl-(1<->1)-ceramide = UDP + O-2-(acetylamino)-2-deoxy-beta-D-galactopyranosyl-(1->4)-O-[N-acetyl-alpha-neuraminyl-(2->3)]-O-beta-D-galactopyranosyl-(1->4)-beta-D-glucopyranosyl-(1<->1)-ceramide
+ec:2.4.1.101	MGAT1	alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 3-(alpha-D-mannosyl)-beta-D-mannosyl-R = UDP + 3-(2-[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R
+ec:2.4.1.102	GCNT1	beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->3)-N-acetyl-D-galactosaminyl-R = UDP + beta-D-galactosyl-(1->3)-[N-acetyl-beta-D-glucosaminyl-(1->6)]-N-acetyl-D-galactosaminyl-R
+ec:2.4.1.109	POMT1,POMT2	dolichyl-phosphate-mannose-protein mannosyltransferase	dolichyl phosphate D-mannose + protein = dolichyl phosphate + O-D-mannosylprotein
+ec:2.4.1.117	ALG5	dolichyl-phosphate beta-glucosyltransferase	UDP-glucose + dolichyl phosphate = UDP + dolichyl beta-D-glucosyl phosphate
+ec:2.4.1.122	C1GALT1	glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase	UDP-alpha-D-galactose + glycoprotein N-acetyl-D-galactosamine = UDP + glycoprotein D-galactosyl-(1->3)-N-acetyl-D-galactosamine
+ec:2.4.1.131	ALG11	GDP-Man:Man3GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase	2 GDP-alpha-D-mannose + D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = 2 GDP + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol
+ec:2.4.1.132	ALG2	GDP-Man:Man1GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase	GDP-D-mannose + D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = GDP + D-Man-alpha-(1->3)-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol
+ec:2.4.1.133	B4GALT7	xylosylprotein 4-beta-galactosyltransferase	UDP-alpha-D-galactose + O-beta-D-xylosyl-[protein] = UDP + 4-beta-D-galactosyl-O-beta-D-xylosyl-[protein]
+ec:2.4.1.134	B3GALT6	galactosylxylosylprotein 3-beta-galactosyltransferase	UDP-alpha-D-galactose + 4-beta-D-galactosyl-O-beta-D-xylosyl-[protein] = UDP + 3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosyl-[protein]
+ec:2.4.1.135	B3GAT2,B3GAT3,B3GAT1	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase	UDP-glucuronate + 3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein = UDP + 3-beta-D-glucuronosyl-3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein
+ec:2.4.1.141	ALG14,ALG13	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + N-acetyl-D-glucosaminyl-diphosphodolichol = UDP + N,N'-diacetylchitobiosyl-diphosphodolichol
+ec:2.4.1.142	ALG1	chitobiosyldiphosphodolichol beta-mannosyltransferase	GDP-mannose + chitobiosyldiphosphodolichol = GDP + beta-(1->4)-D-mannosylchitobiosyldiphosphodolichol
+ec:2.4.1.143	MGAT2	alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 6-(alpha-D-mannosyl)-beta-D-mannosyl-R = UDP + 6-(2-[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R
+ec:2.4.1.144	MGAT3	beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-mannosyl-R = UDP + 4-(N-acetyl-beta-D-glucosaminyl)-beta-D-mannosyl-R
+ec:2.4.1.145	MGAT4B,MGAT4A,MGAT4C	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 3-(2-[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R = UDP + 3-(2,4-bis[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R
+ec:2.4.1.147	B3GNT6	acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + N-acetyl-beta-D-galactosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-(1->3)-N-acetyl-beta-D-galactosaminyl-R
+ec:2.4.1.149	B3GNT2,B3GNT1	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-R
+ec:2.4.1.150	GCNT2	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase	UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-(1->6)-beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-R
+ec:2.4.1.152	FUT9	4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	GDP-beta-L-fucose + (1->4)-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R = GDP + (1->4)-beta-D-galactosyl-[alpha-(1->3)-L-fucosyl]-N-acetyl-D-glucosaminyl-R
+ec:2.4.1.155	MGAT5	alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 6-(2-[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R = UDP + 6-(2,6-bis[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R
+ec:2.4.1.174	CSGALNACT2,CSGALNACT1	glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase	UDP-N-acetyl-D-galactosamine + beta-D-glucuronyl-(1->3)-D-galactosyl-proteoglycan = UDP + N-acetyl-D-galactosaminyl-(1->4)-beta-D-glucuronyl-(1->3)-beta-D-galactosylproteoglycan
+ec:2.4.1.175	CHSY1,CHSY3,CSGALNACT2,CSGALNACT1,CHPF	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-proteoglycan = UDP + N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-proteoglycan
+ec:2.4.1.186	GYG1,GYG2	glycogenin glucosyltransferase	UDP-alpha-D-glucose + glycogenin = UDP + alpha-D-glucosylglycogenin
+ec:2.4.1.198	PIGA	phosphatidylinositol N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 1-phosphatidyl-1D-myo-inositol = UDP + 6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol
+ec:2.4.1.201	MGAT4C	alpha-1,6-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + 2,6-bis(N-acetyl-beta-D-glucosaminyl)-alpha-D-mannosyl-R = UDP + 2,4,6-tris(N-acetyl-beta-D-glucosaminyl)-alpha-D-mannosyl-R
+ec:2.4.1.206	B3GNT5	lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.212	HAS1,HAS2,HAS3	hyaluronan synthase	UDP-alpha-N-acetyl-D-glucosamine + beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan] = UDP + N-acetyl-beta-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan]
+ec:2.4.1.221	POFUT2,POFUT1	peptide-O-fucosyltransferase	transfers an alpha-L-fucosyl residue from GDP-beta-L-fucose to the serine hydroxy group of a protein acceptor
+ec:2.4.1.222	LFNG,MFNG,RFNG	O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	transfers a beta-D-GlcNAc residue from UDP-D-GlcNAc to the fucose residue of a fucosylated protein acceptor
+ec:2.4.1.223	EXTL2,EXTL3	glucuronyl-galactosyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-glucuronosyl-(1->3)-beta-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-xylosyl-proteoglycan = UDP + alpha-N-acetyl-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-beta-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-xylosyl-proteoglycan
+ec:2.4.1.224	EXT1,EXT2,EXTL1,EXTL3	glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase	UDP-N-acetyl-D-glucosamine + beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan = UDP + N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan
+ec:2.4.1.225	EXT1,EXT2	N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase	UDP-alpha-D-glucuronate + N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan = UDP + beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan
+ec:2.4.1.226	CHSY1,CHSY3,CHPF2,CHPF	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase	UDP-alpha-D-glucuronate + N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan = UDP + beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan
+ec:2.4.1.228	A4GALT	lactosylceramide 4-alpha-galactosyltransferase	UDP-alpha-D-galactose + beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.1.244	B4GALNT3,B4GALNT4	N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase	UDP-N-acetyl-alpha-D-galactosamine + N-acetyl-beta-D-glucosaminyl group = UDP + N-acetyl-beta-D-galactosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl group
+ec:2.4.1.256	ALG10B,ALG10	dolichyl-P-Glc:Glc2Man9GlcNAc2-PP-dolichol alpha-1,2-glucosyltransferase	dolichyl beta-D-glucosyl phosphate + D-Glc-alpha-(1->3)-D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Glc-alpha-(1->2)-D-Glc-alpha-(1->3)-D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.257	ALG2	GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase	GDP-D-mannose + D-Man-alpha-(1->3)-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = GDP + D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol
+ec:2.4.1.258	ALG3	dolichyl-P-Man:Man5GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase	dolichyl beta-D-mannosyl phosphate + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->3)-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.259	ALG9	dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase	dolichyl beta-D-mannosyl phosphate + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->3)-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.260	ALG12	dolichyl-P-Man:Man7GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase	dolichyl beta-D-mannosyl phosphate + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.261	ALG9	dolichyl-P-Man:Man8GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase	dolichyl beta-D-mannosyl phosphate + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.265	ALG8	dolichyl-P-Glc:Glc1Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase	dolichyl beta-D-glucosyl phosphate + D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Glc-alpha-(1->3)-D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.267	ALG6	dolichyl-P-Glc:Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase	dolichyl beta-D-glucosyl phosphate + D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol = D-Glc-alpha-(1->3)-D-Man-alpha-(1->2)-D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->3)-[D-Man-alpha-(1->2)-D-Man-alpha-(1->6)]-D-Man-alpha-(1->6)]-D-Man-beta-(1->4)-D-GlcNAc-beta-(1->4)-D-GlcNAc-diphosphodolichol + dolichyl phosphate
+ec:2.4.1.274	B4GALT6	glucosylceramide beta-1,4-galactosyltransferase	UDP-alpha-D-galactose + beta-D-glucosyl-(1<->1)-ceramide = UDP + beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.2.1	PNP	purine-nucleoside phosphorylase	purine ribonucleoside + phosphate = purine + alpha-D-ribose 1-phosphate
+ec:2.4.2.3	UPP2,UPP1	uridine phosphorylase	uridine + phosphate = uracil + alpha-D-ribose 1-phosphate
+ec:2.4.2.4	TYMP	thymidine phosphorylase	thymidine + phosphate = thymine + 2-deoxy-alpha-D-ribose 1-phosphate
+ec:2.4.2.7	APRT	adenine phosphoribosyltransferase	AMP + diphosphate = adenine + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.8	HPRT1	hypoxanthine phosphoribosyltransferase	IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.9	UPRT	uracil phosphoribosyltransferase	UMP + diphosphate = uracil + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.10	UMPS	orotate phosphoribosyltransferase	orotidine 5'-phosphate + diphosphate = orotate + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.12	NAMPT	nicotinamide phosphoribosyltransferase	nicotinamide D-ribonucleotide + diphosphate = nicotinamide + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.14	PPAT	amidophosphoribosyltransferase	5-phospho-beta-D-ribosylamine + diphosphate + L-glutamate = L-glutamine + 5-phospho-alpha-D-ribose 1-diphosphate + H2O
+ec:2.4.2.19	QPRT	nicotinate-nucleotide diphosphorylase (carboxylating)	beta-nicotinate D-ribonucleotide + diphosphate + CO2 = pyridine-2,3-dicarboxylate + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.4.2.26	XYLT1,XYLT2	protein xylosyltransferase	Transfers a beta-D-xylosyl residue from UDP-D-xylose to the serine hydroxy group of an acceptor protein substrate
+ec:2.4.2.28	MTAP	S-methyl-5'-thioadenosine phosphorylase	S-methyl-5'-thioadenosine + phosphate = adenine + S-methyl-5-thio-alpha-D-ribose 1-phosphate
+ec:2.4.2.29	QTRTD1,QTRT1	tRNA-guanosine34 transglycosylase	guanine34 in tRNA + queuine = queuine34 in tRNA + guanine
+ec:2.4.2.30	PARP2,PARP3,PARP1,PARP4,PARP15,TIPARP,PARP14,PARP16,ZC3HAV1,PARP6,PARP11,PARP12,PARP8,TNKS2,PARP9,PARP10,TNKS	NAD+ ADP-ribosyltransferase	NAD+ + (ADP-D-ribosyl)n-acceptor = nicotinamide + (ADP-D-ribosyl)n+1-acceptor + H+
+ec:2.4.2.31	ART5,ART1,ART3,ART4,SIRT6	NAD+---protein-arginine ADP-ribosyltransferase	NAD+ + protein L-arginine = nicotinamide + Nomega-(ADP-D-ribosyl)-protein-L-arginine
+ec:2.4.99.1	ST6GAL1,ST6GAL2	beta-galactoside alpha-2,6-sialyltransferase	CMP-N-acetylneuraminate + beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine = CMP + alpha-N-acetylneuraminyl-(2->6)-beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+ec:2.4.99.3	ST6GALNAC1	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase	CMP-N-acetylneuraminate + glycano-(1->3)-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein = CMP + glycano-[(2->6)-alpha-N-acetylneuraminyl]-(N-acetyl-D-galactosaminyl)-glycoprotein
+ec:2.4.99.4	ST3GAL1,ST3GAL2,ST3GAL4	beta-galactoside alpha-2,3-sialyltransferase	CMP-N-acetylneuraminate + beta-D-galactosyl-(1->3)-N-acetyl-alpha-D-galactosaminyl-R = CMP + alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->3)-N-acetyl-alpha-D-galactosaminyl-R
+ec:2.4.99.6	ST3GAL3	N-acetyllactosaminide alpha-2,3-sialyltransferase	CMP-N-acetylneuraminate + beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-glycoprotein = CMP + alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-D-glucosaminyl-glycoprotein
+ec:2.4.99.7	ST6GALNAC4	alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetylgalactosaminide 6-alpha-sialyltransferase	CMP-N-acetylneuraminate + N-acetyl-alpha-neuraminyl-(2->3)-beta-D-galactosyl-(1->3)-N-acetyl-D-galactosaminyl-R = CMP + N-acetyl-alpha-neuraminyl-(2->3)-beta-D-galactosyl-(1->3)-[N-acetyl-alpha-neuraminyl-(2->6)]-N-acetyl-D-galactosaminyl-R
+ec:2.4.99.8	ST8SIA1	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase	CMP-N-acetylneuraminate + alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-R = CMP + alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-R
+ec:2.4.99.9	ST3GAL5	lactosylceramide alpha-2,3-sialyltransferase	CMP-N-acetylneuraminate + beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = CMP + alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+ec:2.4.99.10	ST3GAL6	neolactotetraosylceramide alpha-2,3-sialyltransferase	CMP-N-acetylneuraminate + beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-D-glucosyl-(1<->1)-ceramide = CMP + alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-D-glucosyl-(1<->1)-ceramide
+ec:2.4.99.18	STT3B,STT3A	dolichyl-diphosphooligosaccharide---protein glycotransferase	dolichyl diphosphooligosaccharide +
+ec:2.5.1.1	FDPS,GGPS1	dimethylallyltranstransferase	dimethylallyl diphosphate + isopentenyl diphosphate = diphosphate + geranyl diphosphate
+ec:2.5.1.6	MAT2B,MAT1A,MAT2A	methionine adenosyltransferase	ATP + L-methionine + H2O = phosphate + diphosphate + S-adenosyl-L-methionine
+ec:2.5.1.10	FDPS,GGPS1	(2E,6E)-farnesyl diphosphate synthase	geranyl diphosphate + isopentenyl diphosphate = diphosphate + (2E,6E)-farnesyl diphosphate
+ec:2.5.1.16	SRM	spermidine synthase	S-adenosylmethioninamine + putrescine = S-methyl-5'-thioadenosine + spermidine
+ec:2.5.1.17	MMAB	cob(I)yrinic acid a,c-diamide adenosyltransferase	ATP + cob(I)yrinic acid a,c-diamide = triphosphate + adenosylcob(III)yrinic acid a,c-diamide
+ec:2.5.1.18	GSTO2,GSTA5,GSTA1,GSTA2,GSTA3,GSTA4,GSTM1,GSTM2,GSTM3,GSTM4,GSTM5,GSTP1,GSTT1,GSTT2,GSTK1,MGST1,MGST2,MGST3,GSTT2B,GSTO1	glutathione transferase	RX + glutathione = HX + R-S-glutathione
+ec:2.5.1.21	FDFT1	squalene synthase	2 (2E,6E)-farnesyl diphosphate + NAD(P)H + H+ = squalene + 2 diphosphate + NAD(P)+ (overall reaction)
+ec:2.5.1.22	SMS	spermine synthase	S-adenosylmethioninamine + spermidine = S-methyl-5'-thioadenosine + spermine
+ec:2.5.1.26	AGPS	alkylglycerone-phosphate synthase	1-acyl-glycerone 3-phosphate + a long-chain alcohol = an alkyl-glycerone 3-phosphate + a long-chain acid anion
+ec:2.5.1.29	GGPS1	geranylgeranyl diphosphate synthase	(2E,6E)-farnesyl diphosphate + isopentenyl diphosphate = diphosphate + geranylgeranyl diphosphate
+ec:2.5.1.46	DHPS	deoxyhypusine synthase	[eIF5A-precursor]-lysine + spermidine =
+ec:2.5.1.56	NANS	N-acetylneuraminate synthase	phosphoenolpyruvate + N-acetyl-D-mannosamine + H2O = phosphate + N-acetylneuraminate
+ec:2.5.1.57	NANS	N-acylneuraminate-9-phosphate synthase	phosphoenolpyruvate + N-acyl-D-mannosamine 6-phosphate + H2O = N-acylneuraminate 9-phosphate + phosphate
+ec:2.5.1.58	FNTA,FNTB	protein farnesyltransferase	farnesyl diphosphate + protein-cysteine = S-farnesyl protein + diphosphate
+ec:2.5.1.59	FNTA,PGGT1B	protein geranylgeranyltransferase type I	geranylgeranyl diphosphate + protein-cysteine = S-geranylgeranyl-protein + diphosphate
+ec:2.5.1.60	RABGGTA,RABGGTB	protein geranylgeranyltransferase type II	geranylgeranyl diphosphate + protein-cysteine = S-geranylgeranyl-protein + diphosphate
+ec:2.5.1.61	HMBS	hydroxymethylbilane synthase	4 porphobilinogen + H2O = hydroxymethylbilane + 4 NH3
+ec:2.5.1.75	TRIT1	tRNA dimethylallyltransferase	dimethylallyl diphosphate + adenine37 in tRNA = diphosphate + N6-dimethylallyladenine37 in tRNA
+ec:2.5.1.87	DHDDS	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl diphosphate specific]	(2E,6E)-farnesyl diphosphate + n isopentenyl diphosphate = n diphosphate + ditrans,polycis-polyprenyl diphosphate (n = 10--55)
+ec:2.5.1.91	PDSS1,PDSS2	all-trans-decaprenyl-diphosphate synthase	(2E,6E)-farnesyl diphosphate + 7 isopentenyl diphosphate = 7 diphosphate + all-trans-decaprenyl diphosphate
+ec:2.6.1.1	GOT1,GOT2	aspartate transaminase	L-aspartate + 2-oxoglutarate = oxaloacetate + L-glutamate
+ec:2.6.1.2	GPT,GPT2	alanine transaminase	L-alanine + 2-oxoglutarate = pyruvate + L-glutamate
+ec:2.6.1.5	TAT	tyrosine transaminase	L-tyrosine + 2-oxoglutarate = 4-hydroxyphenylpyruvate + L-glutamate
+ec:2.6.1.7	AADAT,CCBL2,CCBL1	kynurenine---oxoglutarate transaminase	L-kynurenine + 2-oxoglutarate = 4-(2-aminophenyl)-2,4-dioxobutanoate + L-glutamate
+ec:2.6.1.13	OAT	ornithine aminotransferase	L-ornithine + a 2-oxo carboxylate = L-glutamate 5-semialdehyde + an L-amino acid
+ec:2.6.1.16	GFPT1,GFPT2	glutamine---fructose-6-phosphate transaminase (isomerizing)	L-glutamine + D-fructose 6-phosphate = L-glutamate + D-glucosamine 6-phosphate
+ec:2.6.1.19	ABAT	4-aminobutyrate---2-oxoglutarate transaminase	4-aminobutanoate + 2-oxoglutarate = succinate semialdehyde + L-glutamate
+ec:2.6.1.22	ABAT	(S)-3-amino-2-methylpropionate transaminase	(S)-3-amino-2-methylpropanoate + 2-oxoglutarate = 2-methyl-3-oxopropanoate + L-glutamate
+ec:2.6.1.39	AADAT	2-aminoadipate transaminase	L-2-aminoadipate + 2-oxoglutarate = 2-oxoadipate + L-glutamate
+ec:2.6.1.40	AGXT2	(R)-3-amino-2-methylpropionate---pyruvate transaminase	(R)-3-amino-2-methylpropanoate + pyruvate = 2-methyl-3-oxopropanoate + L-alanine
+ec:2.6.1.42	BCAT1,BCAT2	branched-chain-amino-acid transaminase	L-leucine + 2-oxoglutarate = 4-methyl-2-oxopentanoate + L-glutamate
+ec:2.6.1.44	AGXT,AGXT2	alanine---glyoxylate transaminase	L-alanine + glyoxylate = pyruvate + glycine
+ec:2.6.1.45	AGXT	serine---glyoxylate transaminase	L-serine + glyoxylate = 3-hydroxypyruvate + glycine
+ec:2.6.1.51	AGXT	serine---pyruvate transaminase	L-serine + pyruvate = 3-hydroxypyruvate + L-alanine
+ec:2.6.1.52	PSAT1	phosphoserine transaminase	O-phospho-L-serine + 2-oxoglutarate = 3-phosphonooxypyruvate + L-glutamate
+ec:2.6.1.64	CCBL2,CCBL1	glutamine---phenylpyruvate transaminase	L-glutamine + phenylpyruvate = 2-oxoglutaramate + L-phenylalanine
+ec:2.7.1.1	HK1,HK2,HK3,HKDC1	hexokinase	ATP + D-hexose = ADP + D-hexose 6-phosphate
+ec:2.7.1.2	GCK	glucokinase	ATP + D-glucose = ADP + D-glucose 6-phosphate
+ec:2.7.1.3	KHK	ketohexokinase	ATP + D-fructose = ADP + D-fructose 1-phosphate
+ec:2.7.1.6	GALK1,GALK2	galactokinase	ATP + D-galactose = ADP + alpha-D-galactose 1-phosphate
+ec:2.7.1.11	PFKL,PFKM,PFKP	6-phosphofructokinase	ATP + D-fructose 6-phosphate = ADP + D-fructose 1,6-bisphosphate
+ec:2.7.1.14	SHPK	sedoheptulokinase	ATP + sedoheptulose = ADP + sedoheptulose 7-phosphate
+ec:2.7.1.15	RBKS	ribokinase	ATP + D-ribose = ADP + D-ribose 5-phosphate
+ec:2.7.1.17	XYLB	xylulokinase	ATP + D-xylulose = ADP + D-xylulose 5-phosphate
+ec:2.7.1.20	ADK	adenosine kinase	ATP + adenosine = ADP + AMP
+ec:2.7.1.21	TK1,TK2	thymidine kinase	ATP + thymidine = ADP + dTMP
+ec:2.7.1.22	NMRK2,NMRK1	ribosylnicotinamide kinase	ATP + 1-(beta-D-ribofuranosyl)-nicotinamide = ADP + beta-nicotinamide D-ribonucleotide
+ec:2.7.1.23	NADK	NAD+ kinase	ATP + NAD+ = ADP + NADP+
+ec:2.7.1.24	COASY	dephospho-CoA kinase	ATP + 3'-dephospho-CoA = ADP + CoA
+ec:2.7.1.25	PAPSS2,PAPSS1	adenylyl-sulfate kinase	ATP + adenylyl sulfate = ADP + 3'-phosphoadenylyl sulfate
+ec:2.7.1.26	RFK	riboflavin kinase	ATP + riboflavin = ADP + FMN
+ec:2.7.1.29	DAK	glycerone kinase	ATP + glycerone = ADP + glycerone phosphate
+ec:2.7.1.30	GK,GK2	glycerol kinase	ATP + glycerol = ADP + sn-glycerol 3-phosphate
+ec:2.7.1.31	GLYCTK	glycerate 3-kinase	ATP + D-glycerate = ADP + 3-phospho-D-glycerate
+ec:2.7.1.32	CHKA,CHKB	choline kinase	ATP + choline = ADP + phosphocholine
+ec:2.7.1.33	PANK1,PANK4,PANK3,PANK2	pantothenate kinase	ATP + (R)-pantothenate = ADP + (R)-4'-phosphopantothenate
+ec:2.7.1.35	PDXK	pyridoxal kinase	ATP + pyridoxal = ADP + pyridoxal 5'-phosphate
+ec:2.7.1.36	MVK	mevalonate kinase	ATP + (R)-mevalonate = ADP + (R)-5-phosphomevalonate
+ec:2.7.1.40	PKLR,PKM	pyruvate kinase	ATP + pyruvate = ADP + phosphoenolpyruvate
+ec:2.7.1.48	UCKL1,UCK2,UCK1	uridine kinase	ATP + uridine = ADP + UMP
+ec:2.7.1.52	FUK	fucokinase	ATP + L-fucose = ADP + beta-L-fucose 1-phosphate
+ec:2.7.1.59	NAGK	N-acetylglucosamine kinase	ATP + N-acetyl-D-glucosamine = ADP + N-acetyl-D-glucosamine 6-phosphate
+ec:2.7.1.60	GNE	N-acylmannosamine kinase	ATP + N-acyl-D-mannosamine = ADP + N-acyl-D-mannosamine 6-phosphate
+ec:2.7.1.67	PI4KA,PI4KB,PI4K2B,PI4K2A	1-phosphatidylinositol 4-kinase	ATP + 1-phosphatidyl-1D-myo-inositol = ADP + 1-phosphatidyl-1D-myo-inositol 4-phosphate
+ec:2.7.1.68	PIP5KL1,PIP5K1C,PIP5K1A,PIP5K1B	1-phosphatidylinositol-4-phosphate 5-kinase	ATP + 1-phosphatidyl-1D-myo-inositol 4-phosphate = ADP + 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+ec:2.7.1.74	DCK	deoxycytidine kinase	NTP + deoxycytidine = NDP + dCMP
+ec:2.7.1.78	CLP1,PNKP	polynucleotide 5'-hydroxyl-kinase	ATP + 5'-dephospho-DNA = ADP + 5'-phospho-DNA
+ec:2.7.1.82	CHKA,CHKB,ETNK2,ETNK1	ethanolamine kinase	ATP + ethanolamine = ADP + O-phosphoethanolamine
+ec:2.7.1.91	SPHK2,SPHK1	sphinganine kinase	ATP + sphinganine = ADP + sphinganine 1-phosphate
+ec:2.7.1.94	AGK	acylglycerol kinase	ATP + acylglycerol = ADP + acyl-sn-glycerol 3-phosphate
+ec:2.7.1.105	PFKFB1,PFKFB2,PFKFB3,PFKFB4	6-phosphofructo-2-kinase	ATP + beta-D-fructose 6-phosphate = ADP + beta-D-fructose 2,6-bisphosphate
+ec:2.7.1.106	PGM2L1	glucose-1,6-bisphosphate synthase	3-phospho-D-glyceroyl phosphate + alpha-D-glucose 1-phosphate = 3-phospho-D-glycerate + alpha-D-glucose 1,6-bisphosphate
+ec:2.7.1.107	DGKA,DGKB,DGKG,DGKH,DGKQ,DGKZ,DGKE,DGKD,DGKI	diacylglycerol kinase (ATP dependent)	ATP + 1,2-diacyl-sn-glycerol = ADP + 1,2-diacyl-sn-glycerol 3-phosphate
+ec:2.7.1.108	DOLK	dolichol kinase	CTP + dolichol = CDP + dolichyl phosphate
+ec:2.7.1.113	DGUOK	deoxyguanosine kinase	ATP + deoxyguanosine = ADP + dGMP
+ec:2.7.1.127	ITPKA,ITPKB,ITPKC	inositol-trisphosphate 3-kinase	ATP + 1D-myo-inositol 1,4,5-trisphosphate = ADP + 1D-myo-inositol 1,3,4,5-tetrakisphosphate
+ec:2.7.1.134	ITPK1	inositol-tetrakisphosphate 1-kinase	ATP + 1D-myo-inositol 3,4,5,6-tetrakisphosphate = ADP + 1D-myo-inositol 1,3,4,5,6-pentakisphosphate
+ec:2.7.1.137	PIK3C3	phosphatidylinositol 3-kinase	ATP + 1-phosphatidyl-1D-myo-inositol = ADP + 1-phosphatidyl-1D-myo-inositol 3-phosphate
+ec:2.7.1.138	CERK	ceramide kinase	ATP + ceramide = ADP + ceramide 1-phosphate
+ec:2.7.1.147	ADPGK	ADP-specific glucokinase	ADP + D-glucose = AMP + D-glucose 6-phosphate
+ec:2.7.1.149	PIP4K2A,PIP4K2C,PIP4K2B	1-phosphatidylinositol-5-phosphate 4-kinase	ATP + 1-phosphatidyl-1D-myo-inositol 5-phosphate = ADP + 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+ec:2.7.1.150	PIKFYVE	1-phosphatidylinositol-3-phosphate 5-kinase	ATP + 1-phosphatidyl-1D-myo-inositol 3-phosphate = ADP + 1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+ec:2.7.1.151	IPMK	inositol-polyphosphate multikinase	2 ATP + 1D-myo-inositol 1,4,5-trisphosphate = 2 ADP + 1D-myo-inositol 1,3,4,5,6-pentakisphosphate (overall reaction)
+ec:2.7.1.153	PIK3CA,PIK3CB,PIK3CD,PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase	ATP + 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate = ADP + 1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+ec:2.7.1.154	PIK3C2A,PIK3C2B,PIK3C2G	phosphatidylinositol-4-phosphate 3-kinase	ATP + 1-phosphatidyl-1D-myo-inositol 4-phosphate = ADP + 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+ec:2.7.1.158	IPPK	inositol-pentakisphosphate 2-kinase	ATP + 1D-myo-inositol 1,3,4,5,6-pentakisphosphate = ADP + 1D-myo-inositol hexakisphosphate
+ec:2.7.1.159	ITPK1	inositol-1,3,4-trisphosphate 5/6-kinase	ATP + 1D-myo-inositol 1,3,4-trisphosphate = ADP + 1D-myo-inositol 1,3,4,5-tetrakisphosphate
+ec:2.7.1.160	TRPT1	2'-phosphotransferase	2'-phospho-[ligated tRNA] + NAD+ = mature tRNA + ADP-ribose 1'',2''-phosphate + nicotinamide + H2O
+ec:2.7.1.164	PSTK	O-phosphoseryl-tRNASec kinase	ATP + L-seryl-tRNASec = ADP + O-phospho-L-seryl-tRNASec
+ec:2.7.1.171	FN3K	protein-fructosamine 3-kinase	ATP +-N6-(3-O-phospho-D-fructosyl)-L-lysine
+ec:2.7.1.172	FN3KRP	protein-ribulosamine 3-kinase	ATP +-N6-(3-O-phospho-D-ribulosyl)-L-lysine
+ec:2.7.1.173	NMRK2,NMRK1	nicotinate riboside kinase	ATP + beta-D-ribosylnicotinate = ADP + nicotinate beta-D-ribonucleotide
+ec:2.7.2.3	PGK1,PGK2	phosphoglycerate kinase	ATP + 3-phospho-D-glycerate = ADP + 3-phospho-D-glyceroyl phosphate
+ec:2.7.2.11	ALDH18A1	glutamate 5-kinase	ATP + L-glutamate = ADP + L-glutamate 5-phosphate
+ec:2.7.3.2	CKB,CKM,CKMT1B,CKMT2,CKMT1A	creatine kinase	ATP + creatine = ADP + phosphocreatine
+ec:2.7.4.2	PMVK	phosphomevalonate kinase	ATP + (R)-5-phosphomevalonate = ADP + (R)-5-diphosphomevalonate
+ec:2.7.4.3	100507855,AK7,AK1,AK2,AK4,AK5,390877,TAF9	adenylate kinase	ATP + AMP = 2 ADP
+ec:2.7.4.6	NME6,NME7,NME1,NME2,NME3,NME4,NME1-NME2,NME5	nucleoside-diphosphate kinase	ATP + nucleoside diphosphate = ADP + nucleoside triphosphate
+ec:2.7.4.8	GUK1	guanylate kinase	ATP + GMP = ADP + GDP
+ec:2.7.4.9	DTYMK	dTMP kinase	ATP + dTMP = ADP + dTDP
+ec:2.7.4.10	AK3	nucleoside-triphosphate---adenylate kinase	nucleoside triphosphate + AMP = nucleoside diphosphate + ADP
+ec:2.7.4.14	CMPK2,CMPK1	UMP/CMP kinase	ATP + (d)CMP = ADP + (d)CDP
+ec:2.7.4.21	IP6K3,PPIP5K2,IP6K2,PPIP5K1,IP6K1	inositol-hexakisphosphate kinase	ATP + 1D-myo-inositol hexakisphosphate = ADP + 1D-myo-inositol 5-diphosphate 1,2,3,4,6-pentakisphosphate
+ec:2.7.4.24	PPIP5K2,PPIP5K1	diphosphoinositol-pentakisphosphate kinase	ATP + 1D-myo-inositol 5-diphosphate pentakisphosphate = ADP + 1D-myo-inositol bisdiphosphate tetrakisphosphate (isomeric configuration unknown)
+ec:2.7.6.1	PRPS1L1,PRPS1,PRPS2	ribose-phosphate diphosphokinase	ATP + D-ribose 5-phosphate = AMP + 5-phospho-alpha-D-ribose 1-diphosphate
+ec:2.7.6.2	TPK1	thiamine diphosphokinase	ATP + thiamine = AMP + thiamine diphosphate
+ec:2.7.7.1	NMNAT2,NMNAT3,NMNAT1	nicotinamide-nucleotide adenylyltransferase	ATP + nicotinamide ribonucleotide = diphosphate + NAD+
+ec:2.7.7.2	FLAD1	FAD synthetase	ATP + FMN = diphosphate + FAD
+ec:2.7.7.3	COASY	pantetheine-phosphate adenylyltransferase	ATP + pantetheine 4'-phosphate = diphosphate + 3'-dephospho-CoA
+ec:2.7.7.4	PAPSS2,PAPSS1	sulfate adenylyltransferase	ATP + sulfate = diphosphate + adenylyl sulfate
+ec:2.7.7.6	POLR3A,POLR1A,POLR2A,POLR2B,POLRMT,POLR3B,POLR1B	DNA-directed RNA polymerase	nucleoside triphosphate + RNAn = diphosphate + RNAn+1
+ec:2.7.7.7	MYBBP1A,POLQ,PAPD7,POLI,POLL,POLM,POLN,POLK,POLE3,POLA1,POLB,POLD1,POLE,POLE2,POLG,POLH,POLE4,REV3L	DNA-directed DNA polymerase	deoxynucleoside triphosphate + DNAn = diphosphate + DNAn+1
+ec:2.7.7.8	PNPT1	polyribonucleotide nucleotidyltransferase	RNAn+1 + phosphate = RNAn + a nucleoside diphosphate
+ec:2.7.7.9	UGP2	UTP---glucose-1-phosphate uridylyltransferase	UTP + alpha-D-glucose 1-phosphate = diphosphate + UDP-glucose
+ec:2.7.7.12	GALT	UDP-glucose---hexose-1-phosphate uridylyltransferase	UDP-alpha-D-glucose + alpha-D-galactose 1-phosphate = alpha-D-glucose 1-phosphate + UDP-alpha-D-galactose
+ec:2.7.7.13	GMPPB,GMPPA	mannose-1-phosphate guanylyltransferase	GTP + alpha-D-mannose 1-phosphate = diphosphate + GDP-mannose
+ec:2.7.7.14	PCYT2	ethanolamine-phosphate cytidylyltransferase	CTP + ethanolamine phosphate = diphosphate + CDP-ethanolamine
+ec:2.7.7.15	PCYT1A,PCYT1B	choline-phosphate cytidylyltransferase	CTP + phosphocholine = diphosphate + CDP-choline
+ec:2.7.7.18	NMNAT2,NMNAT3,NMNAT1	nicotinate-nucleotide adenylyltransferase	ATP + beta-nicotinate D-ribonucleotide = diphosphate + deamido-NAD+
+ec:2.7.7.19	PAPOLA,PAPD4,PAPOLB,PAPOLG	polynucleotide adenylyltransferase	ATP + RNAn = diphosphate + RNAn+1
+ec:2.7.7.23	UAP1,UAP1L1	UDP-N-acetylglucosamine diphosphorylase	UTP + N-acetyl-alpha-D-glucosamine 1-phosphate = diphosphate + UDP-N-acetyl-alpha-D-glucosamine
+ec:2.7.7.30	FPGT	fucose-1-phosphate guanylyltransferase	GTP + beta-L-fucose 1-phosphate = diphosphate + GDP-L-fucose
+ec:2.7.7.31	DNTT	DNA nucleotidylexotransferase	deoxynucleoside triphosphate + DNAn = diphosphate + DNAn+1
+ec:2.7.7.41	CDS1,CDS2	phosphatidate cytidylyltransferase	CTP + phosphatidate = diphosphate + CDP-diacylglycerol
+ec:2.7.7.43	CMAS	N-acylneuraminate cytidylyltransferase	CTP + N-acylneuraminate = diphosphate + CMP-N-acylneuraminate
+ec:2.7.7.49	TERT	RNA-directed DNA polymerase	deoxynucleoside triphosphate + DNAn = diphosphate + DNAn+1
+ec:2.7.7.50	RNGTT	mRNA guanylyltransferase	GTP + (5')ppPur-mRNA = diphosphate + G(5')pppPur-mRNA
+ec:2.7.7.52	ZCCHC11,ZCCHC6	RNA uridylyltransferase	UTP + RNAn = diphosphate + RNAn+1
+ec:2.7.7.72	TRNT1	CCA tRNA nucleotidyltransferase	a tRNA precursor + 2 CTP + ATP = a tRNA with a 3' CCA end + 3 diphosphate (overall reaction)
+ec:2.7.7.75	GPHN	molybdopterin adenylyltransferase	ATP + molybdopterin = diphosphate + adenylyl-molybdopterin
+ec:2.7.7.78	GDPGP1	GDP-D-glucose phosphorylase	GDP-alpha-D-glucose + phosphate = alpha-D-glucose 1-phosphate + GDP
+ec:2.7.7.79	THG1L	tRNAHis guanylyltransferase	p-tRNAHis + ATP + GTP = pppGp-tRNAHis + AMP + diphosphate (overall reaction)
+ec:2.7.8.1	CEPT1,EPT1	ethanolaminephosphotransferase	CDP-ethanolamine + 1,2-diacyl-sn-glycerol = CMP + a phosphatidylethanolamine
+ec:2.7.8.2	CEPT1,CHPT1	diacylglycerol cholinephosphotransferase	CDP-choline + 1,2-diacyl-sn-glycerol = CMP + a phosphatidylcholine
+ec:2.7.8.5	PGS1	CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	CDP-diacylglycerol + sn-glycerol 3-phosphate = CMP + 3(3-sn-phosphatidyl)-sn-glycerol 1-phosphate
+ec:2.7.8.11	CDIPT	CDP-diacylglycerol---inositol 3-phosphatidyltransferase	CDP-diacylglycerol + myo-inositol = CMP + 1-phosphatidyl-1D-myo-inositol
+ec:2.7.8.15	DPAGT1	UDP-N-acetylglucosamine---dolichyl-phosphate N-acetylglucosaminephosphotransferase	UDP-N-acetyl-D-glucosamine + dolichyl phosphate = UMP + N-acetyl-D-glucosaminyl-diphosphodolichol
+ec:2.7.8.17	GNPTAB	UDP-N-acetylglucosamine---lysosomal-enzyme N-acetylglucosaminephosphotransferase	UDP-N-acetyl-D-glucosamine + lysosomal-enzyme D-mannose = UMP + lysosomal-enzyme N-acetyl-D-glucosaminyl-phospho-D-mannose
+ec:2.7.8.27	SGMS2,SGMS1	sphingomyelin synthase	a ceramide + a phosphatidylcholine = a sphingomyelin + a 1,2-diacyl-sn-glycerol
+ec:2.7.8.29	PTDSS2	L-serine-phosphatidylethanolamine phosphatidyltransferase	L-1-phosphatidylethanolamine + L-serine = L-1-phosphatidylserine + ethanolamine
+ec:2.7.9.3	SEPHS2,SEPHS1	selenide, water dikinase	ATP + selenide + H2O = AMP + selenophosphate + phosphate
+ec:2.7.10.1	MERTK,LMTK3,CSF1R,EGFR,EPHA2,EPHA1,EPHA3,EPHA4,EPHA5,EPHA7,EPHA8,EPHB1,EPHB2,EPHB3,EPHB4,EPHB6,ERBB2,ERBB3,ERBB4,FGFR1,FGFR3,FGFR2,FGFR4,LMTK2,FLT1,FLT3,FLT4,ALK,EPHA10,EPHA6,IGF1R,INSR,INSRR,KDR,KIT,LTK,MET,MST1R,MUSK,NTRK1,NTRK2,NTRK3,ROR1,ROR2,DDR2,PDGFRA,PDGFRB,AXL,PTK7,RET,ROS1,RYK,TEK,TIE1,TYRO3,DDR1,AATK	receptor protein-tyrosine kinase	ATP + a
+ec:2.7.10.2	TNK2,CSK,SGK223,PTK2B,FER,FES,FGR,FRK,ABL1,FYN,ABL2,HCK,ITK,JAK1,JAK2,JAK3,LCK,LYN,MATK,STYK1,PTK2,PTK6,BLK,BMX,SRC,SRMS,SYK,BTK,TEC,TXK,TYK2,YES1,ZAP70,PEAK1,TNK1	non-specific protein-tyrosine kinase	ATP + a
+ec:2.7.11.1	AKT3,FPGT-TNNI3K,C8orf44-SGK3,SGK2,HIPK3,TNK2,SPEG,PAK4,STK25,ERN2,NEK6,TLK2,RIPK3,PIM2,CHEK1,CIT,MAP4K5,MAP4K1,CHEK2,IRAK3,TP53RK,STK38,LRRK2,CSNK1A1L,SGK494,UHMK1,MYO3B,NEK7,TRPM6,STK35,CSNK1A1,CSNK1D,CSNK1E,CSNK1G2,CSNK1G3,CSNK2A1,CSNK2A2,HIPK4,PDIK1L,SIK1,NEK10,DAPK1,DAPK3,DCLK2,NIM1,DMPK,MLKL,MARK2,STK32A,NRK,HIPK1,AKT1,AKT2,ERN1,AAK1,MAST1,STK38L,MAST3,TNIK,MAST2,PASK,SIK2,SIK3,DAPK2,TSSK2,SGK3,ANKK1,DSTYK,GAK,ULK3,LATS2,SRPK3,EIF2AK1,STK36,RPS6KA6,STK39,STK32C,TSSK4,NEK8,MKNK2,HIPK2,HUNK,PIK3R4,NEK5,ILK,IRAK1,IRAK2,ARAF,MAST4,SBK1,LIMK1,LIMK2,MARK1,MARK3,PIM3,MOS,EIF2AK4,ATM,NEK1,NEK2,NEK3,WEE2,MINK1,PAK1,PAK2,PAK3,TNNI3K,IRAK4,VRK3,TAOK3,PDPK1,MST4,PIM1,MYO3A,CSNK1G1,RIPK4,ATR,TRPM7,SNRK,ULK4,STK32B,CDC42BPG,BMP2K,RIOK2,PRKDC,EIF2AK2,STK31,PSKH1,PAK6,PAK7,TAOK1,MARK4,MAP4K2,RAF1,ROCK1,BCR,RPS6KA1,RPS6KA2,RPS6KA3,RPS6KB1,RPS6KB2,SGK1,SBK2,PINK1,WNK1,WNK4,WNK3,WNK2,STK33,BRAF,SRPK1,SRPK2,NEK4,AURKA,STK10,AURKC,BUB1,BUB1B,TRIO,TTN,VRK1,VRK2,WEE1,MAPKAPK3,LRRK1,NEK11,MAP3K19,TSSK3,NUAK2,CDC7,RIOK1,GSG2,STK40,TSSK1B,TSSK6,OBSCN,ULK1,STK24,BRSK1,CDC42BPA,MAP4K3,MASTL,DCLK3,PSKH2,MAPKAPK5,MKNK1,CASK,STK16,RIPK1,RIPK2,RIOK3,STK19,PRPF4B,RPS6KA4,KALRN,BRSK2,PKMYT1,LATS1,NEK9,DCLK1,AURKB,RPS6KA5,MAPKAPK2,STK17B,STK17A,TAOK2,MAP4K4,EIF2AK3,ROCK2,CDC42BPB,ULK2,SLK,MELK,TLK1,NUAK1,OXSR1	non-specific serine/threonine protein kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.2	PDK1,PDK2,PDK3,PDK4	[pyruvate dehydrogenase (acetyl-transferring)] kinase	ATP +
+ec:2.7.11.4	BCKDK	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] kinase	ATP + phosphate
+ec:2.7.11.8	FASTK	Fas-activated serine/threonine kinase	ATP +
+ec:2.7.11.10	CHUK,TBK1,IKBKB,IKBKE	IkappaB kinase	ATP +
+ec:2.7.11.11	PRKAA1,PRKAA2,PRKACA,PRKACB,PRKACG,PRKX	cAMP-dependent protein kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.12	PRKG1,PRKG2	cGMP-dependent protein kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.13	PRKD3,PRKD2,PKN3,PRKCA,PRKCB,PRKCD,PRKCE,PRKCG,PRKCH,PRKCI,PKN1,PKN2,PRKD1,PRKCQ,PRKCZ	protein kinase C	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.14	GRK7,GRK1	rhodopsin kinase	ATP + rhodopsin = ADP + phosphorhodopsin
+ec:2.7.11.15	ADRBK1,ADRBK2	beta-adrenergic-receptor kinase	ATP +
+ec:2.7.11.16	GRK4,GRK5,GRK6	G-protein-coupled receptor kinase	ATP + phosphate
+ec:2.7.11.17	CAMKK2,PNCK,CAMK1D,CAMK1G,CAMK4,CAMK2A,CAMK2B,CAMK2D,CAMK2G,CAMKK1,CAMK1	Ca2+/calmodulin-dependent protein kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.18	MYLK4,MYLK,MYLK2,MYLK3	myosin-light-chain kinase	ATP +
+ec:2.7.11.19	PHKG1,PHKG2	phosphorylase kinase	2 ATP + phosphorylase b = 2 ADP + phosphorylase a
+ec:2.7.11.20	EEF2K	elongation factor 2 kinase	ATP + phosphate
+ec:2.7.11.21	PLK4,PLK2,PLK3,PLK1	polo kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.22	CDK2,CDK3,CDK4,CDK5,CDK6,CDK7,CDK8,CDK9,ICK,CDK19,CDK20,CDKL4,MAK,CDKL3,CDK16,CDK17,CDK18,CDK12,CDK14,MOK,CDK15,CDKL5,CDK11A,CDK10,CDK13,CDKL1,CDKL2,CDK1,CDK11B	cyclin-dependent kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.23	CDK7,CDK8,CDK9,CDK19,CDK12,CDK13,CDK1	[RNA-polymerase]-subunit kinase	ATP +
+ec:2.7.11.24	MAPK14,MAPK15,NLK,MAPK1,MAPK3,MAPK4,MAPK6,MAPK7,MAPK8,MAPK11,MAPK9,MAPK10,MAPK13,MAPK12	mitogen-activated protein kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.25	MAP3K2,MAP3K8,MAP3K15,MAP3K1,MAP3K3,MAP3K4,MAP3K5,MAP3K9,MAP3K10,MAP3K11,ZAK,MAP3K7,MAP3K12,KIAA1804,MAP3K14,MAP3K6,MAP3K13	mitogen-activated protein kinase kinase kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.11.26	TTBK2,GSK3A,GSK3B,TTBK1	tau-protein kinase	ATP +
+ec:2.7.11.30	ACVR1C,AMHR2,BMPR1A,BMPR1B,BMPR2,TGFBR1,TGFBR2,ACVR1,ACVR1B,ACVR2A,ACVR2B,ACVRL1	receptor protein serine/threonine kinase	ATP + phosphate
+ec:2.7.12.1	TESK2,CLK1,CLK2,CLK3,DYRK1A,CLK4,TESK1,TTK,DYRK3,DYRK2,DYRK4,DYRK1B	dual-specificity kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.7.12.2	PBK,MAP2K1,MAP2K2,MAP2K3,MAP2K5,MAP2K6,MAP2K7,MAP2K4	mitogen-activated protein kinase kinase	ATP + a protein = ADP + a phosphoprotein
+ec:2.8.1.1	MPST,TST	thiosulfate sulfurtransferase	thiosulfate + cyanide = sulfite + thiocyanate
+ec:2.8.1.2	MPST,TST	3-mercaptopyruvate sulfurtransferase	3-mercaptopyruvate + cyanide = pyruvate + thiocyanate
+ec:2.8.1.7	NFS1	cysteine desulfurase	L-cysteine + acceptor = L-alanine + S-sulfanyl-acceptor (overall reaction)
+ec:2.8.1.8	LIAS	lipoyl synthase	protein N6-(octanoyl)lysine + 2 sulfur-(sulfur carrier) + 2 S-adenosyl-L-methionine = protein N6-(lipoyl)lysine + 2 (sulfur carrier) + 2 L-methionine + 2 5'-deoxyadenosine
+ec:2.8.1.9	MOCOS	molybdenum cofactor sulfurtransferase	molybdenum cofactor + L-cysteine + 2 H+ = thio-molybdenum cofactor + L-alanine + H2O
+ec:2.8.2.1	SULT1A4,SULT1A2,SULT1A1,SULT1A3	aryl sulfotransferase	3'-phosphoadenylyl sulfate + a phenol = adenosine 3',5'-bisphosphate + an aryl sulfate
+ec:2.8.2.2	SULT2B1	alcohol sulfotransferase	3'-phosphoadenylyl sulfate + an alcohol = adenosine 3',5'-bisphosphate + an alkyl sulfate
+ec:2.8.2.4	SULT1E1	estrone sulfotransferase	3'-phosphoadenylyl sulfate + estrone = adenosine 3',5'-bisphosphate + estrone 3-sulfate
+ec:2.8.2.5	CHST13,CHST11,CHST12	chondroitin 4-sulfotransferase	3'-phosphoadenylyl sulfate + chondroitin = adenosine 3',5'-bisphosphate + chondroitin 4'-sulfate
+ec:2.8.2.11	GAL3ST1	galactosylceramide sulfotransferase	3'-phosphoadenylyl sulfate + a galactosylceramide = adenosine 3',5'-bisphosphate + a galactosylceramidesulfate
+ec:2.8.2.14	SULT2A1	bile-salt sulfotransferase	3'-phosphoadenylyl sulfate + glycolithocholate = adenosine 3',5'-bisphosphate + glycolithocholate 3-sulfate
+ec:2.8.2.17	CHST7,CHST3	chondroitin 6-sulfotransferase	3'-phosphoadenylyl sulfate + chondroitin = adenosine 3',5'-bisphosphate + chondroitin 6'-sulfate
+ec:2.8.2.20	TPST2,TPST1	protein-tyrosine sulfotransferase	3'-phosphoadenylyl sulfate + protein tyrosine = adenosine 3',5'-bisphosphate + protein tyrosine-O-sulfate
+ec:2.8.2.21	CHST1	keratan sulfotransferase	3'-phosphoadenylyl sulfate + keratan = adenosine 3',5'-bisphosphate + keratan 6'-sulfate
+ec:2.8.2.23	HS3ST5,HS3ST1	[heparan sulfate]-glucosamine 3-sulfotransferase 1	3'-phosphoadenylyl sulfate +
+ec:2.8.2.29	HS3ST2	[heparan sulfate]-glucosamine 3-sulfotransferase 2	3'-phosphoadenylyl sulfate +
+ec:2.8.2.30	HS3ST3B1,HS3ST3A1	[heparan sulfate]-glucosamine 3-sulfotransferase 3	3'-phosphoadenylyl sulfate +
+ec:2.8.2.33	CHST15	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase	3-phospho-5-adenylyl sulfate +
+ec:2.8.2.35	CHST14	dermatan 4-sulfotransferase	3'-phospho-5'-adenylyl sulfate +-4-O-sulfo-N-acetyl-D-galactosamine
+ec:2.8.3.5	OXCT1,OXCT2	3-oxoacid CoA-transferase	succinyl-CoA + a 3-oxo acid = succinate + a 3-oxoacyl-CoA
+ec:2.9.1.2	SEPSECS	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	O-phospho-L-seryl-tRNASec + selenophosphate = L-selenocysteinyl-tRNASec + phosphate
+ec:2.10.1.1	GPHN	molybdopterin molybdotransferase	adenylyl-molybdopterin + molybdate = molybdenum cofactor + AMP
+ec:3.1.1.1	CES1,CES5A,CES3,CES2	carboxylesterase	a carboxylic ester + H2O = an alcohol + a carboxylate
+ec:3.1.1.2	PON1,PON2,PON3	arylesterase	a phenyl acetate + H2O = a phenol + acetate
+ec:3.1.1.3	CEL,PNLIPRP3,AADAC,LIPC,PNLIP,PNLIPRP1,PNLIPRP2,PNPLA2,PNPLA3,LIPF,LIPG	triacylglycerol lipase	triacylglycerol + H2O = diacylglycerol + a carboxylate
+ec:3.1.1.4	PLA2G4B,PLA2G16,PLA2G4E,PLB1,PLA2G4F,PLA2G2D,PLA2G4D,PLA2G2E,PLA2G2C,PLA2G3,PLA2G1B,PLA2G2A,PLA2G4A,PLA2G5,PLA2G2F,PLA2G12A,PLA2G6,PLA2G10,PLA2G12B,PLA2G4C,JMJD7-PLA2G4B	phospholipase A2	phosphatidylcholine + H2O = 1-acylglycerophosphocholine + a carboxylate
+ec:3.1.1.5	LYPLA1,PNPLA6,LYPLA2,CLC,PLB1,PLA2G15,ASPG,PNPLA7	lysophospholipase	2-lysophosphatidylcholine + H2O = glycerophosphocholine + a carboxylate
+ec:3.1.1.7	ACHE	acetylcholinesterase	acetylcholine + H2O = choline + acetate
+ec:3.1.1.8	BCHE	cholinesterase	an acylcholine + H2O = choline + a carboxylate
+ec:3.1.1.13	CEL,LIPA	sterol esterase	a steryl ester + H2O = a sterol + a fatty acid
+ec:3.1.1.17	RGN	gluconolactonase	D-glucono-1,5-lactone + H2O = D-gluconate
+ec:3.1.1.23	MGLL,ABHD12,ABHD6	acylglycerol lipase	Hydrolyses glycerol monoesters of long-chain fatty acids
+ec:3.1.1.29	PTRH1,ICT1,PTRH2	aminoacyl-tRNA hydrolase	N-substituted aminoacyl-tRNA + H2O = N-substituted amino acid + tRNA
+ec:3.1.1.31	PGLS,H6PD	6-phosphogluconolactonase	6-phospho-D-glucono-1,5-lactone + H2O = 6-phospho-D-gluconate
+ec:3.1.1.32	PLA2G16	phospholipase A1	phosphatidylcholine + H2O = 2-acylglycerophosphocholine + a carboxylate
+ec:3.1.1.34	LPL	lipoprotein lipase	triacylglycerol + H2O = diacylglycerol + a carboxylate
+ec:3.1.1.45	CMBL	carboxymethylenebutenolidase	4-carboxymethylenebut-2-en-4-olide + H2O = 4-oxohex-2-enedioate
+ec:3.1.1.47	ASPG,PAFAH1B2,PAFAH1B3,PAFAH2,PLA2G7	1-alkyl-2-acetylglycerophosphocholine esterase	1-alkyl-2-acetyl-sn-glycero-3-phosphocholine + H2O = 1-alkyl-sn-glycero-3-phosphocholine + acetate
+ec:3.1.1.53	SIAE	sialate O-acetylesterase	N-acetyl-O-acetylneuraminate + H2O = N-acetylneuraminate + acetate
+ec:3.1.1.56	CES2	methylumbelliferyl-acetate deacetylase	4-methylumbelliferyl acetate + H2O = 4-methylumbelliferone + acetate
+ec:3.1.1.64	RPE65	retinoid isomerohydrolase	an all-trans-retinyl ester + H2O = 11-cis-retinol + a fatty acid
+ec:3.1.1.77	AOAH	acyloxyacyl hydrolase	3-(acyloxy)acyl group of bacterial toxin + H2O = 3-hydroxyacyl group of bacterial toxin + a fatty acid
+ec:3.1.1.79	LIPE	hormone-sensitive lipase	diacylglycerol + H2O = monoacylglycerol + a carboxylate
+ec:3.1.1.84	CES2	cocaine esterase	cocaine + H2O = ecgonine methyl ester + benzoate
+ec:3.1.1.89	PPME1	protein phosphatase methylesterase-1	[phosphatase 2A protein]-leucine methyl ester + H2O =-leucine + methanol
+ec:3.1.2.1	ACOT12	acetyl-CoA hydrolase	acetyl-CoA + H2O = CoA + acetate
+ec:3.1.2.2	ACOT2,ACOT7,ACOT4,BAAT,ACOT1	palmitoyl-CoA hydrolase	palmitoyl-CoA + H2O = CoA + palmitate
+ec:3.1.2.4	HIBCH	3-hydroxyisobutyryl-CoA hydrolase	3-hydroxy-2-methylpropanoyl-CoA + H2O = CoA + 3-hydroxy-2-methylpropanoate
+ec:3.1.2.6	HAGH,HAGHL	hydroxyacylglutathione hydrolase	S-(2-hydroxyacyl)glutathione + H2O = glutathione + a 2-hydroxy carboxylate
+ec:3.1.2.12	ESD	S-formylglutathione hydrolase	S-formylglutathione + H2O = glutathione + formate
+ec:3.1.2.14	OLAH	oleoyl-[acyl-carrier-protein] hydrolase	an oleoyl-[acyl-carrier protein] + H2O = an
+ec:3.1.2.15	USP17L17,USP17L22,USP16,STAMBP,USP20,USP19,USP18,USP43,CYLD,USP51,USP12,USP33,USP22,USP24,USP49,USP21,USP25,USP41,USP17L2,USP27X,USP47,USP40,OTUD5,USP31,USP35,STAMBPL1,USP36,USP28,USP29,USP37,USP46,USP17L24,USP17L25,USP17L26,USP17L5,USP17L27,USP17L28,USP17L29,USP17L30,USP4,USP1,USP7,USP5,USP11,USP9X,USP9Y,USP26,USP44,USP42,USP48,USP38,USP32,USP30,USP45,USP13,USP14,USP6,USP2,USP10,USP8,USP34,USP15,USP3	ubiquitin thiolesterase	ubiquitin C-terminal thioester + H2O = ubiquitin + a thiol
+ec:3.1.2.22	PPT1,PPT2	palmitoyl[protein] hydrolase	palmitoyl[protein] + H2O = palmitate + protein
+ec:3.1.2.27	ACOT8	choloyl-CoA hydrolase	choloyl-CoA + H2O = cholate + CoA
+ec:3.1.3.1	ALPI,ALPL,ALPP,ALPPL2	alkaline phosphatase	a phosphate monoester + H2O = an alcohol + phosphate
+ec:3.1.3.2	ACP6,ACP1,ACP2,ACP5,ACPP,ACPT	acid phosphatase	a phosphate monoester + H2O = an alcohol + phosphate
+ec:3.1.3.3	100996819,PSPH	phosphoserine phosphatase	O-phospho-L(or D)-serine + H2O = L(or D)-serine + phosphate
+ec:3.1.3.4	LPIN1,LPIN3,PPAP2A,PPAP2C,PPAP2B,LPIN2	phosphatidate phosphatase	a 1,2-diacylglycerol 3-phosphate + H2O = a 1,2-diacyl-sn-glycerol + phosphate
+ec:3.1.3.5	NT5C1B-RDH14,NT5C3B,NT5C2,NT5C,NT5E,NT5C3A,NT5M,NT5C1A,NT5C1B	5'-nucleotidase	a 5'-ribonucleotide + H2O = a ribonucleoside + phosphate
+ec:3.1.3.7	BPNT1,IMPAD1	3'(2'),5'-bisphosphate nucleotidase	adenosine 3',5'-bisphosphate + H2O = AMP + phosphate
+ec:3.1.3.9	G6PC,G6PC2,G6PC3	glucose-6-phosphatase	D-glucose 6-phosphate + H2O = D-glucose + phosphate
+ec:3.1.3.11	FBP1,FBP2	fructose-bisphosphatase	D-fructose 1,6-bisphosphate + H2O = D-fructose 6-phosphate + phosphate
+ec:3.1.3.13	BPGM	bisphosphoglycerate phosphatase	2,3-bisphospho-D-glycerate + H2O = 3-phospho-D-glycerate + phosphate
+ec:3.1.3.16	PPP5D1,CTDSP2,CTDSPL,CDKN3,DUSP14,DUSP10,DUSP12,PTPMT1,DUSP15,PPM1M,UBLCP1,DUSP19,DUSP18,PPM1L,PPM1K,PPTC7,DUSP1,DUSP2,DUSP3,DUSP4,DUSP5,DUSP6,DUSP7,DUSP8,DUSP9,PGAM5,PPM1E,PHLPP2,PHLPP1,CTDNEP1,DUSP28,SSU72,PPM1J,DUPD1,DUSP13,STYXL1,PPEF2,PPEF1,DUSP23,PPM1A,PPM1B,PPM1G,PPP1CA,PPP1CB,PPP1CC,PPP2CA,PPP2CB,PPP3CA,PPP4C,PPP3CB,PPP3CC,PPP5C,PPP6C,DUSP22,PTEN,PPM1H,CTDSP1,DUSP21,DUSP26,EPM2A,DUSP16,ILKAP,DUSP11,PPM1D,CTDP1,DUSP27,PPM1F	phosphoprotein phosphatase	a phosphoprotein + H2O = a protein + phosphate
+ec:3.1.3.18	PGP	phosphoglycolate phosphatase	2-phosphoglycolate + H2O = glycolate + phosphate
+ec:3.1.3.25	IMPA1,IMPA2,IMPAD1	inositol-phosphate phosphatase	myo-inositol phosphate + H2O = myo-inositol + phosphate
+ec:3.1.3.29	NANP	N-acylneuraminate-9-phosphatase	N-acylneuraminate 9-phosphate + H2O = N-acylneuraminate + phosphate
+ec:3.1.3.32	PNKP	polynucleotide 3'-phosphatase	a 3'-phosphopolynucleotide + H2O = a polynucleotide + phosphate
+ec:3.1.3.33	RNGTT	polynucleotide 5'-phosphatase	a 5'-phosphopolynucleotide + H2O = a polynucleotide + phosphate
+ec:3.1.3.36	INPP5B,OCRL,INPP5E,SYNJ1,SYNJ2	phosphoinositide 5-phosphatase	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 4-phosphate + phosphate
+ec:3.1.3.43	PDP1,PDP2	[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase	[pyruvate dehydrogenase (acetyl-transferring)] phosphate + H2O =
+ec:3.1.3.46	PFKFB1,PFKFB2,PFKFB3,PFKFB4,C12orf5	fructose-2,6-bisphosphate 2-phosphatase	beta-D-fructose 2,6-bisphosphate + H2O = D-fructose 6-phosphate + phosphate
+ec:3.1.3.48	NEDD8-MDP1,PTPRU,CDKN3,DUSP14,PTPN21,PTPRT,PTP4A3,DUSP10,DUSP12,PTPMT1,DUSP15,PTPDC1,DUSP19,MDP1,DUSP18,DUSP1,DUSP2,DUSP3,DUSP4,DUSP5,DUSP6,DUSP7,DUSP8,DUSP9,EYA4,EYA1,EYA2,EYA3,PTPN23,PTPN22,PTPN18,DUSP28,DUPD1,PTPRQ,DUSP13,STYXL1,ACP1,DUSP23,DUSP22,PTEN,PTPN1,PTPN2,PTPN3,PTPN4,PTPN6,PTPN7,PTPN9,PTPN11,PTPN12,PTPN14,PTPRA,PTPRB,PTPRC,PTPRD,PTPRE,PTPRF,PTPRG,PTPRH,PTPRJ,PTPRK,PTPRM,PTPRN,PTPRN2,PTPRO,PTPRR,PTPRS,PTPRZ1,DUSP21,TPTE,PTP4A1,DUSP26,EPM2A,PTP4A2,DUSP16,DUSP11,PTPN5,CDC14B,CDC14A,MTMR3,DUSP27,CDC25A,CDC25B,CDC25C	protein-tyrosine-phosphatase	protein tyrosine phosphate + H2O = protein tyrosine + phosphate
+ec:3.1.3.56	INPP5J,INPP5A,INPP5K	inositol-polyphosphate 5-phosphatase	D-myo-inositol 1,4,5-trisphosphate + H2O = myo-inositol 1,4-bisphosphate + phosphate
+ec:3.1.3.57	INPP1	inositol-1,4-bisphosphate 1-phosphatase	1D-myo-inositol 1,4-bisphosphate + H2O = 1D-myo-inositol 4-phosphate + phosphate
+ec:3.1.3.62	MINPP1	multiple inositol-polyphosphate phosphatase	myo-inositol hexakisphosphate + H2O = myo-inositol pentakisphosphate (mixed isomers) + phosphate
+ec:3.1.3.64	MTM1	phosphatidylinositol-3-phosphatase	1-phosphatidyl-1D-myo-inositol 3-phosphate + H2O = 1-phosphatidyl-1D-myo-inositol + phosphate
+ec:3.1.3.66	INPP4A,INPP4B	phosphatidylinositol-3,4-bisphosphate 4-phosphatase	1-phosphatidyl-myo-inositol 3,4-bisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 3-phosphate + phosphate
+ec:3.1.3.67	PTEN	phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + phosphate
+ec:3.1.3.74	PHOSPHO2,PDXP	pyridoxal phosphatase	pyridoxal 5'-phosphate + H2O = pyridoxal + phosphate
+ec:3.1.3.75	PHOSPHO1	phosphoethanolamine/phosphocholine phosphatase	O-phosphoethanolamine + H2O = ethanolamine + phosphate
+ec:3.1.3.77	ENOPH1	acireductone synthase	5-(methylthio)-2,3-dioxopentyl phosphate + H2O = 1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + phosphate (overall reaction)
+ec:3.1.3.78	TMEM55A,TMEM55B	phosphatidylinositol-4,5-bisphosphate 4-phosphatase	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 5-phosphate + phosphate
+ec:3.1.3.86	INPP5D,INPPL1	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate + phosphate
+ec:3.1.4.1	ENPP1,ENPP3	phosphodiesterase I	Hydrolytically removes 5'-nucleotides successively from the 3'-hydroxy termini of 3'-hydroxy-terminated oligonucleotides
+ec:3.1.4.4	PLD4,PLD3,PLD1,PLD2	phospholipase D	a phosphatidylcholine + H2O = choline + a phosphatidate
+ec:3.1.4.11	PLCD3,PLCB1,PLCE1,PLCB2,PLCB3,PLCB4,PLCD1,PLCG1,PLCG2,PLCD4,PLCZ1	phosphoinositide phospholipase C	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + H2O = 1D-myo-inositol 1,4,5-trisphosphate + diacylglycerol
+ec:3.1.4.12	ENPP7,SMPD3,SMPD4,SMPD1,SMPD2	sphingomyelin phosphodiesterase	a sphingomyelin + H2O = a ceramide + phosphocholine
+ec:3.1.4.17	PDE10A,PDE7B,PDE11A,PDE1A,PDE1C,PDE2A,PDE3A,PDE3B,PDE4A,PDE4B,PDE4C,PDE4D,PDE7A,PDE8A,PDE1B,PDE8B	3',5'-cyclic-nucleotide phosphodiesterase	nucleoside 3',5'-cyclic phosphate + H2O = nucleoside 5'-phosphate
+ec:3.1.4.35	PDE11A,PDE6A,PDE6C,PDE9A,PDE6B,PDE5A	3',5'-cyclic-GMP phosphodiesterase	guanosine 3',5'-cyclic phosphate + H2O = GMP
+ec:3.1.4.37	CNP	2',3'-cyclic-nucleotide 3'-phosphodiesterase	nucleoside 2',3'-cyclic phosphate + H2O = nucleoside 2'-phosphate
+ec:3.1.4.39	ENPP2	alkylglycerophosphoethanolamine phosphodiesterase	1-alkyl-sn-glycero-3-phosphoethanolamine + H2O = 1-alkyl-sn-glycerol 3-phosphate + ethanolamine
+ec:3.1.4.43	GDPD2	glycerophosphoinositol inositolphosphodiesterase	1-(sn-glycero-3-phospho)-1D-myo-inositol + H2O = glycerol + 1D-myo-inositol 1-phosphate
+ec:3.1.4.45	NAGPA	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	glycoprotein N-acetyl-D-glucosaminyl-phospho-D-mannose + H2O = N-acetyl-D-glucosamine + glycoprotein phospho-D-mannose
+ec:3.1.4.50	GPLD1	glycosylphosphatidylinositol phospholipase D	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol + H2O = 6-(alpha-D-glucosaminyl)-1D-myo-inositol + 3-sn-phosphatidate
+ec:3.1.4.54	NAPEPLD	N-acetylphosphatidylethanolamine-hydrolysing phospholipase D	N-acylphosphatidylethanolamine + H2O = N-acylethanolamine + a 1,2-diacylglycerol 3-phosphate
+ec:3.1.6.2	STS	steryl-sulfatase	3beta-hydroxyandrost-5-en-17-one 3-sulfate + H2O = 3beta-hydroxyandrost-5-en-17-one + sulfate
+ec:3.1.6.4	GALNS	N-acetylgalactosamine-6-sulfatase	Hydrolysis of the 6-sulfate groups of the N-acetyl-D-galactosamine 6-sulfate units of chondroitin sulfate and of the D-galactose 6-sulfate units of keratan sulfate
+ec:3.1.6.8	ARSA	cerebroside-sulfatase	a cerebroside 3-sulfate + H2O = a cerebroside + sulfate
+ec:3.1.6.12	ARSB	N-acetylgalactosamine-4-sulfatase	Hydrolysis of the 4-sulfate groups of the N-acetyl-D-galactosamine 4-sulfate units of chondroitin sulfate and dermatan sulfate
+ec:3.1.6.13	IDS	iduronate-2-sulfatase	Hydrolysis of the 2-sulfate groups of the L-iduronate 2-sulfate units of dermatan sulfate, heparan sulfate and heparin
+ec:3.1.6.14	GNS	N-acetylglucosamine-6-sulfatase	Hydrolysis of the 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of heparan sulfate and keratan sulfate
+ec:3.1.7.2	HDDC3	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	guanosine 3',5'-bis(diphosphate) + H2O = GDP + diphosphate
+ec:3.1.8.1	PON1,PON2,PON3	aryldialkylphosphatase	an aryl dialkyl phosphate + H2O = dialkyl phosphate + an aryl alcohol
+ec:3.1.11.2	TREX2,TREX1,RAD1,RAD9A	exodeoxyribonuclease III	Exonucleolytic cleavage in the 3'- to 5'-direction to yield nucleoside 5'-phosphates
+ec:3.1.13.1	ISG20	exoribonuclease II	Exonucleolytic cleavage in the 3'- to 5'-direction to yield nucleoside 5'-phosphates
+ec:3.1.13.4	PARN,PAN2	poly(A)-specific ribonuclease	Exonucleolytic cleavage of poly(A) to 5'-AMP
+ec:3.1.21.1	DNASE1	deoxyribonuclease I	Endonucleolytic cleavage to 5'-phosphodinucleotide and 5'-phosphooligonucleotide end-products
+ec:3.1.22.1	DNASE2,DNASE2B	deoxyribonuclease II	Endonucleolytic cleavage to nucleoside 3'-phosphates and 3'-phosphooligonucleotide end-products
+ec:3.1.26.3	DROSHA	ribonuclease III	Endonucleolytic cleavage to a 5'-phosphomonoester
+ec:3.1.26.4	RNASEH2A,RNASEH1	ribonuclease H	Endonucleolytic cleavage to 5'-phosphomonoester
+ec:3.1.26.5	POP7,RPP30,RPP38,POP4,RPP40,POP1,RPP14,RPP25L,POP5,RPP25,RPP21	ribonuclease P	Endonucleolytic cleavage of RNA, removing 5'-extranucleotides from tRNA precursor
+ec:3.1.26.11	ELAC1,ELAC2	tRNase Z	endonucleolytic cleavage of RNA, removing extra 3' nucleotides from tRNA precursor, generating 3' termini of tRNAs. A 3'-hydroxy group is left at the tRNA terminus and a 5'-phosphoryl group is left at the trailer molecule
+ec:3.1.27.1	RNASET2	ribonuclease T2	Two-stage endonucleolytic cleavage to nucleoside 3'-phosphates and 3'-phosphooligonucleotides with 2',3'-cyclic phosphate intermediates
+ec:3.1.27.5	RNASE1,RNASE2	pancreatic ribonuclease	Endonucleolytic cleavage to nucleoside 3'-phosphates and 3'-phosphooligonucleotides ending in Cp or Up with 2',3'-cyclic phosphate intermediates
+ec:3.1.27.9	TSEN34,TSEN2	tRNA-intron endonuclease	Endonucleolytic cleavage of pre-tRNA, producing 5'-hydroxy and 2',3'-cyclic phosphate termini, and specifically removing the intron
+ec:3.2.1.1	AMY1A,AMY1B,AMY1C,AMY2A,AMY2B	alpha-amylase	Endohydrolysis of (1->4)-alpha-D-glucosidic linkages in polysaccharides containing three or more (1->4)-alpha-linked D-glucose units
+ec:3.2.1.3	MGAM	glucan 1,4-alpha-glucosidase	Hydrolysis of terminal (1->4)-linked alpha-D-glucose residues successively from non-reducing ends of the chains with release of beta-D-glucose
+ec:3.2.1.10	SI	oligo-1,6-glucosidase	Hydrolysis of (1->6)-alpha-D-glucosidic linkages in some oligosaccharides produced from starch and glycogen by EC 3.2.1.1 (alpha-amylase), and in isomaltose
+ec:3.2.1.14	CHIT1,CHIA	chitinase	Random hydrolysis of N-acetyl-beta-D-glucosaminide (1->4)-beta-linkages in chitin and chitodextrins
+ec:3.2.1.17	LYZL2,SPACA5,LYZ,LYZL6,SPACA5B,LYZL1	lysozyme	Hydrolysis of (1->4)-beta-linkages between N-acetylmuramic acid and N-acetyl-D-glucosamine residues in a peptidoglycan and between N-acetyl-D-glucosamine residues in chitodextrins
+ec:3.2.1.18	NEU3,NEU4,NEU1,NEU2	exo-alpha-sialidase	Hydrolysis of alpha-(2->3)-, alpha-(2->6)-, alpha-(2->8)- glycosidic linkages of terminal sialic acid residues in oligosaccharides, glycoproteins, glycolipids, colominic acid and synthetic substrates
+ec:3.2.1.20	GAA,GANC,MGAM	alpha-glucosidase	Hydrolysis of terminal, non-reducing (1->4)-linked alpha-D-glucose residues with release of D-glucose
+ec:3.2.1.21	GBA3	beta-glucosidase	Hydrolysis of terminal, non-reducing beta-D-glucosyl residues with release of beta-D-glucose
+ec:3.2.1.22	GLA	alpha-galactosidase	Hydrolysis of terminal, non-reducing alpha-D-galactose residues in alpha-D-galactosides, including galactose oligosaccharides, galactomannans and galactolipids
+ec:3.2.1.23	GLB1	beta-galactosidase	Hydrolysis of terminal non-reducing beta-D-galactose residues in beta-D-galactosides
+ec:3.2.1.24	MAN2B2,MAN2C1,MAN2B1	alpha-mannosidase	Hydrolysis of terminal, non-reducing alpha-D-mannose residues in alpha-D-mannosides
+ec:3.2.1.25	MANBA	beta-mannosidase	Hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides
+ec:3.2.1.28	TREH	alpha,alpha-trehalase	alpha,alpha-trehalose + H2O = beta-D-glucose + alpha-D-glucose
+ec:3.2.1.31	GUSB,KL	beta-glucuronidase	a beta-D-glucuronoside + H2O = D-glucuronate + an alcohol
+ec:3.2.1.33	AGL	amylo-alpha-1,6-glucosidase	Hydrolysis of (1->6)-alpha-D-glucosidic branch linkages in glycogen phosphorylase limit dextrin
+ec:3.2.1.35	HYAL4,HYAL1,SPAM1,HYAL3,HYAL2	hyaluronoglucosaminidase	Random hydrolysis of (1->4)-linkages between N-acetyl-beta-D-glucosamine and D-glucuronate residues in hyaluronate
+ec:3.2.1.45	GBA,GBA2	glucosylceramidase	a D-glucosyl-N-acylsphingosine + H2O = D-glucose + a ceramide
+ec:3.2.1.46	GALC	galactosylceramidase	a D-galactosyl-N-acylsphingosine + H2O = D-galactose + a ceramide
+ec:3.2.1.48	SI	sucrose alpha-glucosidase	Hydrolysis of sucrose and maltose by an alpha-D-glucosidase-type action
+ec:3.2.1.49	NAGA	alpha-N-acetylgalactosaminidase	Cleavage of non-reducing alpha-(1->3)-N-acetylgalactosamine residues from human blood group A and AB mucin glycoproteins, Forssman hapten and blood group A lacto series glycolipids
+ec:3.2.1.50	NAGLU	alpha-N-acetylglucosaminidase	Hydrolysis of terminal non-reducing N-acetyl-D-glucosamine residues in N-acetyl-alpha-D-glucosaminides
+ec:3.2.1.51	FUCA1,FUCA2	alpha-L-fucosidase	an alpha-L-fucoside + H2O = L-fucose + an alcohol
+ec:3.2.1.52	HEXDC,HEXA,HEXB	beta-N-acetylhexosaminidase	Hydrolysis of terminal non-reducing N-acetyl-D-hexosamine residues in N-acetyl-beta-D-hexosaminides
+ec:3.2.1.62	LCT	glycosylceramidase	a glycosyl-N-acylsphingosine + H2O = a ceramide + a sugar
+ec:3.2.1.76	IDUA	L-iduronidase	Hydrolysis of unsulfated alpha-L-iduronosidic linkages in dermatan sulfate
+ec:3.2.1.84	GANAB	glucan 1,3-alpha-glucosidase	Hydrolysis of terminal (1->3)-alpha-D-glucosidic links in (1->3)-alpha-D-glucans
+ec:3.2.1.96	ENGASE	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase	Endohydrolysis of the N,N'-diacetylchitobiosyl unit in high-mannose glycopeptides and glycoproteins containing the -[Man(GlcNAc)2]Asn- structure. One N-acetyl-D-glucosamine residue remains attached to the protein the rest of the oligosaccharide is released intact
+ec:3.2.1.106	MOGS	mannosyl-oligosaccharide glucosidase	Exohydrolysis of the non-reducing terminal glucose residues in the mannosyl-oligosaccharide Glc3Man9GlcNAc2
+ec:3.2.1.108	LCT	lactase	lactose + H2O = D-galactose + D-glucose
+ec:3.2.1.113	MAN1A2,MAN1B1,MAN1A1,MAN1C1	mannosyl-oligosaccharide 1,2-alpha-mannosidase	Hydrolysis of the terminal (1->2)-linked alpha-D-mannose residues in the oligo-mannose oligosaccharide Man9(GlcNAc)2
+ec:3.2.1.114	MAN2A2,MAN2A1	mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase	Hydrolysis of the terminal (1->3)- and (1->6)-linked alpha-D-mannose residues in the mannosyl-oligosaccharide Man5(GlcNAc)3
+ec:3.2.1.130	MANEA	glycoprotein endo-alpha-1,2-mannosidase	Hydrolysis of the terminal alpha-D-glucosyl-(1,3)-D-mannosyl unit from the GlcMan9(GlcNAc)2 oligosaccharide component of the glycoprotein produced in the Golgi membrane
+ec:3.2.1.143	ADPRHL2,PARG	poly(ADP-ribose) glycohydrolase	hydrolyses poly(ADP-D-ribose) at glycosidic (1''-2') linkage of ribose-ribose bond to produce free ADP-D-ribose
+ec:3.2.1.166	HPSE	heparanase	endohydrolysis of (1->4)-beta-D-glycosidic bonds of heparan sulfate chains in heparan sulfate proteoglycan
+ec:3.2.1.169	MGEA5	protein O-GlcNAcase	(1)
+ec:3.2.2.5	BST1,CD38	NAD+ nucleosidase	NAD+ + H2O = ADP-ribose + nicotinamide
+ec:3.2.2.19	ADPRH	[protein ADP-ribosylarginine] hydrolase	protein-Nomega-(ADP-D-ribosyl)-L-arginine + H2O = ADP-D-ribose + protein-L-arginine
+ec:3.2.2.21	MPG	DNA-3-methyladenine glycosylase II	Hydrolysis of alkylated DNA, releasing 3-methyladenine, 3-methylguanine, 7-methylguanine and 7-methyladenine
+ec:3.2.2.27	UNG	uracil-DNA glycosylase	Hydrolyses single-stranded DNA or mismatched double-stranded DNA and polynucleotides, releasing free uracil
+ec:3.3.1.1	AHCYL1,AHCY,AHCYL2	adenosylhomocysteinase	S-adenosyl-L-homocysteine + H2O = L-homocysteine + adenosine
+ec:3.3.2.6	LTA4H	leukotriene-A4 hydrolase	leukotriene A4 + H2O = leukotriene B4
+ec:3.3.2.9	EPHX1	microsomal epoxide hydrolase	cis-stilbene oxide + H2O = (+)-(1R,2R)-1,2-diphenylethane-1,2-diol
+ec:3.3.2.10	EPHX2	soluble epoxide hydrolase	an epoxide + H2O = a glycol
+ec:3.4.11.1	LAP3	leucyl aminopeptidase	Release of an N-terminal amino acid, Xaa!Yaa-, in which Xaa is preferably Leu, but may be other amino acids including Pro although not Arg or Lys, and Yaa may be Pro. Amino acid amides and methyl esters are also readily hydrolysed, but rates on arylamides are exceedingly low
+ec:3.4.11.2	ANPEP	membrane alanyl aminopeptidase	Release of an N-terminal amino acid, Xaa!Yaa- from a peptide, amide or arylamide. Xaa is preferably Ala, but may be most amino acids including Pro (slow action). When a terminal hydrophobic residue is followed by a prolyl residue, the two may be released as an intact Xaa-Pro dipeptide
+ec:3.4.11.3	LNPEP	cystinyl aminopeptidase	Release of an N-terminal amino acid, Cys!Xaa-, in which the half-cystine residue is involved in a disulfide loop, notably in oxytocin or vasopressin. Hydrolysis rates on a range of aminoacyl arylamides exceed that for the cystinyl derivative, however
+ec:3.4.11.5	LAP3	prolyl aminopeptidase	Release of N-terminal proline from a peptide
+ec:3.4.11.6	RNPEP	aminopeptidase B	Release of N-terminal Arg and Lys from oligopeptides when P1' is not Pro. Also acts on arylamides of Arg and Lys
+ec:3.4.11.7	ENPEP	glutamyl aminopeptidase	Release of N-terminal glutamate (and to a lesser extent aspartate) from a peptide
+ec:3.4.11.9	XPNPEP3,XPNPEP1,XPNPEP2	Xaa-Pro aminopeptidase	Release of any N-terminal amino acid, including proline, that is linked to proline, even from a dipeptide or tripeptide
+ec:3.4.11.18	METAP2,METAP1,METAP1D	methionyl aminopeptidase	Release of N-terminal amino acids, preferentially methionine, from peptides and arylamides
+ec:3.4.11.21	DNPEP	aspartyl aminopeptidase	Release of an N-terminal aspartate or glutamate from a peptide, with a preference for aspartate
+ec:3.4.13.9	PEPD	Xaa-Pro dipeptidase	Hydrolysis of Xaa!Pro dipeptides also acts on aminoacyl-hydroxyproline analogs. No action on Pro-Pro
+ec:3.4.13.18	CNDP2	cytosol nonspecific dipeptidase	Hydrolysis of dipeptides, preferentially hydrophobic dipeptides including prolyl amino acids
+ec:3.4.13.19	DPEP1	membrane dipeptidase	Hydrolysis of dipeptides
+ec:3.4.13.20	CNDP1	beta-Ala-His dipeptidase	Preferential hydrolysis of the beta-Ala!His dipeptide (carnosine), and also anserine, Xaa!His dipeptides and other dipeptides including homocarnosine
+ec:3.4.14.1	CTSC	dipeptidyl-peptidase I	Release of an N-terminal dipeptide, Xaa-Yaa!Zaa-, except when Xaa is Arg or Lys, or Yaa or Zaa is Pro
+ec:3.4.14.2	DPP7	dipeptidyl-peptidase II	Release of an N-terminal dipeptide, Xaa-Yaa!, preferentially when Yaa is Ala or Pro. Substrates are oligopeptides, preferentially tripeptides
+ec:3.4.14.4	DPP3	dipeptidyl-peptidase III	Release of an N-terminal dipeptide from a peptide comprising four or more residues, with broad specificity. Also acts on dipeptidyl 2-naphthylamides.
+ec:3.4.14.5	DPP4,DPP8,DPP9	dipeptidyl-peptidase IV	Release of an N-terminal dipeptide, Xaa-Yaa!Zaa-, from a polypeptide, preferentially when Yaa is Pro, provided Zaa is neither Pro nor hydroxyproline
+ec:3.4.14.9	TPP1	tripeptidyl-peptidase I	Release of an N-terminal tripeptide from a polypeptide, but also has endopeptidase activity.
+ec:3.4.14.10	TPP2	tripeptidyl-peptidase II	Release of an N-terminal tripeptide from a polypeptide
+ec:3.4.15.1	ACE	peptidyl-dipeptidase A	Release of a C-terminal dipeptide, oligopeptide!Xaa-Yaa, when Xaa is not Pro, and Yaa is neither Asp nor Glu. Thus, conversion of angiotensin I to angiotensin II, with increase in vasoconstrictor activity, but no action on angiotensin II
+ec:3.4.16.2	PRCP	lysosomal Pro-Xaa carboxypeptidase	Cleavage of a -Pro!Xaa bond to release a C-terminal amino acid
+ec:3.4.16.5	CTSA	carboxypeptidase C	Release of a C-terminal amino acid with broad specificity
+ec:3.4.17.1	CPA1,CPA3,CPA6,CPA5	carboxypeptidase A	Release of a C-terminal amino acid, but little or no action with -Asp, -Glu, -Arg, -Lys or -Pro
+ec:3.4.17.2	CPB1	carboxypeptidase B	Preferential release of a C-terminal lysine or arginine amino acid
+ec:3.4.17.3	CPN1	lysine carboxypeptidase	Release of a C-terminal basic amino acid, preferentially lysine
+ec:3.4.17.10	CPE	carboxypeptidase E	Release of C-terminal arginine or lysine residues from polypeptides
+ec:3.4.17.12	CPM	carboxypeptidase M	Cleavage of C-terminal arginine or lysine residues from polypeptides
+ec:3.4.17.15	CPA2	carboxypeptidase A2	Similar to that of carboxypeptidase A (EC 3.4.17.1), but with a preference for bulkier C-terminal residues
+ec:3.4.17.20	CPB2	carboxypeptidase U	Release of C-terminal Arg and Lys from a polypeptide
+ec:3.4.17.21	NAALAD2,NAALADL1,FOLH1	glutamate carboxypeptidase II	Release of an unsubstituted, C-terminal glutamyl residue, typically from Ac-Asp-Glu or folylpoly-gamma-glutamates
+ec:3.4.17.22	CPD	metallocarboxypeptidase D	Releases C-terminal Arg and Lys from polypeptides
+ec:3.4.17.23	ACE2	angiotensin-converting enzyme 2	angiotensin II + H2O = angiotensin-(1--7) + L-phenylalanine
+ec:3.4.18.1	CTSZ	cathepsin X	Release of C-terminal amino acid residues with broad specificity, but lacks action on C-terminal proline. Shows weak endopeptidase activity
+ec:3.4.19.1	APEH	acylaminoacyl-peptidase	Cleavage of an N-acetyl or N-formyl amino acid from the N-terminus of a polypeptide
+ec:3.4.19.3	PGPEP1	pyroglutamyl-peptidase I	Release of an N-terminal pyroglutamyl group from a polypeptide, the second amino acid generally not being Pro
+ec:3.4.19.5	ASRGL1	beta-aspartyl-peptidase	Cleavage of a beta-linked Asp residue from the N-terminus of a polypeptide
+ec:3.4.19.6	TRHDE	pyroglutamyl-peptidase II	Release of the N-terminal pyroglutamyl group from pGlu!His-Xaa tripeptides and pGlu!His-Xaa-Gly tetrapeptides
+ec:3.4.19.9	GGH	gamma-glutamyl hydrolase	Hydrolysis of a gamma-glutamyl bond
+ec:3.4.19.12	JOSD2,UCHL5,UCHL1,UCHL3,BAP1,JOSD1	ubiquitinyl hydrolase 1	Thiol-dependent hydrolysis of ester, thioester, amide, peptide and isopeptide bonds formed by the C-terminal Gly of ubiquitin (a 76-residue protein attached to proteins as an intracellular targeting signal)
+ec:3.4.21.1	CTRB1,CTRB2	chymotrypsin	Preferential cleavage: Tyr!, Trp!, Phe!, Leu!
+ec:3.4.21.2	CTRC	chymotrypsin C	Preferential cleavage: Leu!, Tyr!, Phe!, Met!, Trp!, Gln!, Asn!
+ec:3.4.21.4	PRSS1,PRSS2,PRSS3	trypsin	Preferential cleavage: Arg!, Lys!
+ec:3.4.21.5	F2	thrombin	Selective cleavage of Arg!Gly bonds in fibrinogen to form fibrin and release fibrinopeptides A and B
+ec:3.4.21.6	F10	coagulation factor Xa	Selective cleavage of Arg!Thr and then Arg!Ile bonds in prothrombin to form thrombin
+ec:3.4.21.7	PLG	plasmin	Preferential cleavage: Lys! > Arg! higher selectivity than trypsin. Converts fibrin into soluble products
+ec:3.4.21.9	TMPRSS15	enteropeptidase	Activation of trypsinogen by selective cleavage of Lys6!Ile bond
+ec:3.4.21.10	ACR	acrosin	Preferential cleavage: Arg!, Lys!
+ec:3.4.21.20	CTSG	cathepsin G	Specificity similar to chymotrypsin C
+ec:3.4.21.21	F7	coagulation factor VIIa	Selective cleavage of Arg!Ile bond in factor X to form factor Xa
+ec:3.4.21.22	F9	coagulation factor IXa	Selective cleavage of Arg!Ile bond in factor X to form factor Xa
+ec:3.4.21.26	PREP	prolyl oligopeptidase	Hydrolysis of ---Pro! and to a lesser extent ---Ala! in oligopeptides
+ec:3.4.21.27	F11	coagulation factor XIa	Selective cleavage of Arg!Ala and Arg!Val bonds in factor IX to form factor IXa
+ec:3.4.21.34	KLKB1	plasma kallikrein	Selective cleavage of some Arg! and Lys! bonds, including Lys!Arg and Arg!Ser in (human) kininogen to release bradykinin
+ec:3.4.21.35	KLK1,KLK2	tissue kallikrein	Preferential cleavage of Arg! bonds in small molecule substrates. Highly selective action to release kallidin (lysyl-bradykinin) from kininogen involves hydrolysis of Met! or Leu!. The rat enzyme is unusual in liberating bradykinin directly from autologous kininogens by cleavage at two Arg! bonds
+ec:3.4.21.36	CELA1	pancreatic elastase	Hydrolysis of proteins, including elastin. Preferential cleavage: Ala!
+ec:3.4.21.37	ELANE	leukocyte elastase	Hydrolysis of proteins, including elastin. Preferential cleavage Val! > Ala!
+ec:3.4.21.38	F12	coagulation factor XIIa	Selective cleavage of Arg!Ile bonds in factor VII to form factor VIIa and factor XI to form factor XIa
+ec:3.4.21.39	CMA1	chymase	Preferential cleavage: Phe! > Tyr! > Trp! > Leu!
+ec:3.4.21.41	C1R	complement subcomponent C_overbar_1r_	Selective cleavage of Lys(or Arg)!Ile bond in complement subcomponent C1s to form C_overbar_1s_ (EC 3.4.21.42)
+ec:3.4.21.42	C1S	complement subcomponent C_overbar_1s_	Cleavage of Arg!Ala bond in complement component C4 to form C4a and C4b, and Lys(or Arg)!Lys bond in complement component C2 to form C2a and C2b: the "classical" pathway C3 convertase
+ec:3.4.21.43	C2	classical-complement-pathway C3/C5 convertase	Selective cleavage of Arg!Ser bond in complement component C3 alpha-chain to form C3a and C3b, and Arg! bond in complement component C5 alpha-chain to form C5a and C5b
+ec:3.4.21.45	CFI	complement factor I	Inactivates complement subcomponents C3b, iC3b and C4b by proteolytic cleavage
+ec:3.4.21.46	CFD	complement factor D	Selective cleavage of Arg!Lys bond in complement factor B when in complex with complement subcomponent C3b or with cobra venom factor
+ec:3.4.21.47	CFB	alternative-complement-pathway C3/C5 convertase	Cleavage of Arg!Ser bond in complement component C3 alpha-chain to yield C3a and C3b, and Arg! bond in complement component C5 alpha-chain to yield C5a and C5b
+ec:3.4.21.53	LONP2	endopeptidase La	Hydrolysis of proteins in presence of ATP
+ec:3.4.21.59	TPSD1,TPSB2,TPSAB1	tryptase	Preferential cleavage: Arg!, Lys!, but with more restricted specificity than trypsin
+ec:3.4.21.68	PLAT	t-plasminogen activator	Specific cleavage of Arg!Val bond in plasminogen to form plasmin
+ec:3.4.21.69	PROC	protein C (activated)	Degradation of blood coagulation factors Va and VIIIa
+ec:3.4.21.70	CELA3A,CELA3B	pancreatic endopeptidase E	Preferential cleavage: Ala!. Does not hydrolyse elastin
+ec:3.4.21.71	CELA2B,CELA2A	pancreatic elastase II	Preferential cleavage: Leu!, Met! and Phe!. Hydrolyses elastin
+ec:3.4.21.73	PLAU	u-plasminogen activator	Specific cleavage of Arg!Val bond in plasminogen to form plasmin
+ec:3.4.21.75	FURIN	furin	Release of mature proteins from their proproteins by cleavage of -Arg-Xaa-Yaa-Arg! bonds, where Xaa can by any amino acid and Yaa is Arg or Lys. Releases albumin, complement component C3 and von Willebrand factor from their respective precursors
+ec:3.4.21.76	PRTN3	myeloblastin	Hydrolysis of proteins, including elastin, by preferential cleavage: -Ala! > -Val!
+ec:3.4.21.77	KLK3	semenogelase	Preferential cleavage: -Tyr!
+ec:3.4.21.78	GZMA	granzyme A	Hydrolysis of proteins, including fibronectin, type IV collagen and nucleolin. Preferential cleavage: -Arg!, -Lys! >> -Phe! in small molecule substrates
+ec:3.4.21.79	GZMB	granzyme B	Preferential cleavage: -Asp! >> -Asn! > -Met!, -Ser!
+ec:3.4.21.92	CLPP	endopeptidase Clp	Hydrolysis of proteins to small peptides in the presence of ATP and Mg2+. alpha-Casein is the usual test substrate. In the absence of ATP, only oligopeptides shorter than five residues are hydrolysed (such as succinyl-Leu-Tyr!NHMec and Leu-Tyr-Leu!Tyr-Trp, in which cleavage of the -Tyr!Leu- and -Tyr!Trp bonds also occurs)
+ec:3.4.21.93	PCSK1	proprotein convertase 1	Release of protein hormones, neuropeptides and renin from their precursors, generally by hydrolysis of -Lys-Arg! bonds
+ec:3.4.21.94	PCSK2	proprotein convertase 2	Release of protein hormones and neuropeptides from their precursors, generally by hydrolysis of -Lys-Arg! bonds
+ec:3.4.21.104	MASP2	mannan-binding lectin-associated serine protease-2	Selective cleavage after Arg223 in complement component C2 (-Ser-Leu-Gly-Arg!Lys-Ile-Gln-Ile) and after Arg76 in complement component C4 (-Gly-Leu-Gln-Arg!Ala-Leu-Glu-Ile)
+ec:3.4.21.105	RHBDL3,RHBDL2,PARL,RHBDL1	rhomboid protease	Cleaves type-1 transmembrane domains using a catalytic dyad composed of serine and histidine that are contributed by different transmembrane domains
+ec:3.4.21.108	HTRA2	HtrA2 peptidase	Cleavage of non-polar aliphatic amino-acids at the P1 position, with a preference for Val, Ile and Met. At the P2 and P3 positions, Arg is selected most strongly with a secondary preference for other hydrophilic residues
+ec:3.4.21.109	ST14	matriptase	Cleaves various synthetic substrates with Arg or Lys at the P1 position and prefers small side-chain amino acids, such as Ala and Gly, at the P2 position
+ec:3.4.21.112	MBTPS1	site-1 protease	Processes precursors containing basic and hydrophobic/aliphatic residues at P4 and P2, respectively, with a relatively relaxed acceptance of amino acids at P1 and P3
+ec:3.4.21.117	KLK7	stratum corneum chymotryptic enzyme	Cleavage of proteins with aromatic side chains in the P1 position
+ec:3.4.21.118	KLK8	kallikrein 8	Cleavage of amide substrates following the basic amino acids Arg or Lys at the P1 position, with a preference for Arg over Lys
+ec:3.4.22.1	CTSB	cathepsin B	Hydrolysis of proteins with broad specificity for peptide bonds. Preferentially cleaves -Arg-Arg! bonds in small molecule substrates (thus differing from cathepsin L). In addition to being an endopeptidase, shows peptidyl-dipeptidase activity, liberating C-terminal dipeptides
+ec:3.4.22.15	CTSL	cathepsin L	Similar to that of papain. As compared to cathepsin B, cathepsin L exhibits higher activity towards protein substrates, but has little activity on Z-Arg-Arg-NHMec, and no peptidyl-dipeptidase activity
+ec:3.4.22.16	CTSH	cathepsin H	Hydrolysis of proteins, acting as an aminopeptidase (notably, cleaving Arg! bonds) as well as an endopeptidase
+ec:3.4.22.27	CTSS	cathepsin S	Similar to cathepsin L, but with much less activity on Z-Phe-Arg!NHMec, and more activity on the Z-Val-Val-Arg! compound
+ec:3.4.22.34	LGMN	legumain	Hydrolysis of proteins and small molecule substrates at -Asn!Xaa- bonds
+ec:3.4.22.36	CASP1	caspase-1	Strict requirement for an Asp residue at position P1 and has a preferred cleavage sequence of Tyr-Val-Ala-Asp!
+ec:3.4.22.38	CTSK	cathepsin K	Broad proteolytic activity. With small-molecule substrates and inhibitors, the major determinant of specificity is P2, which is preferably Leu, Met > Phe, and not Arg
+ec:3.4.22.40	BLMH	bleomycin hydrolase	Inactivates bleomycin B2 (a cytotoxic glycometallopeptide) by hydrolysis of a carboxyamide bond of beta-aminoalanine, but also shows general aminopeptidase activity. The specificity varies somewhat with source, but amino acid arylamides of Met, Leu and Ala are preferred
+ec:3.4.22.41	CTSF	cathepsin F	The recombinant enzyme cleaves synthetic substrates with Phe and Leu (better than Val) in P2, with high specificity constant (kcat/Km) comparable to that of cathepsin L
+ec:3.4.22.42	CTSO	cathepsin O	The recombinant human enzyme hydrolyses synthetic endopeptidase substrates including Z-Phe-Arg-NHMec and Z-Arg-Arg-NHMec
+ec:3.4.22.43	CTSV	cathepsin V	The recombinant enzyme hydrolyses proteins (serum albumin, collagen) and synthetic substrates (Z-Phe-Arg-NHMec > Z-Leu-Arg-NHMec > Z-Val-Arg-NHMec)
+ec:3.4.22.49	ESPL1	separase	All bonds known to be hydrolysed by this endopeptidase have arginine in P1 and an acidic residue in P4. P6 is often occupied by an acidic residue or by an hydroxy-amino-acid residue, the phosphorylation of which enhances cleavage
+ec:3.4.22.52	CAPN1	calpain-1	Broad endopeptidase specificity
+ec:3.4.22.53	CAPN2	calpain-2	Broad endopeptidase specificity
+ec:3.4.22.54	CAPN3	calpain-3	Broad endopeptidase activity
+ec:3.4.22.55	CASP2	caspase-2	Strict requirement for an Asp residue at P1, with Asp316 being essential for proteolytic activity and has a preferred cleavage sequence of Val-Asp-Val-Ala-Asp!
+ec:3.4.22.56	CASP3	caspase-3	Strict requirement for an Asp residue at positions P1 and P4. It has a preferred cleavage sequence of Asp-Xaa-Xaa-Asp! with a hydrophobic amino-acid residue at P2 and a hydrophilic amino-acid residue at P3, although Val or Ala are also accepted at this position
+ec:3.4.22.57	CASP4	caspase-4	Strict requirement for Asp at the P1 position. It has a preferred cleavage sequence of Tyr-Val-Ala-Asp! but also cleaves at Asp-Glu-Val-Asp!
+ec:3.4.22.58	CASP5	caspase-5	Strict requirement for Asp at the P1 position. It has a preferred cleavage sequence of Tyr-Val-Ala-Asp! but also cleaves at Asp-Glu-Val-Asp!
+ec:3.4.22.59	CASP6	caspase-6	Strict requirement for Asp at position P1 and has a preferred cleavage sequence of Val-Glu-His-Asp!
+ec:3.4.22.60	CASP7	caspase-7	Strict requirement for an Asp residue at position P1 and has a preferred cleavage sequence of Asp-Glu-Val-Asp!
+ec:3.4.22.61	CASP8	caspase-8	Strict requirement for Asp at position P1 and has a preferred cleavage sequence of (Leu/Asp/Val)-Glu-Thr-Asp!(Gly/Ser/Ala)
+ec:3.4.22.62	CASP9	caspase-9	Strict requirement for an Asp residue at position P1 and with a marked preference for His at position P2. It has a preferred cleavage sequence of Leu-Gly-His-Asp!Xaa
+ec:3.4.22.63	CASP10	caspase-10	Strict requirement for Asp at position P1 and has a preferred cleavage sequence of Leu-Gln-Thr-Asp!Gly
+ec:3.4.22.68	SENP8,SENP5,SENP6,SENP3,SENP1,SENP7,SENP2	Ulp1 peptidase	Hydrolysis of the alpha-linked peptide bond in the sequence Gly-Gly!Ala-Thr-Tyr at the C-terminal end of the small ubiquitin-like modifier (SUMO) propeptide, Smt3, leading to the mature form of the protein. A second reaction involves the cleavage of an epsilon-linked peptide bond between the C-terminal glycine of the mature SUMO and the lysine epsilon-amino group of the target protein
+ec:3.4.23.1	PGA5,PGA3,PGA4	pepsin A	Preferential cleavage: hydrophobic, preferably aromatic, residues in P1 and P1' positions. Cleaves Phe1!Val, Gln4!His, Glu13!Ala, Ala14!Leu, Leu15!Tyr, Tyr16!Leu, Gly23!Phe, Phe24!Phe and Phe25!Tyr bonds in the B chain of insulin
+ec:3.4.23.3	PGC	gastricsin	More restricted specificity than pepsin A, but shows preferential cleavage at Tyr! bonds. High activity on hemoglobin
+ec:3.4.23.5	CTSD	cathepsin D	Specificity similar to, but narrower than, that of pepsin A. Does not cleave the Gln4-His bond in B chain of insulin
+ec:3.4.23.15	REN	renin	Cleavage of Leu! bond in angiotensinogen to generate angiotensin I
+ec:3.4.23.34	CTSE	cathepsin E	Similar to cathepsin D, but slightly broader specificity
+ec:3.4.23.45	BACE2	memapsin 1	Broad endopeptidase specificity. Cleaves Glu-Val-Asn-Leu!Asp-Ala-Glu-Phe in the Swedish variant of Alzheimer's amyloid precursor protein
+ec:3.4.23.46	BACE1	memapsin 2	Broad endopeptidase specificity. Cleaves Glu-Val-Asn-Leu!Asp-Ala-Glu-Phe in the Swedish variant of Alzheimer's amyloid precursor protein
+ec:3.4.24.7	MMP1	interstitial collagenase	Cleavage of the triple helix of collagen at about three-quarters of the length of the molecule from the N-terminus, at Gly775!Ile in the alpha1(I) chain. Cleaves synthetic substrates and alpha-macroglobulins at bonds where P1' is a hydrophobic residue
+ec:3.4.24.11	MME	neprilysin	Preferential cleavage of polypeptides between hydrophobic residues, particularly with Phe or Tyr at P1'
+ec:3.4.24.14	ADAMTS2	procollagen N-endopeptidase	Cleaves the N-propeptide of collagen chain alpha1(I) at Pro!Gln and of alpha1(II) and alpha2(I) at Ala!Gln
+ec:3.4.24.15	THOP1	thimet oligopeptidase	Preferential cleavage of bonds with hydrophobic residues at P1, P2 and P3' and a small residue at P1' in substrates of 5-15 residues
+ec:3.4.24.16	NLN	neurolysin	Preferential cleavage in neurotensin: Pro10!Tyr
+ec:3.4.24.17	MMP3	stromelysin 1	Preferential cleavage where P1', P2' and P3' are hydrophobic residues
+ec:3.4.24.18	MEP1A,MEP1B	meprin A	Hydrolysis of protein and peptide substrates preferentially on carboxyl side of hydrophobic residues
+ec:3.4.24.19	BMP1	procollagen C-endopeptidase	Cleavage of the C-terminal propeptide at Ala!Asp in type I and II procollagens and at Arg!Asp in type III
+ec:3.4.24.22	MMP10	stromelysin 2	Similar to stromelysin 1, but action on collagen types III, IV and V is weak
+ec:3.4.24.23	MMP7	matrilysin	Cleavage of Ala14!Leu and Tyr16!Leu in B chain of insulin. No action on collagen types I, II, IV, V. Cleaves gelatin chain alpha2(I) > alpha1(I)
+ec:3.4.24.24	MMP2	gelatinase A	Cleavage of gelatin type I and collagen types IV, V, VII, X. Cleaves the collagen-like sequence Pro-Gln-Gly!Ile-Ala-Gly-Gln
+ec:3.4.24.34	MMP8	neutrophil collagenase	Cleavage of interstitial collagens in the triple helical domain. Unlike EC 3.4.24.7, interstitial collagenase, this enzyme cleaves type III collagen more slowly than type I
+ec:3.4.24.35	MMP9	gelatinase B	Cleavage of gelatin types I and V and collagen types IV and V
+ec:3.4.24.56	IDE	insulysin	Degradation of insulin, glucagon and other polypeptides. No action on proteins
+ec:3.4.24.57	OSGEPL1	O-sialoglycoprotein endopeptidase	Hydrolysis of O-sialoglycoproteins cleaves -Arg31!Asp- bond in glycophorin A. Does not cleave unglycosylated proteins, desialylated glycoproteins or glycoproteins that are only N-glycosylated
+ec:3.4.24.59	MIPEP	mitochondrial intermediate peptidase	Release of an N-terminal octapeptide as second stage of processing of some proteins imported into the mitochondrion
+ec:3.4.24.61	NRD1	nardilysin	Hydrolysis of polypeptides, preferably at -Xaa!Arg-Lys-, and less commonly at -Arg!Arg-Xaa-, in which Xaa is not Arg or Lys
+ec:3.4.24.64	PMPCA,PMPCB	mitochondrial processing peptidase	Release of N-terminal targetting peptides from precursor proteins imported into the mitochondrion, typically with Arg in position P2
+ec:3.4.24.65	MMP12	macrophage elastase	Hydrolysis of soluble and insoluble elastin
+ec:3.4.24.71	ECE1,ECE2	endothelin-converting enzyme 1	Hydrolysis of the -Trp21!Val- bond in big endothelin to form endothelin 1
+ec:3.4.24.79	PAPPA	pappalysin-1	Cleavage of the Met135!Lys bond in insulin-like growth factor binding protein (IGFBP)-4, and the Ser143!Lys bond in IGFBP-5
+ec:3.4.24.80	MMP14	membrane-type matrix metalloproteinase-1	Endopeptidase activity. Activates progelatinase A by cleavage of the propeptide at Asn37!Leu. Other bonds hydrolysed include Gly35!Ile in the propeptide of collagenase 3, and Asn341!Phe, Asp441!Leu and Gln354!Thr in the aggrecan interglobular domain
+ec:3.4.24.81	ADAM10	ADAM10 endopeptidase	Endopeptidase of broad specificity
+ec:3.4.24.82	ADAMTS4	ADAMTS-4 endopeptidase	Glutamyl endopeptidase bonds cleaved include -Thr-Glu-Gly-Glu373!Ala-Arg-Gly-Ser- in the interglobular domain of mammalian aggrecan
+ec:3.4.24.84	ZMPSTE24	Ste24 endopeptidase	The peptide bond hydrolysed can be designated -C!aaX in which C is an S-isoprenylated cysteine residue, a is usually aliphatic and X is the C-terminal residue of the substrate protein, and may be any of several amino acids
+ec:3.4.24.85	MBTPS2	S2P endopeptidase	Cleaves several transcription factors that are type-2 transmembrane proteins within membrane-spanning domains. Known substrates include sterol regulatory element-binding protein (SREBP) -1, SREBP-2 and forms of the transcriptional activator ATF6. SREBP-2 is cleaved at the site DRSR_ILL_483!CVLTFLCLSFNPLTSLLQWGGA, in which the membrane-spanning segment is underlined. The residues NP (bold), 11 residues distal to the site of cleavage in the membrane-spanning domain, are important for cleavage by S2P endopeptidase. Replacement of either of these residues does not prevent cleavage, but there is no cleavage if both of these residues are replaced.
+ec:3.4.24.86	ADAM17	ADAM 17 endopeptidase	Narrow endopeptidase specificity. Cleaves Pro-Leu-Ala-Gln-Ala!Val-Arg-Ser-Ser-Ser in the membrane-bound, 26-kDa form of tumor necrosis factor alpha (TNFalpha). Similarly cleaves other membrane-anchored, cell-surface proteins to "shed" the extracellular domains
+ec:3.4.25.1	PSMB11,PSMA8,PSMA1,PSMA2,PSMA3,PSMA4,PSMA5,PSMA6,PSMA7,PSMB1,PSMB2,PSMB3,PSMB4,PSMB5,PSMB6,PSMB7,PSMB8,PSMB9,PSMB10	proteasome endopeptidase complex	Cleavage of peptide bonds with very broad specificity
+ec:3.5.1.1	ASPG	asparaginase	L-asparagine + H2O = L-aspartate + NH3
+ec:3.5.1.2	GLS2,GLS	glutaminase	L-glutamine + H2O = L-glutamate + NH3
+ec:3.5.1.3	NIT2	omega-amidase	a monoamide of a dicarboxylic acid + H2O = a dicarboxylate + NH3
+ec:3.5.1.6	UPB1	beta-ureidopropionase	N-carbamoyl-beta-alanine + H2O = beta-alanine + CO2 + NH3
+ec:3.5.1.9	AFMID	arylformamidase	N-formyl-L-kynurenine + H2O = formate + L-kynurenine
+ec:3.5.1.12	BTD	biotinidase	biotin amide + H2O = biotin + NH3
+ec:3.5.1.14	ACY1	aminoacylase	an N-acyl-L-amino acid + H2O = a carboxylate + an L-amino acid
+ec:3.5.1.15	ASPA,ACY3	aspartoacylase	N-acyl-L-aspartate + H2O = a carboxylate + L-aspartate
+ec:3.5.1.23	ACER1,ACER2,ASAH1,ASAH2	ceramidase	a ceramide + H2O = a carboxylate + sphingosine
+ec:3.5.1.25	AMDHD2	N-acetylglucosamine-6-phosphate deacetylase	N-acetyl-D-glucosamine 6-phosphate + H2O = D-glucosamine 6-phosphate + acetate
+ec:3.5.1.26	AGA	N4-(beta-N-acetylglucosaminyl)-L-asparaginase	N4-(beta-N-acetyl-D-glucosaminyl)-L-asparagine + H2O = N-acetyl-beta-D-glucosaminylamine + L-aspartate
+ec:3.5.1.28	PGLYRP2,PGLYRP3,PGLYRP4,PGLYRP1	N-acetylmuramoyl-L-alanine amidase	Hydrolyses the link between N-acetylmuramoyl residues and L-amino acid residues in certain cell-wall glycopeptides
+ec:3.5.1.52	NGLY1	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase	Hydrolysis of an N4-(acetyl-beta-D-glucosaminyl)asparagine residue in which the glucosamine residue may be further glycosylated, to yield a (substituted) N-acetyl-beta-D-glucosaminylamine and a peptide containing an aspartate residue
+ec:3.5.1.88	PDF	peptide deformylase	formyl-L-methionyl peptide + H2O = formate + methionyl peptide
+ec:3.5.1.89	PIGL	N-acetylglucosaminylphosphatidylinositol deacetylase	6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol + H2O = 6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol + acetate
+ec:3.5.1.92	VNN2,VNN1	pantetheine hydrolase	(R)-pantetheine + H2O = (R)-pantothenate + 2-aminoethanethiol
+ec:3.5.1.98	HDAC6,HDAC5,HDAC1,HDAC2,HDAC7,HDAC8,HDAC11,HDAC10,HDAC3,HDAC9,HDAC4	histone deacetylase	Hydrolysis of an N6-acetyl-lysine residue of a histone to yield a deacetylated histone
+ec:3.5.1.99	FAAH	fatty acid amide hydrolase	anandamide + H2O = arachidonic acid + ethanolamine
+ec:3.5.2.2	DPYS	dihydropyrimidinase	5,6-dihydrouracil + H2O = 3-ureidopropanoate
+ec:3.5.2.3	CAD	dihydroorotase	(S)-dihydroorotate + H2O = N-carbamoyl-L-aspartate
+ec:3.5.2.7	AMDHD1	imidazolonepropionase	(S)-3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate + H2O = N-formimidoyl-L-glutamate + H+
+ec:3.5.2.9	OPLAH	5-oxoprolinase (ATP-hydrolysing)	ATP + 5-oxo-L-proline + 2 H2O = ADP + phosphate + L-glutamate
+ec:3.5.3.1	ARG1,ARG2	arginase	L-arginine + H2O = L-ornithine + urea
+ec:3.5.3.4	ALLC	allantoicase	allantoate + H2O = (S)-ureidoglycolate + urea
+ec:3.5.3.11	AGMAT	agmatinase	agmatine + H2O = putrescine + urea
+ec:3.5.3.15	PADI2,PADI4,PADI1,PADI6,PADI3	protein-arginine deiminase	protein L-arginine + H2O = protein L-citrulline + NH3
+ec:3.5.3.18	DDAH2,DDAH1	dimethylargininase	Nomega,Nomega'-dimethyl-L-arginine + H2O = dimethylamine + L-citrulline
+ec:3.5.4.3	GDA	guanine deaminase	guanine + H2O = xanthine + NH3
+ec:3.5.4.4	ADA	adenosine deaminase	adenosine + H2O = inosine + NH3
+ec:3.5.4.5	CDA	cytidine deaminase	cytidine + H2O = uridine + NH3
+ec:3.5.4.6	AMPD1,AMPD2,AMPD3	AMP deaminase	AMP + H2O = IMP + NH3
+ec:3.5.4.9	MTHFD2,MTHFD2L,MTHFD1	methenyltetrahydrofolate cyclohydrolase	5,10-methenyltetrahydrofolate + H2O = 10-formyltetrahydrofolate
+ec:3.5.4.10	ATIC	IMP cyclohydrolase	IMP + H2O = 5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+ec:3.5.4.12	DCTD	dCMP deaminase	dCMP + H2O = dUMP + NH3
+ec:3.5.4.16	GCH1	GTP cyclohydrolase I	GTP + H2O = formate + 7,8-dihydroneopterin 3'-triphosphate
+ec:3.5.4.34	ADAT1	tRNAAla(adenine37) deaminase	adenine37 in tRNAAla + H2O = hypoxanthine37 in tRNAAla + NH3
+ec:3.5.4.36	APOBEC1	mRNA(cytosine6666) deaminase	cytosine6666 in apolipoprotein B mRNA + H2O = uracil6666 in apolipoprotein B mRNA + NH3
+ec:3.5.4.37	ADAR	double-stranded RNA adenine deaminase	adenine in double-stranded RNA + H2O = hypoxanthine in double-stranded RNA + NH3
+ec:3.5.4.38	AICDA	single-stranded DNA cytosine deaminase	cytosine in single-stranded DNA + H2O = uracil in single-stranded DNA + NH3
+ec:3.5.99.6	GNPDA1,GNPDA2	glucosamine-6-phosphate deaminase	D-glucosamine 6-phosphate + H2O = D-fructose 6-phosphate + NH3
+ec:3.6.1.1	PPA2,PPA1,LHPP	inorganic diphosphatase	diphosphate + H2O = 2 phosphate
+ec:3.6.1.3	ENTPD2	adenosinetriphosphatase	ATP + H2O = ADP + phosphate
+ec:3.6.1.5	ENTPD8,ENTPD1,ENTPD3	apyrase	a nucleoside 5'-triphosphate + 2 H2O = a nucleoside 5'-phosphate + 2 phosphate (overall reaction)
+ec:3.6.1.6	CANT1,ENTPD6,ENTPD5,ENTPD4	nucleoside diphosphate phosphatase	a nucleoside diphosphate + H2O = a nucleoside phosphate + phosphate
+ec:3.6.1.7	ACYP1,ACYP2	acylphosphatase	an acylphosphate + H2O = a carboxylate + phosphate
+ec:3.6.1.9	ENPP1,ENPP3	nucleotide diphosphatase	a dinucleotide + H2O = 2 mononucleotides
+ec:3.6.1.11	PRUNE	exopolyphosphatase	(polyphosphate)n + H2O = (polyphosphate)n-1 + phosphate
+ec:3.6.1.12	DCTPP1	dCTP diphosphatase	dCTP + H2O = dCMP + diphosphate
+ec:3.6.1.13	NUDT5,NUDT9,ADPRM	ADP-ribose diphosphatase	ADP-D-ribose + H2O = AMP + D-ribose 5-phosphate
+ec:3.6.1.15	NTPCR	nucleoside-triphosphate phosphatase	a nucleoside triphosphate + H2O = a nucleoside diphosphate + phosphate
+ec:3.6.1.16	ADPRM	CDP-glycerol diphosphatase	CDP-glycerol + H2O = CMP + sn-glycerol 3-phosphate
+ec:3.6.1.17	NUDT2	bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	P1,P4-bis(5'-guanosyl) tetraphosphate + H2O = GTP + GMP
+ec:3.6.1.19	ITPA	nucleoside-triphosphate diphosphatase	a nucleoside triphosphate + H2O = a nucleotide + diphosphate
+ec:3.6.1.22	NUDT12	NAD+ diphosphatase	NAD+ + H2O = AMP + NMN
+ec:3.6.1.23	DUT	dUTP diphosphatase	dUTP + H2O = dUMP + diphosphate
+ec:3.6.1.28	THTPA	thiamine-triphosphatase	thiamine triphosphate + H2O = thiamine diphosphate + phosphate
+ec:3.6.1.29	FHIT	bis(5'-adenosyl)-triphosphatase	P1,P3-bis(5'-adenosyl) triphosphate + H2O = ADP + AMP
+ec:3.6.1.43	DOLPP1	dolichyldiphosphatase	dolichyl diphosphate + H2O = dolichyl phosphate + phosphate
+ec:3.6.1.45	NUDT14	UDP-sugar diphosphatase	UDP-sugar + H2O = UMP + alpha-D-aldose 1-phosphate
+ec:3.6.1.52	NUDT4,NUDT3,NUDT10,NUDT11	diphosphoinositol-polyphosphate diphosphatase	diphospho-myo-inositol polyphosphate + H2O = myo-inositol polyphosphate + phosphate
+ec:3.6.1.53	ADPRM	Mn2+-dependent ADP-ribose/CDP-alcohol diphosphatase	CDP-choline + H2O = CMP + phosphocholine
+ec:3.6.1.62	NUDT16,DCP2	5'-(N7-methylguanosine 5'-triphospho)-[mRNA] hydrolase	a 5'-(N7-methylguanosine 5'-triphospho)-[mRNA] + H2O = N7-methylguanosine 5'-diphosphate + a 5'-phospho-[mRNA]
+ec:3.6.1.64	NUDT16	inosine diphosphate phosphatase	IDP + H2O = IMP + phosphate
+ec:3.6.3.1	ATP9A,ATP8A1,ATP8B3,ATP11B,ATP11A,ATP11C,ATP9B,ATP8A2,ATP8B1,ATP10A,ATP8B2,ATP10D,ATP8B4	phospholipid-translocating ATPase	ATP + H2O + phospholipid[side 1] = ADP + phosphate + phospholipid[side 2]
+ec:3.6.3.8	ATP2C1,ATP2A1,ATP2A2,ATP2A3,ATP2B1,ATP2B2,ATP2B3,ATP2B4,ATP2C2	Ca2+-transporting ATPase	ATP + H2O + Ca2+[side 1] = ADP + phosphate + Ca2+[side 2]
+ec:3.6.3.9	ATP1A1,ATP1A2,ATP1A3,ATP1A4	Na+/K+-exchanging ATPase	ATP + H2O + Na+in + K+out = ADP + phosphate + Na+out + K+in
+ec:3.6.3.10	ATP12A,ATP4A,ATP4B	H+/K+-exchanging ATPase	ATP + H2O + H+in + K+out = ADP + phosphate + H+out + K+in
+ec:3.6.3.14	TCIRG1,ATP5H,ATP5L,ATP6V1G3,ATP6V0E2,ATP6V0A2,DDX58,ATP6V0D2,ATP6V1C2,ATP6,ATP8,ATP5A1,ATP5B,ATP6V0A4,ATP5C1,ATP5D,ATP6V1D,ATP5E,ATP5F1,ATP5G1,ATP6V1H,ATP5G2,ATP5G3,ATP5I,ATP5J,ATP6V1A,ATP6V1B1,ATP6V1B2,ATP6V0C,ATP6V1C1,ATP6V1E1,ATP6V0B,ATP6V1G2,ATP6V0A1,ATP6AP1,ATP5O,DHX58,ATP6V0E1,ATP6V1E2,ATP6V0D1,ATP6V1F,ATP6V1G1,ATP5J2	H+-transporting two-sector ATPase	ATP + H2O + H+in = ADP + phosphate + H+out
+ec:3.6.3.16	ASNA1	arsenite-transporting ATPase	ATP + H2O + arsenitein = ADP + phosphate + arseniteout
+ec:3.6.3.49	CFTR	channel-conductance-controlling ATPase	ATP + H2O = ADP + phosphate
+ec:3.6.3.54	ATP7A,ATP7B	Cu+-exporting ATPase	ATP + H2O + Cu+[side 1] = ADP + phosphate + Cu+[side 2]
+ec:3.6.4.3	KATNA1,SPAST,KATNAL1	microtubule-severing ATPase	ATP + H2O = ADP + phosphate
+ec:3.6.4.6	NSF	vesicle-fusing ATPase	ATP + H2O = ADP + phosphate
+ec:3.6.4.12	G3BP1,RUVBL2,CHD1,CHD2,CHD3,CHD4,HFM1,DQX1,DNA2,ERCC2,ERCC3,RAD54L2,MCM9,CHD5,GTF2F2,MCM2,MCM3,MCM4,MCM5,MCM6,MCM7,SMARCAL1,RTEL1,ATRX,INO80,CHD7,C10orf2,SMARCAD1,CHD8,RECQL,BLM,WRN,PIF1,CHD9,BRIP1,CHD6,MCM8,FBXO18,HELB,RECQL5,RECQL4	DNA helicase	ATP + H2O = ADP + phosphate
+ec:3.6.4.13	G3BP1,DDX39A,DDX17,DDX52,DDX20,DDX42,DDX1,DDX3X,DDX5,DDX6,DHX8,DHX9,DDX10,DDX11,DHX15,DHX36,DHX30,SNRNP200,SKIV2L2,DDX51,DDX47,DDX41,MOV10L1,DDX4,DDX49,DDX56,DDX43,DDX27,DDX24,DHX37,DDX55,DHX35,IFIH1,DDX31,SUPV3L1,DDX50,DDX54,DDX39B,DHX16,DDX3Y,DDX18,DHX57,DDX21,DDX23,EIF4A3,DHX38,DDX46	RNA helicase	ATP + H2O = ADP + phosphate
+ec:3.6.5.5	DNM1L,DNM1,DNM2,DNM3,OPA1	dynamin GTPase	GTP + H2O = GDP + phosphate
+ec:3.7.1.2	FAH	fumarylacetoacetase	4-fumarylacetoacetate + H2O = acetoacetate + fumarate
+ec:3.7.1.3	KYNU	kynureninase	L-kynurenine + H2O = anthranilate + L-alanine
+ec:3.7.1.5	FAHD1	acylpyruvate hydrolase	a 3-acylpyruvate + H2O = a carboxylate + pyruvate
+ec:3.10.1.1	SGSH	N-sulfoglucosamine sulfohydrolase	N-sulfo-D-glucosamine + H2O = D-glucosamine + sulfate
+ec:4.1.1.9	MLYCD	malonyl-CoA decarboxylase	malonyl-CoA = acetyl-CoA + CO2
+ec:4.1.1.15	GAD1,GAD2	glutamate decarboxylase	L-glutamate = 4-aminobutanoate + CO2
+ec:4.1.1.17	ODC1	ornithine decarboxylase	L-ornithine = putrescine + CO2
+ec:4.1.1.19	ADC	arginine decarboxylase	L-arginine = agmatine + CO2
+ec:4.1.1.21	PAICS	phosphoribosylaminoimidazole carboxylase	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate = 5-amino-1-(5-phospho-D-ribosyl)imidazole + CO2
+ec:4.1.1.22	HDC	histidine decarboxylase	L-histidine = histamine + CO2
+ec:4.1.1.23	UMPS	orotidine-5'-phosphate decarboxylase	orotidine 5'-phosphate = UMP + CO2
+ec:4.1.1.28	DDC	aromatic-L-amino-acid decarboxylase	L-dopa = dopamine + CO2
+ec:4.1.1.29	CSAD	sulfinoalanine decarboxylase	3-sulfino-L-alanine = hypotaurine + CO2
+ec:4.1.1.32	PCK1,PCK2	phosphoenolpyruvate carboxykinase (GTP)	GTP + oxaloacetate = GDP + phosphoenolpyruvate + CO2
+ec:4.1.1.33	MVD	diphosphomevalonate decarboxylase	ATP + (R)-5-diphosphomevalonate = ADP + phosphate + isopentenyl diphosphate + CO2
+ec:4.1.1.35	UXS1	UDP-glucuronate decarboxylase	UDP-D-glucuronate = UDP-D-xylose + CO2
+ec:4.1.1.36	PPCDC	phosphopantothenoylcysteine decarboxylase	N-[(R)-4'-phosphopantothenoyl]-L-cysteine = pantotheine 4'-phosphate + CO2
+ec:4.1.1.37	UROD	uroporphyrinogen decarboxylase	uroporphyrinogen III = coproporphyrinogen III + 4 CO2
+ec:4.1.1.45	ACMSD	aminocarboxymuconate-semialdehyde decarboxylase	2-amino-3-(3-oxoprop-1-en-1-yl)but-2-enedioate = 2-aminomuconate semialdehyde + CO2
+ec:4.1.1.50	AMD1	adenosylmethionine decarboxylase	S-adenosyl-L-methionine = S-adenosyl 3-(methylthio)propylamine + CO2
+ec:4.1.1.65	PISD	phosphatidylserine decarboxylase	phosphatidyl-L-serine = phosphatidylethanolamine + CO2
+ec:4.1.1.84	DDT	D-dopachrome decarboxylase	D-dopachrome = 5,6-dihydroxyindole + CO2
+ec:4.1.1.90	GGCX	peptidyl-glutamate 4-carboxylase	peptidyl-4-carboxyglutamate + 2,3-epoxyphylloquinone + H2O = peptidyl-glutamate + CO2 + O2 + phylloquinone
+ec:4.1.2.4	DERA	deoxyribose-phosphate aldolase	2-deoxy-D-ribose 5-phosphate = D-glyceraldehyde 3-phosphate + acetaldehyde
+ec:4.1.2.13	ALDOA,ALDOB,ALDOC	fructose-bisphosphate aldolase	D-fructose 1,6-bisphosphate = glycerone phosphate + D-glyceraldehyde 3-phosphate
+ec:4.1.2.27	SGPL1	sphinganine-1-phosphate aldolase	sphinganine 1-phosphate = phosphoethanolamine + palmitaldehyde
+ec:4.1.2.50	PTS	6-carboxytetrahydropterin synthase	7,8-dihydroneopterin 3'-triphosphate + H2O = 6-carboxy-5,6,7,8-tetrahydropterin + acetaldehyde + triphosphate
+ec:4.1.3.3	NPL	N-acetylneuraminate lyase	N-acetylneuraminate = N-acetyl-D-mannosamine + pyruvate
+ec:4.1.3.4	HMGCL	hydroxymethylglutaryl-CoA lyase	(S)-3-hydroxy-3-methylglutaryl-CoA = acetyl-CoA + acetoacetate
+ec:4.2.1.1	CA5B,CA14,CA13,CA1,CA2,CA3,CA4,CA5A,CA6,CA7,CA8,CA9,CA12	carbonate dehydratase	H2CO3 = CO2 + H2O
+ec:4.2.1.2	FH	fumarate hydratase	(S)-malate = fumarate + H2O
+ec:4.2.1.3	ACO1,ACO2	aconitate hydratase	citrate = isocitrate (overall reaction)
+ec:4.2.1.11	ENO1,ENO2,ENO3	phosphopyruvate hydratase	2-phospho-D-glycerate = phosphoenolpyruvate + H2O
+ec:4.2.1.17	ECHS1,EHHADH,HADHA	enoyl-CoA hydratase	(3S)-3-hydroxyacyl-CoA = trans-2(or 3)-enoyl-CoA + H2O
+ec:4.2.1.18	AUH	methylglutaconyl-CoA hydratase	(S)-3-hydroxy-3-methylglutaryl-CoA = trans-3-methylglutaconyl-CoA + H2O
+ec:4.2.1.22	CBS	cystathionine beta-synthase	L-serine + L-homocysteine = L-cystathionine + H2O
+ec:4.2.1.24	ALAD	porphobilinogen synthase	2 5-aminolevulinate = porphobilinogen + 2 H2O
+ec:4.2.1.46	TGDS	dTDP-glucose 4,6-dehydratase	dTDP-alpha-D-glucose = dTDP-4-dehydro-6-deoxy-alpha-D-glucose + H2O
+ec:4.2.1.47	GMDS	GDP-mannose 4,6-dehydratase	GDP-mannose = GDP-4-dehydro-6-deoxy-D-mannose + H2O
+ec:4.2.1.49	UROC1	urocanate hydratase	3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate = urocanate + H2O
+ec:4.2.1.75	UROS	uroporphyrinogen-III synthase	hydroxymethylbilane = uroporphyrinogen III + H2O
+ec:4.2.1.96	PCBD1,PCBD2	4a-hydroxytetrahydrobiopterin dehydratase	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin = (6R)-6-(L-erythro-1,2-dihydroxypropyl)-7,8-dihydro-6H-pterin + H2O
+ec:4.2.1.107	HSD17B4	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase	(24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA = (24E)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA + H2O
+ec:4.2.1.109	APIP	methylthioribulose 1-phosphate dehydratase	S-methyl-5-thio-D-ribulose 1-phosphate = 5-(methylthio)-2,3-dioxopentyl phosphate + H2O
+ec:4.2.1.134	PTPLB,PTPLA	very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase	a very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] = a very-long-chain trans-2,3-dehydroacyl-[acyl-carrier protein] + H2O
+ec:4.2.3.12	PTS	6-pyruvoyltetrahydropterin synthase	7,8-dihydroneopterin 3'-triphosphate = 6-pyruvoyl-5,6,7,8-tetrahydropterin + triphosphate
+ec:4.2.99.18	APLF,NEIL2,APEX2,APEX1,NTHL1,OGG1,NEIL1,ALKBH1	DNA-(apurinic or apyrimidinic site) lyase	The C-O-P bond 3' to the apurinic or apyrimidinic site in DNA is broken by a beta-elimination reaction, leaving a 3'-terminal unsaturated sugar and a product with a terminal 5'-phosphate
+ec:4.3.1.3	HAL	histidine ammonia-lyase	L-histidine = urocanate + NH3
+ec:4.3.1.4	FTCD	formimidoyltetrahydrofolate cyclodeaminase	5-formimidoyltetrahydrofolate = 5,10-methenyltetrahydrofolate + NH3
+ec:4.3.1.17	SDS	L-serine ammonia-lyase	L-serine = pyruvate + NH3
+ec:4.3.2.1	ASL	argininosuccinate lyase	2-(Nomega-L-arginino)succinate = fumarate + L-arginine
+ec:4.3.2.2	ADSL	adenylosuccinate lyase	N6-(1,2-dicarboxyethyl)AMP = fumarate + AMP
+ec:4.4.1.1	CTH	cystathionine gamma-lyase	L-cystathionine + H2O = L-cysteine + NH3 + 2-oxobutanoate (overall reaction)
+ec:4.4.1.5	GLO1	lactoylglutathione lyase	(R)-S-lactoylglutathione = glutathione + methylglyoxal
+ec:4.4.1.13	CCBL2,CCBL1	cysteine-S-conjugate beta-lyase	RS-CH2-CH(NH3+)COO- + H2O = RSH + NH3 + pyruvate
+ec:4.4.1.16	SCLY	selenocysteine lyase	L-selenocysteine + reduced acceptor = selenide + L-alanine + acceptor
+ec:4.4.1.17	HCCS	holocytochrome-c synthase	holocytochrome c = apocytochrome c + heme
+ec:4.4.1.20	LTC4S	leukotriene-C4 synthase	leukotriene C4 = leukotriene A4 + glutathione
+ec:4.6.1.1	ADCY1,ADCY2,ADCY3,ADCY5,ADCY6,ADCY7,ADCY8,ADCY9,ADCY4,ADCY10	adenylate cyclase	ATP = 3',5'-cyclic AMP + diphosphate
+ec:4.6.1.2	GUCY1A2,GUCY1A3,GUCY1B3,GUCY2C,GUCY2F,GUCY2D,NPR1,NPR2	guanylate cyclase	GTP = 3',5'-cyclic GMP + diphosphate
+ec:4.99.1.1	FECH	ferrochelatase	protoheme + 2 H+ = protoporphyrin + Fe2+
+ec:5.1.1.18	SRR	serine racemase	L-serine = D-serine
+ec:5.1.3.1	RPE,729020	ribulose-phosphate 3-epimerase	D-ribulose 5-phosphate = D-xylulose 5-phosphate
+ec:5.1.3.2	GALE	UDP-glucose 4-epimerase	UDP-alpha-D-glucose = UDP-alpha-D-galactose
+ec:5.1.3.3	GALM	aldose 1-epimerase	alpha-D-glucose = beta-D-glucose
+ec:5.1.3.8	RENBP	N-acylglucosamine 2-epimerase	N-acyl-D-glucosamine = N-acyl-D-mannosamine
+ec:5.1.3.14	GNE	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)	UDP-N-acetyl-alpha-D-glucosamine = UDP-N-acetyl-alpha-D-mannosamine
+ec:5.1.3.17	GLCE	heparosan-N-sulfate-glucuronate 5-epimerase	heparosan-N-sulfate D-glucuronate = heparosan-N-sulfate L-iduronate
+ec:5.1.3.19	DSE	chondroitin-glucuronate 5-epimerase	chondroitin D-glucuronate = dermatan L-iduronate
+ec:5.1.99.1	MCEE	methylmalonyl-CoA epimerase	(R)-methylmalonyl-CoA = (S)-methylmalonyl-CoA
+ec:5.1.99.4	AMACR	alpha-methylacyl-CoA racemase	(2S)-2-methylacyl-CoA = (2R)-2-methylacyl-CoA
+ec:5.2.1.2	GSTZ1	maleylacetoacetate isomerase	4-maleylacetoacetate = 4-fumarylacetoacetate
+ec:5.2.1.8	100996725,PPIF,CWC27,PPIE,PPIH,FKBP9,PPIAL4A,FKBP1A,FKBP1B,FKBP2,FKBP3,FKBP4,FKBP5,PPWD1,PPIL2,FKBP8,PPIL6,FKBP11,PPIL1,FKBP7,PIN1,PIN4,PPIL3,PPIA,PPIB,PPIC,PPID,FKBP14,FKBP10,PPIAL4G,PPIAL4D,PPIAL4B,PPIAL4C,PPIAL4F,PPIAL4E,FKBP6,PPIL4,PPIG	peptidylprolyl isomerase	peptidylproline (omega=180) = peptidylproline (omega=0)
+ec:5.3.1.1	TPI1	triose-phosphate isomerase	D-glyceraldehyde 3-phosphate = glycerone phosphate
+ec:5.3.1.6	RPIA	ribose-5-phosphate isomerase	D-ribose 5-phosphate = D-ribulose 5-phosphate
+ec:5.3.1.8	MPI	mannose-6-phosphate isomerase	D-mannose 6-phosphate = D-fructose 6-phosphate
+ec:5.3.1.9	GPI	glucose-6-phosphate isomerase	D-glucose 6-phosphate = D-fructose 6-phosphate
+ec:5.3.1.22	HYI	hydroxypyruvate isomerase	hydroxypyruvate = 2-hydroxy-3-oxopropanoate
+ec:5.3.1.23	MRI1	S-methyl-5-thioribose-1-phosphate isomerase	S-methyl-5-thio-alpha-D-ribose 1-phosphate = S-methyl-5-thio-D-ribulose 1-phosphate
+ec:5.3.2.1	MIF	phenylpyruvate tautomerase	keto-phenylpyruvate = enol-phenylpyruvate
+ec:5.3.3.1	HSD3B1,HSD3B2	steroid Delta-isomerase	a 3-oxo-Delta5-steroid = a 3-oxo-Delta4-steroid
+ec:5.3.3.2	IDI1,IDI2	isopentenyl-diphosphate Delta-isomerase	isopentenyl diphosphate = dimethylallyl diphosphate
+ec:5.3.3.5	EBP	cholestenol Delta-isomerase	5alpha-cholest-7-en-3beta-ol = 5alpha-cholest-8-en-3beta-ol
+ec:5.3.3.8	ECI2,ECI1,EHHADH	dodecenoyl-CoA isomerase	(3Z)-dodec-3-enoyl-CoA = (2E)-dodec-2-enoyl-CoA
+ec:5.3.3.12	DCT	L-dopachrome isomerase	L-dopachrome = 5,6-dihydroxyindole-2-carboxylate
+ec:5.3.4.1	PDIA6,PDIA5,PDIA3,P4HB,TMX3,PDIA2,PDIA4	protein disulfide-isomerase	Catalyses the rearrangement of -S-S- bonds in proteins
+ec:5.3.99.2	HPGDS,PTGDS	prostaglandin-D synthase	(5Z,13E,15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate = (5Z,13E,15S)-9alpha,15-dihydroxy-11-oxoprosta-5,13-dienoate
+ec:5.3.99.3	PTGES3,PTGES2,PTGES	prostaglandin-E synthase	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate = (5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dienoate
+ec:5.3.99.4	PTGIS	prostaglandin-I synthase	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate = (5Z,13E)-(15S)-6,9alpha-epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate
+ec:5.3.99.5	TBXAS1	thromboxane-A synthase	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate = (5Z,13E)-(15S)-9alpha,11alpha-epoxy-15-hydroxythromboxa-5,13-dienoate
+ec:5.4.2.2	PGM1,PGM2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	alpha-D-glucose 1-phosphate = D-glucose 6-phosphate
+ec:5.4.2.3	PGM3	phosphoacetylglucosamine mutase	N-acetyl-alpha-D-glucosamine 1-phosphate = N-acetyl-D-glucosamine 6-phosphate
+ec:5.4.2.4	BPGM	bisphosphoglycerate mutase	3-phospho-D-glyceroyl phosphate = 2,3-bisphospho-D-glycerate
+ec:5.4.2.7	PGM2	phosphopentomutase	alpha-D-ribose 1-phosphate = D-ribose 5-phosphate
+ec:5.4.2.8	PMM1,PMM2	phosphomannomutase	alpha-D-mannose 1-phosphate = D-mannose 6-phosphate
+ec:5.4.2.11	PGAM4,PGAM1,PGAM2,BPGM	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)	2-phospho-D-glycerate = 3-phospho-D-glycerate
+ec:5.4.99.2	MUT	methylmalonyl-CoA mutase	(R)-methylmalonyl-CoA = succinyl-CoA
+ec:5.4.99.7	LSS	lanosterol synthase	(3S)-2,3-epoxy-2,3-dihydrosqualene = lanosterol
+ec:5.4.99.12	PUS1	tRNA pseudouridine38-40 synthase	tRNA uridine38-40 = tRNA pseudouridine38-40
+ec:5.4.99.25	TRUB1	tRNA pseudouridine55 synthase	tRNA uridine55 = tRNA pseudouridine55
+ec:5.4.99.27	PUS7,PUS7L	tRNA pseudouridine13 synthase	tRNA uridine13 = tRNA pseudouridine13
+ec:5.4.99.45	PUS3	tRNA pseudouridine38/39 synthase	tRNA uridine38/39 = tRNA pseudouridine38/39
+ec:5.5.1.4	ISYNA1	inositol-3-phosphate synthase	D-glucose 6-phosphate = 1D-myo-inositol 3-phosphate
+ec:5.99.1.2	TOP1MT,TOP1,TOP3A,TOP3B	DNA topoisomerase	ATP-independent breakage of single-stranded DNA, followed by passage and rejoining
+ec:5.99.1.3	TOP2A,TOP2B	DNA topoisomerase (ATP-hydrolysing)	ATP-dependent breakage, passage and rejoining of double-stranded DNA
+ec:6.1.1.1	YARS2,YARS	tyrosine---tRNA ligase	ATP + L-tyrosine + tRNATyr = AMP + diphosphate + L-tyrosyl-tRNATyr
+ec:6.1.1.2	WARS2,WARS	tryptophan---tRNA ligase	ATP + L-tryptophan + tRNATrp = AMP + diphosphate + L-tryptophyl-tRNATrp
+ec:6.1.1.3	TARSL2,TARS,TARS2	threonine---tRNA ligase	ATP + L-threonine + tRNAThr = AMP + diphosphate + L-threonyl-tRNAThr
+ec:6.1.1.4	LARS2,LARS	leucine---tRNA ligase	ATP + L-leucine + tRNALeu = AMP + diphosphate + L-leucyl-tRNALeu
+ec:6.1.1.5	IARS,IARS2	isoleucine---tRNA ligase	ATP + L-isoleucine + tRNAIle = AMP + diphosphate + L-isoleucyl-tRNAIle
+ec:6.1.1.6	KARS	lysine---tRNA ligase	ATP + L-lysine + tRNALys = AMP + diphosphate + L-lysyl-tRNALys
+ec:6.1.1.7	AARS,AARS2	alanine---tRNA ligase	ATP + L-alanine + tRNAAla = AMP + diphosphate + L-alanyl-tRNAAla
+ec:6.1.1.9	VARS2,VARS	valine---tRNA ligase	ATP + L-valine + tRNAVal = AMP + diphosphate + L-valyl-tRNAVal
+ec:6.1.1.10	MARS,MARS2	methionine---tRNA ligase	ATP + L-methionine + tRNAMet = AMP + diphosphate + L-methionyl-tRNAMet
+ec:6.1.1.11	SARS2,SARS	serine---tRNA ligase	ATP + L-serine + tRNASer = AMP + diphosphate + L-seryl-tRNASer
+ec:6.1.1.12	DARS,DARS2	aspartate---tRNA ligase	ATP + L-aspartate + tRNAAsp = AMP + diphosphate + L-aspartyl-tRNAAsp
+ec:6.1.1.14	GARS	glycine---tRNA ligase	ATP + glycine + tRNAGly = AMP + diphosphate + glycyl-tRNAGly
+ec:6.1.1.15	EPRS,PARS2	proline---tRNA ligase	ATP + L-proline + tRNAPro = AMP + diphosphate + L-prolyl-tRNAPro
+ec:6.1.1.16	CARS2,CARS	cysteine---tRNA ligase	ATP + L-cysteine + tRNACys = AMP + diphosphate + L-cysteinyl-tRNACys
+ec:6.1.1.17	EARS2,EPRS	glutamate---tRNA ligase	ATP + L-glutamate + tRNAGlu = AMP + diphosphate + L-glutamyl-tRNAGlu
+ec:6.1.1.18	QARS	glutamine---tRNA ligase	ATP + L-glutamine + tRNAGln = AMP + diphosphate + L-glutaminyl-tRNAGln
+ec:6.1.1.19	RARS2,RARS	arginine---tRNA ligase	ATP + L-arginine + tRNAArg = AMP + diphosphate + L-arginyl-tRNAArg
+ec:6.1.1.20	FARSB,FARS2,FARSA	phenylalanine---tRNA ligase	ATP + L-phenylalanine + tRNAPhe = AMP + diphosphate + L-phenylalanyl-tRNAPhe
+ec:6.1.1.21	HARS2,HARS	histidine---tRNA ligase	ATP + L-histidine + tRNAHis = AMP + diphosphate + L-histidyl-tRNAHis
+ec:6.1.1.22	NARS,NARS2	asparagine---tRNA ligase	ATP + L-asparagine + tRNAAsn = AMP + diphosphate + L-asparaginyl-tRNAAsn
+ec:6.2.1.1	ACSS2,ACSS1	acetate---CoA ligase	ATP + acetate + CoA = AMP + diphosphate + acetyl-CoA
+ec:6.2.1.2	ACSM1,ACSM2A,ACSM4,ACSM2B,ACSM5,ACSM3	butyrate---CoA ligase	ATP + a carboxylate + CoA = AMP + diphosphate + an acyl-CoA
+ec:6.2.1.3	SLC27A2,ACSL1,ACSL3,ACSL4,ACSBG1,ACSL6,ACSL5,ACSBG2	long-chain-fatty-acid---CoA ligase	ATP + a long-chain fatty acid + CoA = AMP + diphosphate + an acyl-CoA
+ec:6.2.1.4	SUCLG2,SUCLG1,SUCLA2	succinate---CoA ligase (GDP-forming)	GTP + succinate + CoA = GDP + phosphate + succinyl-CoA
+ec:6.2.1.5	SUCLG2,SUCLG1,SUCLA2	succinate---CoA ligase (ADP-forming)	ATP + succinate + CoA = ADP + phosphate + succinyl-CoA
+ec:6.2.1.7	SLC27A5	cholate---CoA ligase	ATP + cholate + CoA = AMP + diphosphate + choloyl-CoA
+ec:6.2.1.16	AACS	acetoacetate---CoA ligase	ATP + acetoacetate + CoA = AMP + diphosphate + acetoacetyl-CoA
+ec:6.2.1.17	ACSS3	propionate---CoA ligase	ATP + propanoate + CoA = AMP + diphosphate + propanoyl-CoA
+ec:6.3.1.2	GLUL	glutamate---ammonia ligase	ATP + L-glutamate + NH3 = ADP + phosphate + L-glutamine
+ec:6.3.2.2	GCLC	glutamate---cysteine ligase	ATP + L-glutamate + L-cysteine = ADP + phosphate + gamma-L-glutamyl-L-cysteine
+ec:6.3.2.3	GSS	glutathione synthase	ATP + gamma-L-glutamyl-L-cysteine + glycine = ADP + phosphate + glutathione
+ec:6.3.2.5	PPCS	phosphopantothenate---cysteine ligase	CTP + (R)-4'-phosphopantothenate + L-cysteine = CMP + diphosphate + N-[(R)-4'-phosphopantothenoyl]-L-cysteine
+ec:6.3.2.6	PAICS	phosphoribosylaminoimidazolesuccinocarboxamide synthase	ATP + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-aspartate = ADP + phosphate + (S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+ec:6.3.2.11	CARNS1	carnosine synthase	ATP + L-histidine + beta-alanine = ADP + phosphate + carnosine
+ec:6.3.2.17	FPGS	tetrahydrofolate synthase	ATP + tetrahydropteroyl-[gamma-Glu]n + L-glutamate = ADP + phosphate + tetrahydropteroyl-[gamma-Glu]n+1
+ec:6.3.2.19	UBA2,SAE1,HUWE1,TRIM28,RNF41,TRIM13,TOPORS,STUB1,UBE4B,MARCH6,UBE2E3,WWP1,WWP2,UBE2C,TRIM31,RNF139,RNF13,MARCH3,UHRF2,UBE2J2,RNF19B,UBR3,TRIM71,UBE2QL1,TRIM69,UBE2F,MIB2,HECTD2,UBE2U,RNF187,ZSWIM2,SH3RF2,RNF217,ZNF645,MARCH10,RNF133,UBR1,RNF152,MARCH8,RNF182,ZNRF2,TRIM32,HECW1,MYCBP2,MGRN1,UBR2,NEDD4L,UBR4,MKRN1,MKRN2,CBLC,RNF144B,SHPRH,HECTD1,RNF19A,RCHY1,RNF167,HERC4,AMFR,RNF115,UBE2S,PRPF19,RNF149,RNF180,UBE2T,MYLIP,UHRF1,UBE2K,SH3RF3,TRIM23,NHLRC1,UBE2NL,MDM2,MID1,MARCH11,TRIM37,NEDD4,CNOT4,PARK2,TRIM17,RLIM,MARCH2,UBR5,RNF138,UBE2J1,TRIM33,UBE2D4,RNF216,NEURL1B,MARCH5,RNF111,UBE2R2,RNF125,MARCH1,RNF31,FANCL,TRIM68,UBR7,RFWD3,UBA6,UBE2W,UBE2Q1,RNF126,CHFR,RNF130,RNF20,TRIM39,RAD18,SMURF1,BIRC6,HECW2,HACE1,MIB1,MARCH4,SH3RF1,CCNB1IP1,BARD1,RAG1,RBBP6,TRIM27,RING1,RNF2,RNF5,RNF123,UBE2O,PJA1,RNF25,RFWD2,SMURF2,SIAH1,SIAH2,MARCH7,UBE2Z,HLTF,TRIM21,TTC3,UBA1,UBA7,UBE2A,UBE2B,UBE2D1,UBE2D2,UBE2D3,UBE2E1,UBE2E2,UBE2G1,UBE2G2,UBE2H,UBE2I,UBE2L3,UBE2N,UBE3A,MKRN3,TRIM25,RNF103,RNF128,MUL1,HECTD3,CBLL1,TRIM11,TRIM8,TRIM56,RNF146,BRAP,ITCH,ZNRF3,TRAF7,RNF135,SYVN1,TRIM63,ZNRF1,TRIM5,CBL,CBLB,TRIM24,HERC3,HERC2,HERC1,UBE3B,RNF8,UBA3,UBE2M,LRSAM1,TRIM41,RNF185,NEURL,UBE2L6,UBE2Q2,MARCH9,TRIP12,UBE4A,RNF14,DZIP3,UBE3C,RNF144A,RNF40,PJA2,CDC34	ubiquitin---protein ligase	ATP + ubiquitin + protein lysine = AMP + diphosphate + protein N-ubiquityllysine
+ec:6.3.2.25	TTL	tubulin---tyrosine ligase	ATP + detyrosinated alpha-tubulin + L-tyrosine = alpha-tubulin + ADP + phosphate
+ec:6.3.3.1	GART	phosphoribosylformylglycinamidine cyclo-ligase	ATP + 2-(formamido)-N1-(5-phospho-D-ribosyl)acetamidine = ADP + phosphate + 5-amino-1-(5-phospho-D-ribosyl)imidazole
+ec:6.3.3.2	ST20-MTHFS,MTHFS	5-formyltetrahydrofolate cyclo-ligase	ATP + 5-formyltetrahydrofolate = ADP + phosphate + 5,10-methenyltetrahydrofolate
+ec:6.3.4.2	CTPS1,CTPS2	CTP synthase (glutamine hydrolysing)	ATP + UTP + L-glutamine = ADP + phosphate + CTP + L-glutamate (overall reaction)
+ec:6.3.4.3	MTHFD1L,MTHFD1	formate---tetrahydrofolate ligase	ATP + formate + tetrahydrofolate = ADP + phosphate + 10-formyltetrahydrofolate
+ec:6.3.4.4	ADSSL1,ADSS	adenylosuccinate synthase	GTP + IMP + L-aspartate = GDP + phosphate + N6-(1,2-dicarboxyethyl)-AMP
+ec:6.3.4.5	ASS1	argininosuccinate synthase	ATP + L-citrulline + L-aspartate = AMP + diphosphate + 2-(Nomega-L-arginino)succinate
+ec:6.3.4.9	HLCS	biotin---[methylmalonyl-CoA-carboxytransferase] ligase	ATP + biotin + apo-[methylmalonyl-CoA:pyruvate carboxytransferase] = AMP + diphosphate +
+ec:6.3.4.10	HLCS	biotin---[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase	ATP + biotin + apo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)] = AMP + diphosphate +
+ec:6.3.4.11	HLCS	biotin---[methylcrotonoyl-CoA-carboxylase] ligase	ATP + biotin + apo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)] = AMP + diphosphate +
+ec:6.3.4.13	GART	phosphoribosylamine---glycine ligase	ATP + 5-phospho-D-ribosylamine + glycine = ADP + phosphate + N1-(5-phospho-D-ribosyl)glycinamide
+ec:6.3.4.14	ACACA,ACACB	biotin carboxylase	ATP + biotin-carboxyl-carrier protein + CO2 = ADP + phosphate + carboxybiotin-carboxyl-carrier protein
+ec:6.3.4.15	HLCS	biotin---[acetyl-CoA-carboxylase] ligase	ATP + biotin + apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] = AMP + diphosphate +
+ec:6.3.4.16	CPS1	carbamoyl-phosphate synthase (ammonia)	2 ATP + NH3 + CO2 + H2O = 2 ADP + phosphate + carbamoyl phosphate
+ec:6.3.4.21	NAPRT1	nicotinate phosphoribosyltransferase	nicotinate + 5-phospho-alpha-D-ribose 1-diphosphate + ATP + H2O = beta-nicotinate D-ribonucleotide + diphosphate + ADP + phosphate
+ec:6.3.5.1	NADSYN1	NAD+ synthase (glutamine-hydrolysing)	ATP + deamido-NAD+ + L-glutamine + H2O = AMP + diphosphate + NAD+ + L-glutamate
+ec:6.3.5.2	GMPS	GMP synthase (glutamine-hydrolysing)	ATP + XMP + L-glutamine + H2O = AMP + diphosphate + GMP + L-glutamate (overall reaction)
+ec:6.3.5.3	PFAS	phosphoribosylformylglycinamidine synthase	ATP + N2-formyl-N1-(5-phospho-D-ribosyl)glycinamide + L-glutamine + H2O = ADP + phosphate + 2-(formamido)-N1-(5-phospho-D-ribosyl)acetamidine + L-glutamate
+ec:6.3.5.4	ASNS	asparagine synthase (glutamine-hydrolysing)	ATP + L-aspartate + L-glutamine + H2O = AMP + diphosphate + L-asparagine + L-glutamate (overall reaction)
+ec:6.3.5.5	CAD	carbamoyl-phosphate synthase (glutamine-hydrolysing)	2 ATP + L-glutamine + HCO3- + H2O = 2 ADP + phosphate + L-glutamate + carbamoyl phosphate (overall reaction)
+ec:6.3.5.6	GATC,PET112,QRSL1	asparaginyl-tRNA synthase (glutamine-hydrolysing)	ATP + aspartyl-tRNAAsn + L-glutamine + H2O = ADP + phosphate + asparaginyl-tRNAAsn + L-glutamate
+ec:6.3.5.7	GATC,PET112,QRSL1	glutaminyl-tRNA synthase (glutamine-hydrolysing)	ATP + glutamyl-tRNAGln + L-glutamine = ADP + phosphate + glutaminyl-tRNAGln + L-glutamate
+ec:6.4.1.1	PC	pyruvate carboxylase	ATP + pyruvate + HCO3- = ADP + phosphate + oxaloacetate
+ec:6.4.1.2	ACACA,ACACB	acetyl-CoA carboxylase	ATP + acetyl-CoA + HCO3- = ADP + phosphate + malonyl-CoA
+ec:6.4.1.3	PCCA,PCCB	propionyl-CoA carboxylase	ATP + propanoyl-CoA + HCO3- = ADP + phosphate + (S)-methylmalonyl-CoA
+ec:6.4.1.4	MCCC1,MCCC2	methylcrotonoyl-CoA carboxylase	ATP + 3-methylcrotonoyl-CoA + HCO3- = ADP + phosphate + 3-methylglutaconyl-CoA
+ec:6.5.1.1	LIG1,LIG3,LIG4	DNA ligase (ATP)	ATP + (deoxyribonucleotide)n + (deoxyribonucleotide)m = AMP + diphosphate + (deoxyribonucleotide)n+m
+ec:6.5.1.3	RTCB	RNA ligase (ATP)	ATP + (ribonucleotide)n + (ribonucleotide)m = AMP + diphosphate + (ribonucleotide)n+m
+ec:6.5.1.4	RTCA	RNA-3'-phosphate cyclase	ATP + RNA 3'-terminal-phosphate = AMP + diphosphate + RNA terminal-2',3'-cyclic-phosphate

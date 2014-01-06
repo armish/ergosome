@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title></title>
+ <title>Ergosome</title>
  <link href="http://ergoso.me/atom.xml" rel="self"/>
  <link href="http://ergoso.me"/>
- <updated>2014-01-06T13:19:53-05:00</updated>
+ <updated>2014-01-06T16:38:19-05:00</updated>
  <id>http://ergoso.me</id>
  <author>
    <name></name>
@@ -29,7 +29,7 @@ This is mainly because we do not bother publishing small findings if they are no
 
 &lt;p&gt;&lt;strong&gt;Ergosome&lt;/strong&gt; will hopefully become the medium that I will shortcut this painfully process and write things I find worthy of sharing.
 The name of the blog is simply a synonym for &lt;a href=&quot;https://en.wikipedia.org/wiki/Polysome&quot;&gt;Polyribosome&lt;/a&gt;;
-and it is also a word that resonates well with the famous Latin phrase &lt;a href=&quot;http://en.wikipedia.org/wiki/Cogito_ergo_sum&quot;&gt;ergo sum&lt;/a&gt;.&lt;/p&gt;
+and it is also a word that resonates well with the famous Latin phrase &amp;quot;&lt;a href=&quot;http://en.wikipedia.org/wiki/Cogito_ergo_sum&quot;&gt;cogito, ergo sum&lt;/a&gt;.&amp;quot;&lt;/p&gt;
 
 &lt;p&gt;Want to contact me? Feel free the check links at the bottom of this page or shoot me an e-mail at &lt;strong&gt;arman@aksoy.org&lt;/strong&gt;.&lt;/p&gt;
 </content>
