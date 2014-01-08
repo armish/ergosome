@@ -53,7 +53,7 @@ Third, some metabolic genes, in fact, are *cancer genes* according to the [Sange
 These, especially the second one, are addressable problems, for example by applying a [GSEA](http://www.broadinstitute.org/gsea/index.jsp)-like enrichment analysis.
 
 Even in its current state, this visualization is really helpful in conveying the following message:
-if we are to group rare and common alterations by some known categorical system (*prior knowledge*), we might start to see enrichments that are obvious in a gene-centric way (*boosting power*).
+if we are to group rare and common alterations by some known categorical system (*prior knowledge*), we might start to see enrichments that are not obvious when investigated one by one (*boosting power*).
 Try playing with the wheel, filter some mutation types out and change the recurrency levels; 
 you will see interesting enzyme families starting to emerge from the whole mess.
 Yet, be aware that before conducting a proper statistical enrichment, it is hard to claim anything from this analysis.
