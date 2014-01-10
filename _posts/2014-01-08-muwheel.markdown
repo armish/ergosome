@@ -17,7 +17,7 @@ and I will probably not be exaggerating if I say the community is obsessed with 
 
 It is, of course, easier to study common events due to the sample size and the statistical power that comes with it;
 but I believe, as a community, we are doing terrible when it comes to leverage all the knowledge we have accumulated over years about the common alterations to shed light on relatively **rare alterations** that might contribute to tumor initiation.
-There is a reason I am bringing this issue up, because I believe there are ways we approach to this problem of rare alterations and exploring what their potential roles are.
+There is a reason I am bringing this issue up: I believe there are ways we approach to this problem of rare alterations and exploring what their potential roles are.
 The way to attack this problem should be no different than the widely-known schema of problem solving: *use prior knowledge to boost your statistical power to discover new associations*.
 
 And in this post, I will try to explain one way of doing this -- a project we ([Ed](http://pseudon-ome.blogspot.com/) and I) call **μ-wheel**.
