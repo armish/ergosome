@@ -188,3 +188,10 @@ div.sharables {
 	margin-right: auto;
 }
 
+div.quote {
+	font-style: italic;
+	padding: 10px;
+	padding-left: 50px;
+	border-left: 1px solid gray;
+	background-color: #eeeeee;
+}
