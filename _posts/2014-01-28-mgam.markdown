@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Fate of computational analyses and MGAM mutations in melanoma"
+date:   2014-01-28 00:00:01
+categories: cancer tcga mutations mgam 
+---
+
+Right after I came up with the [μ-wheel](http://ergoso.me/metabolism/cancer/tcga/mutations/2014/01/08/muwheel.html) visualization,
+people immediately followed up with the obvious question: "*looks nice, but what is next?*"
+
+If you, like I do, work in the field of Computational Biology, the chances are that you are already familiar with the following situation:
+
+1. Unbelievable amount of information is publicly available for analysis (e.g. [TCGA](http://cancergenome.nih.gov/)).
+2. You pick one particular question, out of millions, and start crunching the data in a systematic manner to answer your question.
+3. You end up with a huge list of results, *i.e.* multiple answers to your question.
+4. You browse these results and see that some of them are so good to be true, some not-so-bad and some not interesting to you at all.
+5. And you start thinking about what to do with all these results.
+
+I found myself clueless about what to do next (as step 6) and every time this happened, I started asking people around me for advice on what to do.
+It took me four years of graduate-level education and hours (sometimes even days) of discussions to realize that I, often, do not have many options but to take either of the following two paths:
+
+1. Cherry-pick one really interesting result and try to go for a validation, that is often accompanied with wet-lab experiments.
+2. Show that these results can be used, again in a systematic fashion, to predict a particular phenotype (e.g. survival time for each patient).
+
+And I should mention that these paths are of interest to me only when I want to get some secondary yet *publishable* results.
+It is rather unfortunate that the primary results are often considered not to be sufficient for any type of publication,
+hence they frequently get lost in the transition to secondary results due to various things (negative results, time, *etc.*).
+
+Let's get back to the two possible paths and try to focus on the former. 
+The problem with follow-up experiments is that you need money, time, instruments and, of course, expertise on the subject of interest.
+Computational Biology labs often lack one or more of these components, therefore have to look for collaborations, as it is supposed to be.
+And here comes the problem of convincing somebody that what you want to do is interesting -- and this problem is a really really hard one.
+
+How, in the world, you can convice your collaborator about doing experiments on that gene that nobody has ever heard of before but that also shines as a pearl in your result set?
+Well... based on my experience, majority of time, you cannot -- and I find this really sad.
+*Really sad* that we are just trashing some random observations like nothing just because they do not look promising.
+
+So that is why I am going to mention this gene, called *MGAM*, in this post as an example to this situation, although I know that this is going to be a quite far-reaching post.
+
+### MGAM, maltase-glucoamylase, mutations in melanoma
+While eye-balling the [μ-wheel](http://ergoso.me/metabolism/cancer/tcga/mutations/2014/01/08/muwheel.html),
+I realized that there is this gene called MGAM (maltase-glucoamylase) that have a few recurrent mutations across many cancer studies.
+So I went to [cBioPortal](http://cbioportal.org), as usual, and submitted a cross-cancer query to see how all mutations in this gene look like.
+Below is a cross-cancer histogram showing relative frequencies of alteration (mutations) in MGAM:
+
+[![MGAM cross-cancer mutation histogram](/img/mgam-crosscancer-histogram.png)](http://bit.ly/LkstgY)
+
+Notice that the two studies to the far left, the ones that have the highest alteration frequency, are all *melanoma* characterized by two different studies?
+This is interesting -- possibly indicating they do something in a tissue-specific way.
+How about looking at how the mutations pile-up across all these studies:
+
+[![MGAM cross-cancer mutation pile-ups](/img/mgam-crosscancer-mutations.png)](http://bit.ly/LkstgY)
+
+Let's assume that this gene is not one of the TTN-like [fishy genes](http://www.genome.gov/multimedia/slides/tcga1/tcga1_lawrence.pdf).
+Then, looks like, as was also apparent from the wheel, there are a few recurrent mutations in this gene.
+Recurrent mutations, and the fact that the mutations have relatively high allele frequencies in mutated samples, are good signs:
+it means that these mutations possibly help the cells in some way, hence they were not selected against and did not get lost in the process.
+
+Furthermore, most of these mutations seem to be *missense* mutations (green) and only a few of them, *truncating* mutations (red).
+This, although weakly, implies the missense mutations are possibly *activating* rather than *disabling*,
+because otherwise, we would expect to see relatively more truncating mutations.
+
+If activating, then what do all those mutations affect the function of the protein?
+Considering that this gene is annotated as a *maltase-glucoamylase* (ECs: [3.2.1.20](http://www.kegg.jp/dbget-bin/www_bget?ec:3.2.1.20) and [3.2.1.3](http://www.kegg.jp/dbget-bin/www_bget?ec:3.2.1.3)),
+we can assume that for MGAM-mutated cells, the reaction this enzyme catalyzes runs more effectively and faster
+-- meaning that we have more breakdown of maltose-like species into glucose for cancer cells than it is for normal cells.
+
+This is interesting because we do know that cancer cells require more glucose uptake to support their incredibly high proliferation rate, again compared to the normal cells.
+For the sake of the argument, let's assume that the mutant protein causes more glucose availability hence is more advantageous to the cancer cells;
+but what can we do about it?
+
+[![MGAM-targeting drugs](/img/mgam-drugs.png)](http://bitbucket.org/armish/pihelper)
+
+No worries, I have some good news for you:
+first, looking at the [PiHelper](http://bitbucket.org/armish/pihelper) data, looks like there are FDA-approved drugs (orange hexagons in the figure above) that inhibit the activitity of this gene and are already commercially available;
+second, MGAM is a membrane protein with an extracellular domain, making it easy to raise potentially blocking antibodies against it.
+ 
+So, the over-reaching idea is as follows:
+
+<div class="quote">
+Recuurent mutations in MGAM gene are activating and this leads to more glucose availability 
+and therefore is advantageous for cancer cells. Treating MGAM-mutated 
+samples with one of the available targeted drugs to inhibit MGAM function, 
+can help inhibiting proliferation of cancer cells to some degree. If so, developing antibody-based,
+hence more specific, drugs against this protein is an option and it provides an 
+opportunity towards a therapy alternative.
+</div>
+
+Then, the follow-up experiment to this hypothesis should be pretty straight-forward and relatively cheap:
+
+1. Obtain MGAM-mutated and MGAM-wildtype cell lines.
+2. Obtain all available drugs targeting MGAM.
+3. Test whether MGAM-mutated cell lines are more sensitive to inhbition with any of these drugs compared to MGAM-wildtype ones.
+
+But finding a collaborator or funding for these experiments?... 
+Well, I don't think it is going to be that easy.
+
