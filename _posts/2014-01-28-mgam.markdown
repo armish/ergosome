@@ -78,7 +78,7 @@ second, MGAM is a membrane protein with an extracellular domain, making it easy 
 So, the over-reaching idea is as follows:
 
 <div class="quote">
-Recuurent mutations in MGAM gene are activating and this leads to more glucose availability 
+Recurrent mutations in MGAM gene are activating and this leads to more glucose availability 
 and therefore is advantageous for cancer cells. Treating MGAM-mutated 
 samples with one of the available targeted drugs to inhibit MGAM function, 
 can help inhibiting proliferation of cancer cells to some degree. If so, developing antibody-based,
