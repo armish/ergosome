@@ -14,7 +14,7 @@ There are various preprint servers available out there (nicely listed [here](htt
 and although the concept is the same for all,
 the audience to which you want to reach out differs a lot.
 
-[As you know](http://ergoso.me/general/2014/01/06/about.html), I am studying Computational Biology, hence I am a fan of the new [bioRxiv](http://www.biorxiv.org/) service.
+[As you know](http://ergoso.me/general/2014/01/05/about.html), I am studying Computational Biology, hence I am a fan of the new [bioRxiv](http://www.biorxiv.org/) service.
 I have been subscribed to e-mail alerts for the subject areas that I am interested in since the service started.
 I usually use my e-mail box as a task manager and label e-mails for adding them to my *have-a-look-at* list.
 This is especially useful for queuing papers of interest to me for reading them later.
