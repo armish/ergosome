@@ -111,7 +111,7 @@ Then you can take a look at all enzymes that catalyze the same reaction in a cel
 and see if a cancer cell lacks one particular isoenzyme, where the other partner can be targeted with a drug.
 The idea here is that losing a metabolic enzyme creates a vulnerability for the cancer cells,
 and you can exploit this vulnerability by perturbing these cells with a drug to inhibit an isoenzyme partner.
-We recently implemented this method and [report our findings here](http://bioinformatics.oxfordjournals.org/content/30/14/2051.full).
+We recently implemented this method and [report our findings here](http://bioinformatics.oxfordjournals.org/content/30/14/2051).
 The advantage of this approach is that it allows to nominate vulnerabilities and drugs associated with them in a [personalized manner](http://cbio.mskcc.org/cancergenomics/statius/).
 The disadvantage is that you rely on prior knowledge 
 and not all isoenzymes that you infer from knowledge bases might represent SL gene groups.
@@ -138,7 +138,7 @@ And I am looking forward to those day
 while trying to contribute to this ultimate aim as much as I can.
 
 ## The Rant
-For those that are curious, here is me talking about our approach and results during the 3rd TCGA Scientific Symposium.
+For those that are curious, here is me talking about [our approach and results](http://bioinformatics.oxfordjournals.org/content/30/14/2051) during the 3rd TCGA Scientific Symposium.
 
 <center>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/UvH3qRepw7Q" frameborder="0" allowfullscreen></iframe>
