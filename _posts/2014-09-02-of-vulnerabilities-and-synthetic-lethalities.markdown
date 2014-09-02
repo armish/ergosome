@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of Synthetic Lethalities and Vulnerabilities in Cancer"
+title:  "Of Synthetic Lethals and Vulnerabilities in Cancer"
 date:   2014-09-02 16:00:01
 categories: cancer therapy vulnerability personalized precision medicine
 ---
@@ -122,14 +122,14 @@ Given the amount of public data that we have,
 an integrated analysis will tell us which genes are potentially SL pairs
 --by looking at their co-alteration frequency and expression patterns--
 and whether there is experimental data, e.g. shRNA screen results, to back this observation up.
-As this really nice study by [Jerby-Arnon et al.](http://dx.doi.org/10.1016/j.cell.2014.07.027) shows,
+As this really nice study by [Jerby-Arnon *et al.*](http://dx.doi.org/10.1016/j.cell.2014.07.027) shows,
 using these data is no easy task 
 and requires combining many smart methods for proper integration and nomination.
 But it seems doable and at the end provides us with a general network of all SL pairs.
 
 ## The Conclusion
 No matter what kind of method or approach we adopt,
-accumulating results from all these synthetic lethalities and essentialities are no doubt exciting.
+accumulating results from all these synthetic lethals and essentials are no doubt exciting.
 With the increasing amount of data and new smart methods,
 we will soon have our huge catalog of therapy options with specific contexts that they are expected to work.
 And once we reach to that completeness,
