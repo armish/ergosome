@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Road to Independence - Part II: What it takes?"
+title:  "The Road to Independence - Part II: What it takes to apply for fellowships"
 date:   2014-10-25 17:00:01
 categories: career
 ---
@@ -75,7 +75,7 @@ The latter is somewhat questionable, because Ph.D. programs usually takes 5-6 ye
 and during all these years, many graduate students diverge from the field that they received their degree in.
 And this means that the former advisor's letter might not count as strong or informative as your new advisor's letter.
 
-Thanks to my tri-institutional graduate program, I got to spend a year in a different campus and had the chance to work in another lab for a whole year (+1).
+Thanks to my [tri-institutional graduate program](http://www.triiprograms.org/cbm/), I got to spend a year in a different campus and had the chance to work in another lab for a whole year (+1).
 I also happened to work for a multi-institutional project and interacted with another PI quite frequently (+1).
 And I have no serious issues with my current advisor (+1).
 In this sense, I was lucky to secure these additional support letters but not everybody is fortunate enough to do so.
