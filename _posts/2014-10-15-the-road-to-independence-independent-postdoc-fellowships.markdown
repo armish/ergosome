@@ -47,10 +47,10 @@ and as a student who doesn't have much of an experience in terms of putting in s
 you can probably feel my pain about working on a killer fellowship application.
 And add my being international to the equation, which reduces the list of possible positions that I can apply to down to a handful.
 
-Sure, there are really [great resources](http://drbecca.scientopia.org/tt-job-search-advice-aggregator/) out there talking about how funding mechanism works,
+Sure, there are really great resources out there talking about how funding mechanism works,
 how to write successful grants
-and how to better apply for faculty positions.
-There are even more of these on the start-up culture,
+and how to better apply for faculty positions (see [Dr. Becca's advice aggregator](http://drbecca.scientopia.org/tt-job-search-advice-aggregator/) for more).
+There are even more of these on [the start-up culture](http://startupclass.samaltman.com/),
 but it turns out that there is no such resource for people like me.
 
 I am also a huge fan of [Alex Blumberg](https://twitter.com/abexlumberg)'s [incredible podcast](http://hearstartup.com/) on starting a business and
@@ -64,4 +64,4 @@ but, I am hoping that it will prove useful for somebody who is thinking about be
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/armish">@armish</a> <a href="https://twitter.com/eperlste">@eperlste</a> do it! ; )</p>&mdash; StartUp (@podcaststartup) <a href="https://twitter.com/podcaststartup/status/520381437410050048">October 10, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Coming up next**: thoughts about the application packages, recommendation letters and networking.
+**Coming up next**: [thoughts about the application packages, recommendation letters and networking](http://ergoso.me/career/2014/10/25/the-road-to-independence-what-it-takes.html).
