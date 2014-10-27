@@ -34,7 +34,7 @@ And this is a fact you should be aware of: these fellowships are not advertised 
 So you have to be the one who is chasing after such opportunities.
 
 And as in every chasing game, it takes a lot of effort and time to get a complete listing of these.
-There was a relatively old article in Cell about these fellowships, titled "Superpostdocs reach for the stars",
+There was a relatively old article in Cell about these fellowships, titled "[Superpostdocs reach for the stars](http://www.ncbi.nlm.nih.gov/pubmed/17382872)",
 which was a really good start for me, but it turned out that many fellowships mentioned in that article are no more accepting new applications.
 Googling relevant keywords, talking to people and e-mailing departments of interest to me helped a lot to nail some of them down,
 and for the curious, here is the list of applications I will be applying to:
