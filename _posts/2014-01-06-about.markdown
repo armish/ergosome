@@ -20,7 +20,7 @@ This is mainly because we do not bother publishing small findings if they are no
 The name of the blog is simply a synonym for [Polyribosome][wikipoly];
 and it is also a word that resonates well with the famous Latin phrase "[cogito, ergo sum][wikicogito]."
 
-Want to contact me? Feel free the check links at the bottom of this page or shoot me an e-mail at **arman@aksoy.org**.
+Want to learn more? Feel free to visit <a href="http://arman.aksoy.org">my personal page</a> or shoot me an e-mail at **arman@aksoy.org**.
 
 [wikipoly]: https://en.wikipedia.org/wiki/Polysome
 [wikicogito]: http://en.wikipedia.org/wiki/Cogito_ergo_sum
