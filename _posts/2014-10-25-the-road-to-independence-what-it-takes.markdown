@@ -95,4 +95,4 @@ For those of you who are already overwhelmed with other things, I suggest you th
 If you are seriously thinking about applying for these fellowships,
 then plan ahead and try to dedicate a whole month to get these applications out of your way.
 
-**Coming up next**: Preparing a CV and a research proposal.
+**Coming up next**: [Preparing a CV and a research proposal](http://ergoso.me/career/2014/11/13/the-road-to-independence-research-proposal-and-cv.html).
