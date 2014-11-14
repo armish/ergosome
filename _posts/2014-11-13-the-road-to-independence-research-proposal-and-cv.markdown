@@ -37,22 +37,28 @@ But in short, here are the advices I took into consideration when coming up with
 - Group your publications into categories so that the related ones are closer to each other
 - At the top of your publication list, put some summary statistics (no, not your h-index) so that people will know what is waiting for them
 - Get rid of anything that is irrelevant to your applications (your GPAs, GRE scores, your not-so-useful undergraduate internships)
-- Do not list every single poster you presented unless it is necessary to do so
+- Do not list every single poster you presented unless it is necessary to do so or you received an award for one
 - Instead of over-promising and under-delivering, under-promise but over-deliver
 - Keep non-academic audience in mind and do not over-optimize for academic purposes
-- Use a clean, readable font and do not over pack
+- Use a clean, readable font face and do not over pack your text
+
+<br>
 
 ## Research Proposal
 This was one really hard to prepare.
 First of all, you don't find too many examples online
-and if you do, they are usually not good for your particular field.
+and even if you do, they are usually not good for your particular field.
 Second, other than the cap on the number of pages, there is no clear formating guidelines for this document.
 Third, it takes a lot of iterations to come up with a descent one.
 
 But don't you worry!
-Turns out that everybody has their own way of writing this piece of material,
+Turns out that everybody has their own way of writing this piece of material and
 there is no real consensus on what this document should contain and how it should be written.
-But do take your time to go over [this amazing list of grant proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) (aggregated by [Ethan White](http://whitelab.weecology.org/)) and [the advices](http://drbecca.scientopia.org/tt-job-search-advice-aggregator/).
+But do your best in terms of making it easy for a committee member to understand what you are trying to tell.
+The best way to do that is to imagine yourself sitting in a room with hundreds of applications 
+and taking a look at a particular proposal for a few minutes to decide whether it is good or bad.
+
+So do take your time to go over [this amazing list of grant proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) (aggregated by [Ethan White](http://whitelab.weecology.org/)) and [the advices](http://drbecca.scientopia.org/tt-job-search-advice-aggregator/).
 If any, take a look at either [Ethan Perlstein's](http://www.ethanperlstein.com/my-postdoc-research-proposal/) and [Titus Brown's](http://ged.msu.edu/downloads/2013-research.pdf) statements, both of which were accepted, so sucessful examples.
 
 Besides these publicly available ones, I found out that most fellows are OK with the idea of sharing their proposal if you ask them.
@@ -64,19 +70,32 @@ I made [my proposal public on GitHub](https://github.com/armish/research-proposa
 
 <iframe src="http://wl.figshare.com/articles/1239172/embed?show_title=1" width="100%" height="600" frameborder="0"></iframe>
 
-First, the more you read these examples, the more comfortable you will be when writing up yours.
+Read these as if you are one of the members of the search committee.
+Do you like it? Do you understand it at a basic level? Is it exciting?
+If so, how come? What made you like that particular proposal?
+Consider all these and adopt the things you liked and avoid the things you didn't like when writing yours.
+
+First, the more you read these examples, the more comfortable you will be when writing up.
 So try to read as many examples as possible.
 Second, my ultimate advice about writing your research proposal is to start writing as early as you can
 and do ask for feedback from people around you.
 I e-mailed quite a few to ask for feedback and only half of them had the time to comment on the proposal, so plan accordingly.
 And those comments I got so far, were incredibly useful and helped me improve my proposal a lot.
 
+But keep in mind that you should not take every single one of these comments seriously and change your proposal to make everyone happy.
+[Seek advice and learn to ignore it](http://www.thespectroscope.com/read/seek-advice-and-learn-to-ignore-it-by-lenny-teytelman-240).
+The way I handled all the feedback I got was to categorize things people pointed out in my proposal
+and fix the things that bothered more than three people:
+
+<blockquote class="twitter-tweet" lang="en"><p>so I heard from 5 persons regarding my research proposal and here is a summary of the feedback I got so far: <a href="http://t.co/Gngkm6YTKT">pic.twitter.com/Gngkm6YTKT</a></p>&mdash; B. Arman Aksoy (@armish) <a href="https://twitter.com/armish/status/528984135340404738">November 2, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Here are some words of wisdom from various people I contacted about writing a research proposal:
 
 - Clearly state your past work, future work and the motivation behind it
 - Guide readers with titles/sections and always provide quick summaries for skim readers
 - Do not use small fonts and do not exceed the page limits
-- Be concise and clear about what you want to say (no mercy for wordy paragraphs)
+- Be concise and clear about what you want to say (have no mercy for wordy paragraphs)
 - Do not say negative things in your proposal and do not bull shit others' work
 - Provide some reasoning about why you are the correct person to do the things you are proposing
 - Do not be too vague about your ideas (I will cure cancer) and do not provide too much details (I'm going to use this kit [catalog number])
@@ -89,8 +108,7 @@ If you are like me and English is your secondary language, then I strongly sugge
 This will not only help you get rid of too scientific terminology, but also will improve the clarity of your message.
 If you don't know any science writers, then you might think about getting help from one of the professional editing services out there.
 
---
-
+### Wrapping up
 These two are really important parts of the application package, but they are not the final determinants.
 You still need to tweak and customize some of these to be able to start submitting your application and maximize their impact on the search committee.
 
