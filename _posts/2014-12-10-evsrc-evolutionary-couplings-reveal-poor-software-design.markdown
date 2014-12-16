@@ -10,13 +10,13 @@ This is the question I have been thinking about when I have some extra time left
 As a pet-project, I recently created a *proof-of-concept* pipeline to show that the answer to this question seems to be **yes**.
 
 I was thinking about writing up a small application paper for this project,
-but I am really terrible at, leave alone writing, reading papers from the Computer Science field.
+but I am really terrible at reading papers from the Computer Science field, let alone writing them.
 I also realize that I barely have the time to pursue this project any further,
-so instead of turning this into a dead project, I decided to write a blog post about the current state of it.
+so instead of turning it into a dead project, I decided to write a blog post about the current state of it.
 
 *evSrc*, or EVolutionary SouRCe, project came into being while I was talking to [Richard](http://cbio.mskcc.org/directory/richard-stein/index.html) about the details of maximum entropy-based inference of pairwise interactions from large-scale data sets.
 In case you missed it, 
-there has been really exciting developments in the Structural Biology field,
+there have been really exciting developments in the Structural Biology field,
 where it has been shown that using this method and taking advantage of publicly available sequencing information,
 you can fold proteins and you can even find structures of complexes when you have enough sequences for protein(s).
 You can learn more about these projects from the [EVFold website](http://www.evfold.org), but the main pipeline looks something like this:
@@ -26,20 +26,20 @@ You can learn more about these projects from the [EVFold website](http://www.evf
 Basically, given information about pairs of entities, 
 there is a nice way to get rid of a lot of transitive interactions between pairs
 to get a useful set of correlations between entities, so called couplings.
-There are many places you can apply method,
+There are many places where you can apply this method,
 but the couplings you get out of this system should represent something meaningful.
-Otherwise what you are doing is simply applying a method in an irrelevant manner.
+Otherwise, what you are doing is simply applying a method in an irrelevant manner.
 For example, in protein world, the evolutionary couplings between residiues represent functional or structural constraints on those entities.
-And the tricky part is to find data sets where this method might provide you with meaningful results.
+The tricky part is to find data sets where this method might provide you with meaningful results.
 
 I have known about this method for quite some time,
 but didn't have a data set to apply it to.
-This is, of course, until recently when I had a moment of epiphany about the software systems.
+This is, of course, until recently when I had an epiphany about software systems.
 While I was browsing the history of commits for a project of mine,
 I realized that it holds a great deal of information about the software itself.
 
 For those who are not familiar with Version Contol Systems,
-I strongly suggest you get yourself familiar with it.
+I strongly suggest you get yourself familiar with them.
 In a nut-shell, these systems provides you the means to track changes you make to your source code
 and to version them properly.
 So when you look at the history of changes for a particular software project,
@@ -60,7 +60,7 @@ But what does it mean for source files to be coupled in a software evolution?
 
 Turns out that there is a huge body of literature on this,
 but for those are curious, here is a way to learn more about this on Google Scholar: [software evolution co-change](http://scholar.google.com/scholar?hl=en&q=software+evolution+co-change&btnG=&as_sdt=1%2C33&as_sdtp=).
-In short, file couplings often are attributed to bad software design
+In short, file couplings are often attributed to bad software design
 and represent pieces of code that are either duplicated at some point in the history
 or are not modular.
 If so, then:
@@ -78,7 +78,7 @@ but it is actually a few lines of code that you can find here on GitHub: [armish
 It basically:
 
 1. clones a repository from GitHub into a local folder;
-2. extract information about changed files in each revision;
+2. extracts information about changed files in each revision;
 3. passes this information to an R-script that infers the couplings;
 4. visualizes and outputs all the couplings with different specificity.
 
@@ -93,14 +93,14 @@ and then on [iPython](https://github.com/ipython/ipython):
 
 ![iPython file couplings](/img/evsrc-ipython.png)
 
-I did this, because I knew that both pieces of software are well-maintained and well-designed;
-so the pairs, if any, I get back should be easier to interpret.
+I did this because I knew that both pieces of software are well-maintained and well-designed;
+so the pairs I get back, if any, should be easier to interpret.
 In Angular.js, the approach revealed cute couplings, for example a coupling between [left arrow image](https://github.com/angular/angular.js/blob/master/images/css/arrow_left.gif) and [right arrow image](https://github.com/angular/angular.js/blob/master/images/css/arrow_right.gif).
 This makes sense, since every time one of them gets updated, the other one should also be taken care of.
 In many frameworks, I saw people resolving this kind of issues simply by combining these two into a single sprite sheet.
 
-It also turns out, in both softwares, a majority of the couplings are attributable to [Test Driven Design](http://en.wikipedia.org/wiki/Test-driven_development),
-where a source code is coupled to its test.
+It also turns out that in both pieces of software, a majority of the couplings are attributable to [Test Driven Design](http://en.wikipedia.org/wiki/Test-driven_development),
+where a source file is coupled to its test.
 So these are apparently false-positives I should take care of in the next version of the pipeline.
 Beside these, I also get a handful of suspicous couplings that seem to be due bad design,
 but they require another round of investigation before saying something concerete about them.
