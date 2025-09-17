@@ -1,36 +1,28 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }} <small>({{ page.date | date_to_string }})</small></h2>
-<hr>
-<div class="post">
-{{ content }}
-</div>
+<article class="post">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+  </header>
 
-<div class="sharables">
-	<!-- AddThis Button BEGIN -->
-	<div class="addthis_toolbox addthis_default_style">
-		<a class="addthis_button_tweet"></a>
-		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-		<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
-		<a class="addthis_counter addthis_pill_style"></a>
-	</div>
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ce2e475fde5f48"></script>
-	<!-- AddThis Button END -->
-</div>
-<hr/>
+  <hr>
 
-<div class="comments">
-<div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = 'ergosome';
+  <div class="post-content">
+    {{ content }}
+  </div>
 
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</div>
+  <hr>
+
+  <footer>
+    <p class="meta">
+      {% if page.categories.size > 0 %}
+        Categories:
+        {% for category in page.categories %}
+          <span class="category">{{ category }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </p>
+  </footer>
+</article>

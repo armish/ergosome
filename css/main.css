@@ -145,6 +145,7 @@ a:hover   { color: #000; }
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
+  overflow-x: auto;
 }
 
 .post ul, .post ol {
@@ -163,7 +164,48 @@ a:hover   { color: #000; }
 
 .post img {
 	border: 1px solid #eee;
-	width: 100%;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 1em auto;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.post-content h3 {
+  font-size: 22px;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.post-content h4 {
+  font-size: 20px;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.post-content blockquote {
+  border-left: 3px solid #ccc;
+  margin-left: 0;
+  padding-left: 1em;
+  font-style: italic;
+  color: #666;
+}
+
+.post header .meta {
+  font-size: 16px;
+  color: #999;
+  margin-bottom: 0.5em;
+}
+
+.post footer .category {
+  background-color: #f0f0f0;
+  padding: 0.2em 0.5em;
+  border-radius: 3px;
+  font-size: 14px;
 }
 
 /* terminal */
