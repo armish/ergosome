@@ -1,5 +1,30 @@
-name: Ergosome
-markdown: redcarpet
-pygments: true
-baseurl: / 
-production_url: http://ergoso.me
+title: Ergosome
+description: "Computational biology and bioinformatics blog"
+author: "Arman"
+url: "http://ergoso.me"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
