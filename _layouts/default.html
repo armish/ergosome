@@ -6,6 +6,21 @@
 	<title>{{ site.title }} - {{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <!-- Open Graph meta tags for social media -->
+        <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+        <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+        <meta property="og:image" content="{{ site.url }}/img/min_logo.jpg" />
+        <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+        <meta property="og:site_name" content="{{ site.title }}" />
+
+        <!-- Twitter Card meta tags -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@armish" />
+        <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+        <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+        <meta name="twitter:image" content="{{ site.url }}/img/min_logo.jpg" />
+
         <!-- syntax highlighting CSS -->
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
 
