@@ -5,6 +5,8 @@ date:   2026-01-05 00:00:01
 categories: ai vibe research fas fasl cd95 apo1 tcr bcr
 ---
 
+[Part I]({{ site.baseurl }}{% link _posts/2025-12-29-gene-stories-tcr-rag-rag1-rag2.markdown %}) | [Part II]({{ site.baseurl }}{% link _posts/2026-01-01-gene-stories-tcr-aire.markdown %}) | Part III (you are reading this)
+
 If you have ever watched a crowd surge toward an emergency, sirens blaring and lights flashing, you have seen the good side of a fast response. But the real test of any system is not only how quickly it mobilizes. It is whether it can stand down once the crisis is over.
 
 The immune system faces this exact challenge: it can expand armies of lymphocytes in days, but when the threat passes, those armies must shrink cleanly and quietly. **FAS** (also known as **CD95** or **APO-1**) is one of the signals that makes this possible. When it works, immune responses resolve and self-tolerance holds. When it fails, immune cells linger like responders who never go home, filling lymph nodes, spilling into tissues, and sometimes turning their weapons inward.
@@ -107,3 +109,7 @@ So, in the case of self-reactive T cells and an immune system that cannot stop r
 10. [Hu et al., 2025 – Fas mediates apoptosis, inflammation, and host defense](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2025.1561102/full)
 11. [FDA label – Rapamune (sirolimus)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021083s069s070%2C021110s087s088lbl.pdf)
 12. [NIAID – Autoimmune Lymphoproliferative Syndrome (ALPS) Treatment](https://www.niaid.nih.gov/diseases-conditions/autoimmune-lymphoproliferative-syndrome-treatment)
+
+---
+
+[Part I]({{ site.baseurl }}{% link _posts/2025-12-29-gene-stories-tcr-rag-rag1-rag2.markdown %}) | [Part II]({{ site.baseurl }}{% link _posts/2026-01-01-gene-stories-tcr-aire.markdown %}) | Part III (you are reading this)

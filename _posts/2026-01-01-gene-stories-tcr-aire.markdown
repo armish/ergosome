@@ -5,6 +5,8 @@ date:   2026-01-01 00:00:01
 categories: ai vibe research aire rag2 vdj tcr bcr
 ---
 
+[Part I]({{ site.baseurl }}{% link _posts/2025-12-29-gene-stories-tcr-rag-rag1-rag2.markdown %}) | Part II (you are reading this) | [Part III]({{ site.baseurl }}{% link _posts/2026-01-05-gene-stories-tcr-fas-cd95.markdown %})
+
 Your immune system is a powerful guard dog, but it needs training. From the moment you are born, it has to learn the difference between intruders and you. Most of us never notice that training happening. But in rare cases, the lesson plan goes unexpectedly wrong, and the immune system grows up confused, lashing out at the body while letting some infections slip through.
 
 This post follows the trail from baffling patient cases to an unexpected culprit called **AIRE**, a tiny genetic teacher that helps the immune system recognize itself.
@@ -121,3 +123,7 @@ In that sense, APS-1 did something remarkable. It took a rare disorder and used 
 9. [Projection of an immunological self shadow within the thymus by the aire protein (PubMed)](https://pubmed.ncbi.nlm.nih.gov/12376594/)
 10. [Promiscuous gene expression in medullary thymic epithelial cells mirrors the peripheral self (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11600886/)
 11. [Aire deficient mice develop multiple features of APECED phenotype (Human Molecular Genetics, Oxford Academic)](https://academic.oup.com/hmg/article-abstract/11/4/397/550346)
+
+---
+
+[Part I]({{ site.baseurl }}{% link _posts/2025-12-29-gene-stories-tcr-rag-rag1-rag2.markdown %}) | Part II (you are reading this) | [Part III]({{ site.baseurl }}{% link _posts/2026-01-05-gene-stories-tcr-fas-cd95.markdown %})

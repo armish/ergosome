@@ -5,6 +5,7 @@ date:   2025-12-29 00:00:01
 categories: ai vibe research rag1 rag2 vdj tcr bcr
 ---
 
+Part I (you are reading this) | [Part II]({{ site.baseurl }}{% link _posts/2026-01-01-gene-stories-tcr-aire.markdown %}) | [Part III]({{ site.baseurl }}{% link _posts/2026-01-05-gene-stories-tcr-fas-cd95.markdown %})
 
 The adaptive immune system depends on a controlled act of genomic violence. To recognize an almost infinite variety of pathogens, developing lymphocytes deliberately break and rejoin their own DNA, assembling antigen receptor genes from modular fragments. For decades, immunologists understood the outcome of this process but not its cause: what enzyme could cut the genome so precisely, and why did it act only in immune cells?
 
@@ -72,3 +73,7 @@ From clever reporter assays to definitive knockout models, the RAG story exempli
 9. [Peter Mombaerts – Rita Allen Foundation Profile](https://ritaallen.org/all-scholars/peter-mombaerts/)
 10. [Cellular Memory Laboratory – Yoichi Shinkai](https://shinkai.riken.jp/en/member/shinkai.html)
 11. [The RAG Proteins in V(D)J Recombination: More Than Just a Nuclease](https://pmc.ncbi.nlm.nih.gov/articles/PMC31291/)
+
+---
+
+Part I (you are reading this) | [Part II]({{ site.baseurl }}{% link _posts/2026-01-01-gene-stories-tcr-aire.markdown %}) | [Part III]({{ site.baseurl }}{% link _posts/2026-01-05-gene-stories-tcr-fas-cd95.markdown %})
